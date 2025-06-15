@@ -1,0 +1,2345 @@
+CONTROLES CRÍTICOS DE TERRENO.GUÍA DE 
+CONTROLES 
+CRÍTICOS QUE 
+SALVAN VIDAS.CÓDIGO: SIGO-G-012
+VERSIÓN: 001
+FECHA: 06-03-2023
+PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. 2
+GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. ¿CUÁNDO Y DÓNDE 
+DEBEMOS UTILIZAR ESTOS 
+CONTROLES?GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.
+
+3
+Durante la elaboración del Análisis del Riesgo del Trabajo (ART), 
+al momento de identiﬁcar los Riesgos Críticos y sus controles 
+respectivos, asociados a las tareas a ejecutar (Rutinarias, No 
+Rutinarias, Críticas y Emergencias). Como elemento de soporte para los procesos de investigación 
+de Eventos Signiﬁcativos. Apoyo para reforzar los Controles Críticos durante las charlas de 
+seguridad de inicio de turno u otras. Contenido para actividades de capacitación y entrenamiento 
+SSO.
+
+Complemento para la elaboración de estándares de proceso, 
+procedimientos y/o instructivos de trabajo. PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Siguiente páginaRC03
+Choque / Colisión 
+/ Volcamiento de 
+vehículo.Contacto con 
+energía eléctrica.Caída distinto nivel. Aplastamiento / 
+Atrapamiento por 
+carga suspendida. Liberación 
+descontrolada de 
+energía.Caída de roca a
+cielo abierto. Incendio. Contacto con 
+material fundido.
+
+Caída a piques.Aplastamiento / 
+Atrapamiento por 
+caída de roca en 
+mina subterránea.Estallido de Roca. Concentración 
+ambiental peligrosa 
+de polvo y sílice.Deformación, 
+inestabilidad y colapso 
+de componentes en 
+pasillos, pisos y 
+barandas.Colapso estructural 
+en mina subterránea.
+
+Desprendimiento y 
+caída de talud en 
+mina cielo abierto.Choque / Colisión / 
+Volcamiento de 
+maquinarias
+Atropello.Exposición a 
+atmósferas 
+peligrosas en 
+espacios conﬁnados.Caída de objetos, 
+herramientas o 
+estructuras de 
+distinto nivel. Choque / Colisión / 
+Volcamiento de 
+equipos autónomos.
+
+Airblast 
+(Golpe de aire).Atrapamiento / 
+Aprisionamiento con 
+partes móviles.Contacto con 
+sustancias químicas 
+peligrosas.RC02 RC01
+RC06 RC05 RC04
+RC10
+RC13
+RC19
+RC23
+RC26RC09
+RC12
+RC18
+RC22
+RC25
+RC28RC07
+RC11
+RC16
+RC20
+RC24
+RC27ÍNDICE DE 
+RIESGOS CRÍTICOS
+Toca un ícono del índice para ir y veriﬁcar un Riesgo Crítico.4GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+ÍNDICE DE 
+RIESGOS CRÍTICOS
+Toca un ícono del índice para ir y veriﬁcar un Riesgo Crítico.5GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. RC15
+Exposición a 
+explosiones 
+(tronadura).Operaciones 
+Ferroviarias.Exposición a 
+avalancha.
+
+Exposición a bombeo 
+de agua barro.Exposición a arsénico 
+inorgánico.RC14 RC08
+RC21 RC17PARA LOS SIGUIENTES RIESGOS CRÍTICOS, SE APLICARÁN LAS PREGUNTAS DE 
+ACUERDO A LAS REGLAS QUE SALVAN LA VIDA 2020
+Las siguientes preguntas son transversales. Responda siempre, 
+independiente del Riesgo Crítico al que esté expuesto. ¿El trabajo que asignaré cuenta con 
+un estándar, procedimiento y/o 
+instructivo?¿Conozco el estándar, 
+procedimiento y/o instructivo del 
+trabajo que ejecutaré?
+
+¿Cuento con la autorización para 
+ingresar al área a ejecutar el 
+trabajo?¿Cuento con las competencias y 
+salud compatible para ejecutar el 
+trabajo? ¿Segregué y señalicé el área de 
+trabajo con los elementos según 
+diseño? ¿Conozco el número de teléfono o 
+frecuencia radial para dar aviso en 
+caso de emergencia, según 
+protocolo del área?
+
+¿Uso los EPP deﬁnidos para el 
+trabajo y se encuentran en buenas 
+condiciones?SUPERVISOR(A) TRABAJADOR(A)
+¿Veriﬁqué que el personal cuenta 
+con los elementos requeridos para 
+realizar la segregación y 
+señalización del área de trabajo, 
+según diseño?¿Durante la planiﬁcación del 
+trabajo, me aseguro de solicitar los 
+permisos para ingresar a las áreas, 
+intervenir equipos y/o interactuar 
+con energías?
+
+¿El personal a mi cargo cuenta con 
+sistema de comunicación de 
+acuerdo al protocolo de emergencia 
+del área?
+
+¿El personal que asignaré para 
+realizar el trabajo, cuenta con los 
+EPP deﬁnidos en el procedimiento 
+de trabajo?¿El personal que asignaré para 
+realizar el trabajo, cuenta con las 
+capacitaciones, certiﬁcaciones, 
+competencias, salud compatible y/o 
+acreditaciones requeridas?PREGUNTAS TRANSVERSALES
+PARA TODOS LOS RIESGOS6GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Eléctrico:
+
+¿La identiﬁcación y señalización de 
+los puntos para el corte de energía está de 
+acuerdo a lo deﬁnido en el procedimiento? Eléctrico: ¿El equipo de trabajo cuenta con las 
+tarjetas y candados personales para realizar el 
+bloqueo?Identiﬁcación y corte 
+efectivo de todas las 
+fuentes de energía. Aislación y bloqueo de 
+elementos de maniobra 
+eléctrica. Eléctrico:
+
+¿Los equipos utilizados para la 
+veriﬁcación de energía cero están certiﬁcados 
+por el proveedor y tienen su revisión al día?Veriﬁcación de ausencia 
+de tensión e instalación 
+de puesta a tierra. Todos los usuarios:
+
+¿Los tableros eléctricos 
+portátiles y herramientas eléctricas se 
+encuentran con sus mantenciones de acuerdo 
+al programa?Conexión de equipos 
+portátiles y herramientas 
+eléctricas a tableros 
+eléctricos autorizados.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02
+03
+04
+Protecciones en 
+sistemas eléctricos de 
+baja, media y alta 
+tensión.CONTROL MITIGADOR PREGUNTAS
+05Eléctrico:
+
+¿Las protecciones de los equipos a 
+intervenir se encuentran con sus mantenciones 
+al día?SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONTACTO CON ENERGÍA 
+ELÉCTRICA.RC01
+Arco eléctrico / electrocución.EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+INTERACCIÓN CON ENERGÍA ELÉCTRICA.7GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Electricista: ¿Identiﬁqué el equipo y los puntos 
+para el corte de energía (Aislación y bloqueo)? Electricista: ¿Instalé bloqueo con tarjeta(s) y 
+candado(s) personal en el o los puntos y 
+equipos correspondientes?Identiﬁcación y corte 
+efectivo de todas las 
+fuentes de energía. Aislación y bloqueo de 
+elementos de maniobra 
+eléctrica. Electricista:
+
+¿Realicé y/o participé en las 
+pruebas de veriﬁcación de ausencia de tensión 
+y veriﬁqué la puesta a tierra antes de iniciar el 
+trabajo?Veriﬁcación de ausencia 
+de tensión e instalación 
+de puesta a tierra. Todos los usuarios: ¿Veriﬁqué según check list 
+de pre uso, que el tablero eléctrico portátil y/o 
+herramienta eléctrica está en buen estado?
+
+Conexión de equipos 
+portátiles y herramientas 
+eléctricas a tableros 
+eléctricos autorizados.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02
+03
+04
+Protecciones en 
+sistemas eléctricos de 
+baja, media y alta 
+tensión.CONTROL MITIGADOR PREGUNTAS
+05Electricista: ¿Identiﬁqué las protecciones a los 
+equipos a intervenir y si están operativas?TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONTACTO CON ENERGÍA 
+ELÉCTRICA.RC01
+Arco eléctrico / electrocución.EVENTO NO DESEADO: EVENTO DE RIESGO: INTERACCIÓN CON ENERGÍA ELÉCTRICA.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 8PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué que la plataforma ﬁja temporal se 
+encuentra autorizada por personal 
+competente?
+
+¿Veriﬁqué que se cumple con el programa de 
+mantenimiento e inspección de las plataformas 
+móviles?Instalación, operatividad 
+y mantenimiento de 
+plataformas ﬁjas 
+temporales. Instalación, operatividad 
+y mantenimiento de 
+plataformas móviles.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02
+Sistemas personales de 
+detención de caídas.CONTROL MITIGADOR PREGUNTAS
+03¿Veriﬁqué que el equipo de protección 
+personal para trabajos en altura son los 
+deﬁnidos para el trabajo?
+
+Respuesta a emergencia 
+en caída o rescate en 
+altura.04¿Se dispone de un plan especíﬁco de 
+emergencia para trabajos en altura y cuenta 
+con los recursos necesarios para el rescate (ej. Personal instruido para dar respuesta a la 
+emergencia, kit de emergencia, manlift, 
+pértigas, entre otros)?
+
+Dispositivos de anclaje y 
+sus componentes.05¿Me aseguré que se cumple el plan de 
+mantenimiento de las líneas de vida y sus 
+puntos de anclaje?CAÍDA DISTINTO NIVEL.RC02
+SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EVENTO NO DESEADO: PÉRDIDA DE EQUILIBRIO TRABAJO EN ALTURA 
+FÍSICA.EVENTO DE RIESGO:
+
+9GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Plataforma ﬁja temporal: ¿Veriﬁqué que la 
+plataforma ﬁja temporal, se encuentra en buen 
+estado, operativa y esté autorizada por la 
+supervisión para su uso según diseño? Operador Plataforma móvil:
+
+¿Veriﬁqué el 
+entorno a mi área de trabajo, estado del piso y 
+estado de la plataforma móvil antes de usarla 
+de acuerdo a lista de chequeo?Instalación, operatividad 
+y mantenimiento de 
+plataformas ﬁjas 
+temporales. Instalación, operatividad 
+y mantenimiento de 
+plataformas móviles.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02
+Sistemas personales de 
+detención de caídas.CONTROL MITIGADOR PREGUNTAS
+03¿Realicé el chequeo de pre uso del equipo de 
+protección personal para trabajos en altura?
+
+Respuesta a emergencia 
+en caída o rescate en 
+altura.04¿Estoy en conocimiento del protocolo de 
+comunicación y actuación frente a una 
+emergencia durante los trabajos en altura? Dispositivos de anclaje y 
+sus componentes.05¿Me aseguré que los dispositivos de anclaje 
+(puntos de anclaje móviles o ﬁjos) y sus 
+componentes están operativos y autorizados 
+antes de usarlos?TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CAÍDA DISTINTO NIVEL.RC02
+EVENTO NO DESEADO: PÉRDIDA DE EQUILIBRIO TRABAJO EN ALTURA 
+FÍSICA.EVENTO DE RIESGO: GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 10PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. CONTROL PREVENTIVO PREGUNTASAPLASTAMIENTO / 
+ATRAPAMIENTO POR CARGA 
+SUSPENDIDA. N°RC03
+¿Aseguré la entrega de radio a operador y 
+rigger durante la jornada?
+
+¿Veriﬁqué que el equipo se encuentra con las 
+mantenciones al día?Sistema de comunicación 
+bidireccional entre 
+operador y rigger. ¿Realicé coordinación y planiﬁcación con el 
+equipo de trabajo antes de ejecutar maniobras 
+de izaje?¿El plan de Izaje está confeccionado acorde al 
+trabajo a realizar?
+
+Sistema de estabilidad en 
+equipos para realizar 
+maniobras de izaje.Sistemas y dispositivos 
+activos de monitoreo, 
+condiciones de operación 
+de equipo de izaje o 
+levante.01
+02
+03
+04SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+PÉRDIDA DE CONTROL MANIOBRAS DE IZAJE.11GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. CONTROL PREVENTIVO PREGUNTAS N°
+¿Realicé pruebas de comunicación entre 
+operador y rigger? ¿Apliqué el check list del equipo antes de 
+realizar las maniobras de izaje?Sistema de comunicación 
+bidireccional entre 
+operador y rigger. ¿Tengo instalado los estabilizadores al 100% 
+con sus respectivas almohadillas en sus bases 
+sin riesgos de volcamiento?
+
+¿Veriﬁqué que los elementos y los equipos de 
+izaje, son los indicados en el plan de izaje y que 
+se encuentran en buen estado para la 
+maniobra?¿Las condiciones climáticas y del entorno 
+(estructuras, líneas eléctricas, etc.) permiten 
+realizar las maniobras de izaje de manera 
+segura?¿Cuento con un plan de izaje aprobado para 
+realizar la maniobra?
+
+Sistema de estabilidad en 
+equipos para realizar 
+maniobras de izaje.Sistemas y dispositivos 
+activos de monitoreo, 
+condiciones de operación 
+de equipo de izaje o 
+levante.01
+02
+03
+04
+05
+06TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.
+
+12
+APLASTAMIENTO / 
+ATRAPAMIENTO POR CARGA 
+SUSPENDIDA.RC03
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL MANIOBRAS DE IZAJE.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Cuento con el procedimiento vigente para la 
+identiﬁcación, aislación, bloqueo y veriﬁcación 
+de energía cero o residual en equipos, 
+maquinarias e instalaciones a intervenir? Identiﬁcación, aislación, 
+bloqueo y veriﬁcación de 
+energía cero.
+
+Dispositivos de detección, 
+medición, regulación y 
+control de energías.¿Veriﬁqué que mi equipo de trabajo cuenta 
+con los elementos adecuados, para realizar el 
+bloqueo y veriﬁcación de energía cero o 
+residual en equipos, maquinarias e 
+instalaciones a intervenir? ¿Me aseguré que el personal cuenta con los 
+elementos para detección, medición, 
+regulación y control de energías?
+
+¿Me aseguré que el personal cuenta con los 
+dispositivos de contención de energía?Dispositivos de seguridad 
+parala liberación y/o 
+contención de energía.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°01
+02
+03
+04SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.LIBERACIÓN DESCONTROLADA
+DE ENERGÍAS.RC04
+EVENTO NO DESEADO:
+
+EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE ENERGÍAS DE ALTA 
+INTENSIDAD/ PRESIÓN.13GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Identiﬁqué los puntos para el corte de energía 
+(Aislación), en el o los equipos, maquinarias e 
+instalaciones a intervenir?Identiﬁcación, aislación, 
+bloqueo y veriﬁcación de 
+energía cero.
+
+Dispositivos de detección, 
+medición, regulación y 
+control de energías.¿Realicé el bloqueo y veriﬁqué energía cero o 
+residual en equipos, según procedimiento en 
+equipos, maquinarias e instalaciones a 
+intervenir? ¿Veriﬁqué los elementos para control y/o 
+ausencia de energía en los sistemas que 
+intervendré? ¿Veriﬁqué que los dispositivos de de seguridad 
+para la liberación y/o contención de energías se 
+encuentran operativos e instalados según 
+estándar? (Ej.:
+
+Cadenas, piolas y/o mallas de 
+seguridad, barreras, entre otros)CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°01
+02
+03
+04TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.RC04
+EVENTO NO DESEADO: EVENTO DE RIESGO: GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 14PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+LIBERACIÓN DESCONTROLADA
+DE ENERGÍAS. Dispositivos de seguridad 
+parala liberación y/o 
+contención de energía.PÉRDIDA DE CONTROL DE ENERGÍAS DE ALTA 
+INTENSIDAD/ PRESIÓN. 01
+02¿Me aseguro de veriﬁcar, ejecutar y registrar el plan 
+de saneamiento, limpieza de bermas y taludes? ¿Veriﬁqué el registro del personal que realiza 
+saneamiento?
+
+¿Me aseguré que le registro del personal de 
+saneamiento está actualizado y ejecuto inspección 
+visual de las áreas a intervenir?Saneamiento, limpiezas 
+de bermas y taludes. ¿Dispongo del mapa de riesgos geotécnicos 
+actualizado y sus respectivas recomendaciones 
+para las zonas donde se trabajará?Levantamiento, 
+identiﬁcación y vigilancia 
+de áreas con zona de 
+riesgos.
+
+¿Mantengo al día la información de aﬂoramiento de 
+agua en las zonas donde se trabajará?Drenajes y canalización 
+de aﬂoramiento de agua.¿Me aseguro que está (n) siendo gestionada (s) la (s) 
+métrica (s) de rendimiento del control topográﬁco y 
+rebaje de altura en frente de carguío, botaderos y 
+stock?Control topográﬁco y 
+rebaje de altura en frente 
+de carguío, botaderos y 
+stock.
+
+¿Me aseguro de implementar los sistemas de 
+contención de caídas de rocas según diseño 
+actualizado y aprobado para las zonas donde se 
+trabajará? Sistemas de contención 
+de caídas de rocas.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS
+N°
+N°03
+04
+05SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CAÍDA DE ROCA A CIELO 
+ABIERTO.RC05
+Aplastamiento / atrapamiento. EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE ROCAS EN 
+OPERACIONES MINERAS A CIELO ABIERTO.EVENTO NO DESEADO:15GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. 01
+02Operador de carguío y transporte:
+
+¿Me aseguré 
+de que el área se normalizó y saneo antes de 
+realizar mis labores? Operador de perforación: ¿Antes de empezar a 
+perforar, me aseguré de que no exista material 
+colgado (rocas) en el talud del banco superior?Saneamiento, limpiezas 
+de bermas y taludes. ¿Me dieron a conocer el mapa de riesgos 
+geotécnicos actualizado y sus respectivas 
+recomendaciones, para las zonas donde se 
+trabajará?.
+
+Entiendo el signiﬁcado respecto a la 
+evaluación e información entregada en el mapa y 
+sé cómo actuar antes de ingresar al área.Levantamiento, 
+identiﬁcación y vigilancia 
+de áreas con zona de 
+riesgos. ¿Veriﬁqué la existencia de aﬂoramientos de agua 
+que inducen caída de material y rocas?Drenajes y canalización 
+de aﬂoramiento de agua.Operador de carguío y transporte:
+
+¿Me aseguré 
+que la altura de las frentes de carguío está acorde al 
+análisis de riesgos según modelo y marca de los 
+equipos mineros?Control topográﬁco y 
+rebaje de altura en frente 
+de carguío, botaderos y 
+stock. ¿Me aseguro antes de trabajar (cercano a pilas, 
+bancos, taludes, etc.) que el sistema de 
+contención de caídas de rocas está bien 
+instalado?, ejemplo:
+
+mallas, pretiles, etc.Sistemas de contención 
+de caídas de rocas.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°03
+04
+05Personal que realiza saneamiento: ¿Realicé 
+inspección visual, veriﬁqué y registré que las áreas a 
+intervenir estén libres de riesgos eminente o 
+potencial de caídas de rocas antes del ingreso a 
+trabajar? TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CAÍDA DE ROCA A CIELO 
+ABIERTO.RC05
+Aplastamiento / atrapamiento. EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE ROCAS EN 
+OPERACIONES MINERAS A CIELO ABIERTO.EVENTO NO DESEADO:GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 16PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Mantengo documentada y actualizada la 
+identiﬁcación de las zonas, áreas e 
+instalaciones susceptibles de generar un 
+incendio para las zonas donde se trabajará? ¿Cuento con el permiso para que mi equipo 
+ejecute trabajos en caliente?Identiﬁcación y mapeo de 
+áreas críticas. (almacenamiento, zonas 
+inﬂamables, etc.).
+
+¿Identiﬁqué y veriﬁqué la segregación y 
+contención de los elementos combustibles e 
+inﬂamables presentes en mi área de trabajo?Condiciones de 
+almacenamiento, 
+separación y 
+manipulación de 
+materiales inﬂamables y 
+combustibles. ¿Mi equipo cuenta con los sistemas contra 
+incendio acorde al trabajo a ejecutar?Dispositivos de alarma y 
+equipos extinción de 
+incendios.Planiﬁcación, segregación 
+y ejecución de trabajos en 
+caliente.
+
+CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°02
+03
+0401SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.INCENDIO.RC06
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL VARIABLES DEL FUEGO.17GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Identiﬁqué en el mapa de riesgos las áreas 
+susceptibles de incendio? ¿Instalé la segregación, letreros, biombos y 
+mantas ignífugas para ejecutar trabajo en 
+caliente?Identiﬁcación y mapeo de 
+áreas críticas. (almacenamiento, zonas 
+inﬂamables, etc.). ¿Segregué los materiales inﬂamables 
+presentes en el lugar de trabajo?Condiciones de 
+almacenamiento, 
+separación y 
+manipulación de 
+materiales inﬂamables y 
+combustibles.
+
+¿Cuento con equipo contra incendio operativo 
+para ejecutar el trabajo, se encuentra 
+accesible?Dispositivos de alarma y 
+equipos extinción de 
+incendios.Planiﬁcación, segregación 
+y ejecución de trabajos en 
+caliente. CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°02
+03
+0401TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.INCENDIO.RC06
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL VARIABLES DEL FUEGO.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 18PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Me aseguré que la sustancia química que utilizaré está 
+validada para su uso y manipulación por el centro de 
+trabajo?
+
+¿Cuento con el listado de sustancias químicas a utilizar 
+con sus respectivas Hojas de datos de seguridad?Análisis de la factibilidad del 
+uso y manipulación de 
+sustancias químicas 
+peligrosas en el proceso 
+(incluido el cambio).
+
+Identiﬁcación, clasiﬁcación 
+(peligrosidad) y señalización.CONTROL PREVENTIVO PREGUNTAS
+¿Me aseguré que los equipos a utilizar en el manejo de 
+sustancias peligrosas cuentan con su mantenimiento al 
+día?Operación y mantenimiento 
+de infraestructura, 
+instalaciones y equipos 
+utilizados en el manejo de 
+sustancias químicas 
+peligrosas.N°
+01
+02
+¿El equipo de trabajo cuenta con los bloqueos 
+personales para realizar el corte de energía (aislación), en 
+el o los equipos, maquinaria, instalaciones y/o sistemas?Aislar, bloquear, veriﬁcar 
+energía cero y drenaje 
+(reubicación de material).04
+¿Me aseguré que los componentes utilizados para la 
+segregación y señalética están disponibles según 
+estándar?
+
+Segregación y control de 
+acceso al área.0503
+¿El área y mi personal cuenta con los sistemas de 
+detección y alarma de fugas calibrado que se requiere 
+para ingreso y ejecución de la tarea?, según aplique.
+
+¿Cuento con los dispositivos y/o elementos de 
+contención y conﬁnamiento de derrame según tipo de 
+sustancia química peligrosa a utilizar?CONTROL MITIGADOR PREGUNTAS N°
+¿Me aseguro que mis trabajadores cuenten con EPP 
+adecuados para el uso y manipulación de sustancias 
+químicas peligrosas?Elementos de protección 
+personal para el manejo de 
+sustancias químicas 
+peligrosas.07Dispositivos y/o elementos de 
+contención y conﬁnamiento 
+de derrames/fugas.06
+¿Conozco el plan especíﬁco de respuesta ante 
+emergencias químicas y se lo informé a mis 
+trabajadores?
+
+¿Estoy coordinado con las unidades de 
+emergencias cuando aplique?Respuesta ante emergencias 
+químicas y urgencias 
+médicas.08SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONTACTO CON SUSTANCIAS
+QUÍMICAS PELIGROSAS.RC07
+EVENTO NO DESEADO: PÉRDIDA DE CONTROL DEL MANEJO DE 
+SUSTANCIAS QUÍMICAS PELIGROSAS.EVENTO DE RIESGO:
+
+19GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Conozco los riesgos de la sustancia química a utilizar y 
+los controles que debo aplicar? ¿Estoy capacitado para operar los equipos para el 
+manejo de las sustancias peligrosas?Identiﬁcación, clasiﬁcación 
+(peligrosidad) y señalización.
+
+Operación y mantenimiento 
+de infraestructura, 
+instalaciones y equipos 
+utilizados en el manejo de 
+sustancias químicas 
+peligrosas.CONTROL PREVENTIVO PREGUNTAS
+¿Instalé bloqueo personal en el o los puntos y equipos 
+correspondientes para el corte de energía (aislación)?Aislar, bloquear, veriﬁcar 
+energía cero y drenaje 
+(reubicación de material).N°
+01
+02
+¿Entiendo y respeto la señalética de segregación y 
+control de acceso para el manejo seguro de sustancias 
+químicas peligrosas?Segregación y control de 
+acceso al área.0403
+¿Sé como proceder cuando se activa la alarma de 
+detección de fugas de sustancias químicas peligrosas?
+
+¿Dispongo de un kit de contención para derrames antes 
+de iniciar mi trabajo?CONTROL MITIGADOR PREGUNTAS N°
+¿Estoy capacitado para el uso de los EPP especíﬁcos para 
+la tarea?Elementos de protección 
+personal para el manejo de 
+sustancias químicas 
+peligrosas.06Dispositivos y/o elementos de 
+contención y conﬁnamiento 
+de derrames/fugas.05
+¿Estoy capacitado para actuar ante una emergencia 
+química?Respuesta ante emergencias 
+químicas y urgencias 
+médicas.07TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONTACTO CON SUSTANCIAS
+QUÍMICAS PELIGROSAS.RC07
+EVENTO NO DESEADO: PÉRDIDA DE CONTROL DEL MANEJO DE 
+SUSTANCIAS QUÍMICAS PELIGROSAS.EVENTO DE RIESGO: GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 20PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Veriﬁqué que las áreas con partes móviles de 
+equipos y/o máquinas, cuentan con guardas y 
+protecciones que impidan la interacción con el 
+movimiento y estas se encuentran en buen 
+estado?
+
+¿El personal asignado para la ejecución del 
+trabajo, se encuentra capacitado para realizar 
+trabajos con exposición a piezas en 
+movimiento o partes móviles y además 
+cuentan con la ropa y elementos de trabajo 
+adecuados para la actividad?Guardas y protecciones 
+de equipos y máquinas 
+con sistemas con partes 
+móviles. Competencias para el 
+personal que interactúa 
+con equipos y/o 
+máquinas con sistemas 
+con partes móviles.
+
+¿Veriﬁqué que las paradas de emergencias 
+asociadas a equipos con piezas en movimiento 
+o partes móviles, se encuentran operativas y en 
+buen estado?Sistemas de parada de 
+emergencia.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°01
+¿Veriﬁqué que mi equipo de trabajo cuenta 
+con los elementos adecuados, para realizar el 
+bloqueo de energías en equipos, maquinarias,
+instalaciones y sistemas?Desenergización, 
+bloqueo y veriﬁcación de 
+energía cero del sistema 
+de control de equipos y 
+máquinas con partes 
+móviles.0302
+03SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.ATRAPAMIENTO / 
+APRISIONAMIENTO CON PARTES 
+MÓVILES.RC09
+Lesión a las personas.EVENTO NO DESEADO: EVENTO DE RIESGO: INTERACCIÓN CON PARTES MÓVILES.21GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Veriﬁqué que existan guardas o protecciones 
+en zonas donde hay piezas en movimiento o 
+partes móviles y estas se encuentran en buen 
+estado? ¿Me aseguré de no usar elementos que 
+puedan ser atrapados por partes o pieza 
+móviles de equipos? Guardas y protecciones 
+de equipos y máquinas 
+con sistemas con partes 
+móviles. Competencias para el 
+personal que interactúa 
+con equipos y/o 
+máquinas con sistemas 
+con partes móviles.
+
+¿Estoy en conocimiento de como activar los 
+sistemas de parada de emergencias de mi área 
+de trabajo?Sistemas de parada de 
+emergencia.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°01
+02
+03TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.ATRAPAMIENTO / 
+APRISIONAMIENTO CON PARTES 
+MÓVILES.RC09
+Lesión a las personas.EVENTO NO DESEADO: EVENTO DE RIESGO: INTERACCIÓN CON PARTES MÓVILES.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 22PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Realicé el bloqueo y veriﬁqué energía cero 
+(dispositivos de lectura, partida local o remota) 
+del equipo, sistema o sistemas que voy a 
+intervenir?Desenergización, 
+bloqueo y veriﬁcación de 
+energía cero del sistema 
+de control de equipos y 
+máquinas con partes 
+móviles.03
+¿Veriﬁqué que los conductores a mi cargo 
+realizaron su autoevaluación de condiciones 
+físicas y psicológicas antes de conducir?Sistema de gestión de 
+fatiga.04¿Informé a mi equipo de trabajo el estado de 
+las rutas y sus restricciones?
+
+¿Veriﬁqué que el personal cuenta con las 
+licencias de conducir acorde al tipo de 
+vehículo?Sistema de gestión de 
+tránsito y ruta. Conducción competente 
+y sistema de gestión de 
+conductas.CONTROL PREVENTIVO PREGUNTAS
+¿Veriﬁqué que los equipos livianos se 
+encuentran con sus mantenciones vigentes?Sistemas de seguridad 
+activos.N°
+01
+02
+03SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CHOQUE / COLISIÓN / 
+VOLCAMIENTO DE VEHÍCULO.RC10
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE VEHÍCULO.23GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Realicé la autoevaluación de condiciones 
+físicas y psicológicas antes de conducir?Sistema de gestión de 
+fatiga.04¿Me informé del estado de la ruta y sus 
+restricciones? (velocidad, reparaciones y 
+autorizaciones necesarias, establecidas en el 
+Plan de tránsito)
+¿Cuento con la licencia especíﬁca para el tipo 
+de vehículo que conduzco?Sistema de gestión de 
+tránsito y ruta.
+
+Conducción competente 
+y sistema de gestión de 
+conductas.CONTROL PREVENTIVO PREGUNTAS
+¿Apliqué la lista de chequeo de vehículo 
+liviano?Sistemas de seguridad 
+activos.N°
+01
+02
+03TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CHOQUE / COLISIÓN / 
+VOLCAMIENTO DE VEHÍCULO.RC10
+EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+PÉRDIDA DE CONTROL DE VEHÍCULO.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 24PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. EXPOSICIÓN A ATMÓSFERAS 
+PELIGROSAS EN ESPACIOS 
+CONFINADOS. ¿Cuento con el catastro de los espacios conﬁnados 
+de mi área de trabajo y este señala la clasiﬁcación 
+de dichos espacios?Identiﬁcación y 
+clasiﬁcación de espacios 
+conﬁnados. ¿Cuento con un procedimiento especíﬁco para 
+intervenir el espacio conﬁnado?
+
+¿Me aseguro de disponer de un vigía en forma 
+permanente fuera del espacio conﬁnado durante 
+los trabajos? ¿El vigía cuenta con radio de 
+comunicación para contactarse con 
+trabajadores(as) que ingresarán al espacio 
+conﬁnado?
+
+¿Me aseguro que se realice la preparación previa 
+del espacio conﬁnado establecido en el 
+procedimiento (drenado, purgado, lavado, 
+inertización, ventilación forzada)?Planiﬁcación, 
+preparación, segregación, 
+control de acceso, 
+ejecución y vigía en 
+trabajos en espacios 
+conﬁnados (inertización, 
+lavado, purgado, drenado 
+y ventilación, según 
+corresponda).CONTROL PREVENTIVO PREGUNTASRC11
+N°
+01
+02
+03
+04
+¿El equipo de trabajo cuenta con los dispositivos 
+para un bloqueo efectivo de las energías peligrosas 
+de este espacio conﬁnado?Identiﬁcación, bloqueo, 
+contención, veriﬁcación 
+de energía cero, gases, 
+ﬂuidos en espacios 
+conﬁnados.
+
+07¿Mis trabajadores(as) cuentan con los elementos 
+de protección respiratoria especíﬁcos para el 
+espacio conﬁnado especíﬁco a intervenir?Equipos y elementos de 
+apoyo a la respiración 
+(equipo asistido, presión 
+negativa, autónomo y de 
+línea).06¿Cuento con personal capacitado y entrenado para 
+realizar las mediciones en el espacio conﬁnado?, 
+¿Los equipos de medición son los apropiados para 
+medir los agentes presentes en el espacio 
+conﬁnado?, ¿Los equipos se encuentran calibrados 
+según lo indica el fabricante?Medición y monitoreo de 
+variables críticas 
+(temperatura, toxicidad, 
+explosividad y nivel de 
+oxígeno).05SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EVENTO DE RIESGO: INTERACCIÓN CON ESPACIOS CONFINADOS.EVENTO NO DESEADO:25GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿El espacio conﬁnado que voy a intervenir está 
+señalizado? ¿La señalética indica su 
+clasiﬁcación y los gases/temperatura a 
+monitorear?Identiﬁcación y 
+clasiﬁcación de espacios 
+conﬁnados.
+
+¿Conozco los peligros presentes en el espacio 
+conﬁnado (gases, deﬁciencia de óxigeno, 
+temperatura)?
+
+Planiﬁcación, 
+preparación, segregación, 
+control de acceso, 
+ejecución y vigía en 
+trabajos en espacios 
+conﬁnados (Inertización, 
+lavado, purgado, drenado 
+y ventilación, según 
+corresponda).CONTROL PREVENTIVO PREGUNTAS N°
+01
+02
+¿Conozco las energías peligrosas que deben 
+bloquearse antes de intervenir en este espacio 
+conﬁnado?Identiﬁcación, bloqueo, 
+contención, veriﬁcación 
+de energía cero, gases, 
+ﬂuidos en espacios 
+conﬁnados.
+
+05¿He sido capacitado en el correcto uso de la 
+protección respiratoria seleccionada para 
+intervenir este espacio conﬁnado?Equipos y elementos de 
+apoyo a la respiración 
+(Equipo asistido, presión 
+negativa, autónomo y de 
+línea)04¿Conozco los rangos aceptables de gases y 
+temperatura para permanecer al interior del 
+espacio conﬁnado?, ¿Sé cómo proceder 
+cuando se activa la alarma de un equipo?Medición y monitoreo de 
+variables críticas 
+(Temperatura, Toxicidad, 
+Explosividad y Nivel de 
+oxígeno).03TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN A ATMÓSFERAS 
+PELIGROSAS EN ESPACIOS 
+CONFINADOS.RC11
+EVENTO DE RIESGO: INTERACCIÓN CON ESPACIOS CONFINADOS.EVENTO NO DESEADO:GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 26PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Me aseguré que las condiciones de 
+humedad del entorno y realicé chequeo de 
+funcionamiento del sistema de bombeo?Sistema de drenaje y/o 
+bombeo de agua en piso 
+nave (HLE, CT, CPS, HF y 
+horno de reﬁno). ¿El personal que asignaré para realizar el 
+trabajo, cuenta con los EPP especíﬁcos 
+deﬁnidos en el procedimiento de trabajo?CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASCONTACTO CON MATERIAL 
+FUNDIDO.
+
+Uso de EPP especíﬁco 
+para exposición a 
+radiación, alta 
+temperatura y proyección 
+de material fundido.RC12
+N°
+N°01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.Derrame / Explosión / Proyección violenta 
+de líquidos fundidos.EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+INTERACCIÓN CON METALES FUNDIDOS.27GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Uso los EPP deﬁnidos para el trabajo y se 
+encuentran en buenas condiciones? (Traje, 
+pechera, polainas, guantes, careta facial)CONTROL MITIGADOR PREGUNTAS
+Uso de EPP especíﬁco 
+para exposición a 
+radiación, alta 
+temperatura y proyección 
+de material fundido.N°
+01TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONTACTO CON MATERIAL 
+FUNDIDO.RC12
+Derrame / Explosión / Proyección violenta 
+de líquidos fundidos.EVENTO NO DESEADO: EVENTO DE RIESGO: INTERACCIÓN CON METALES FUNDIDOS.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 28PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Planiﬁqué y coordiné adecuadamente los 
+trabajos a realizar, con foco en la no existencia 
+de trabajos en la vertical?Planiﬁcación, análisis y 
+autorización para 
+trabajos en la vertical. ¿Veriﬁqué la correcta segregación y uso de 
+elementos adecuados para aquello?Señalización y 
+segregación de niveles 
+inferiores para trabajos 
+en la vertical.
+
+¿Veriﬁqué que el personal que ejecutará los 
+trabajos cuente con los elementos de sujeción 
+de herramientas y contención para objetos o 
+materiales que puedan caer desde altura?Sistema de protección 
+de equipos, elementos 
+de sujeción y contención 
+para caídas de objetos.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASCAÍDA DE OBJETOS, 
+HERRAMIENTAS O ESTRUCTURAS 
+DE DISTINTO NIVEL.
+
+¿Veriﬁqué la ejecución del plan de inspección 
+y limpieza especíﬁca para estructuras que 
+contengan objetos o material que pueda caer 
+desde altura?Inspección y limpieza de 
+estructuras que 
+contienen objetos en 
+altura.RC13
+N°
+01
+N°
+03
+0402SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+PÉRDIDA DE CONTROL DE OBJETOS EN ALTURA.29GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué efectivamente que no existan 
+trabajos en la vertical al momento de iniciar la 
+tarea? Planiﬁcación, análisis y 
+autorización para 
+trabajos en la vertical. ¿Veriﬁqué que los niveles inferiores se 
+encuentren señalizados y segregados (360°), 
+restringiendo el acceso de personas a la zona 
+inferior de trabajo?
+
+Señalización y 
+segregación de niveles 
+inferiores para trabajos 
+en la vertical.
+
+¿Cuento que los elementos de sujeción 
+(herramientas menores) y contención para 
+objetos o materiales que puedan caer desde 
+altura, y los uso adecuadamente?Sistema de protección 
+de equipos, elementos 
+de sujeción y contención 
+para caídas de objetos.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS¿Veriﬁqué que no existan objetos sobre o entre 
+medio de estructuras de equipos que puedan 
+caer a distinto nivel y golpear a una o varias 
+personas?Inspección y limpieza de 
+estructuras que 
+contienen objetos en 
+altura.N°
+01
+N°
+03
+0402TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CAÍDA DE OBJETOS, 
+HERRAMIENTAS O ESTRUCTURAS 
+DE DISTINTO NIVEL.RC13
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE OBJETOS EN ALTURA.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 30PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué que el plan de mantenimiento de 
+los puntos de vaciado se mantenga al día?
+
+¿Veriﬁqué que los puntos de vaciado en 
+mantenimiento / construcción, se encuentran 
+tapados?Diseño y construcción de 
+puntos de vaciado, 
+chimeneas y piques. Señalización, 
+segregación, iluminación 
+y control de acceso en 
+puntos de vaciado 
+(mallas de control de 
+acceso y ring de 
+seguridad).
+
+¿Me aseguro que mis trabajadores cuenten 
+con EPP adecuado para la exposición al riesgo 
+de caída a pique?CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS¿En las áreas de trabajo tengo identiﬁcados 
+piques, chimeneas y/o puntos de vaciado 
+abandonados?Tapados herméticos de 
+áreas abandonadas o 
+discontinuidad 
+operacional y 
+constructiva.
+
+Sistemas personal para 
+detención de caídas 
+(SPDC) en la construcción 
+de chimeneas y piques.RC16
+N°
+01
+02
+03
+N°
+04SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.Caída de personas y equipos / Asﬁxia.CAÍDA A PIQUES.EVENTO NO DESEADO: INTERACCIÓN CON PUNTOS DE VACIADOS, 
+CHIMENEAS Y PIQUES.EVENTO DE RIESGO:
+
+31GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué que los puntos de vaciado cuentan 
+con muros tope que impidan la caída, que no 
+presenten daño y que se encuentren limpios? ¿Veriﬁqué que la señalética, segregación, 
+iluminación, puntos de anclaje con líneas de 
+vida y control de acceso de acuerdo a 
+estándar?Diseño y construcción de 
+puntos de vaciado, 
+chimeneas y piques.
+
+Señalización, 
+segregación, iluminación 
+y control de acceso en 
+puntos de vaciado 
+(mallas de control de 
+acceso y ring de 
+seguridad). ¿Uso los EPP deﬁnidos para el trabajo y se 
+encuentran en buenas condiciones?
+
+(cola de 
+seguridad y arnés de seguridad) CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS¿Me aseguro de estar informado de las áreas 
+donde se encuentran piques, chimeneas y/o 
+puntos de vaciado abandonados?Tapados herméticos de 
+áreas abandonadas o 
+discontinuidad 
+operacional y 
+constructiva. Sistemas personal para 
+detención de caídas 
+(SPDC) en la construcción 
+de chimeneas y piques.N°
+01
+02
+03
+N°
+04TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.RC16
+Caída de personas y equipos / Asﬁxia.CAÍDA A PIQUES.EVENTO NO DESEADO: INTERACCIÓN CON PUNTOS DE VACIADOS, 
+CHIMENEAS Y PIQUES.EVENTO DE RIESGO: GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 32PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Me aseguré que el personal revise la frente, 
+galerías, fortiﬁcación y sectores con riesgo de 
+caída de roca después de un proceso de 
+tronadura? Operación de equipo remoto: ¿El programa de 
+mantenimiento de los equipos de operación 
+remota se ejecuta de acuerdo a lo planiﬁcado?Evaluación de condición 
+estructural de la 
+operación post procesos 
+de tronadura. Operación con equipos 
+remotos en áreas de alto 
+riesgo.
+
+¿Me aseguro que la fortiﬁcación sea 
+implementada de acuerdo a diseño y 
+recomendaciones geomecánicas?Fortiﬁcación / 
+estabilización. ¿El programa de mantenimiento de los 
+vehículos livianos se ejecuta de acuerdo a lo 
+planiﬁcado?CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS¿El proceso de identiﬁcación de roca suelta, 
+acuñadura y saneamiento se encuentra 
+documentado y actualizado?Competencias e 
+identiﬁcación de roca 
+suelta y proceso.
+
+Cabinas de protección en 
+equipos.RC18
+N°
+01
+N°
+0502
+03
+04SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.APLASTAMIENTO / 
+ATRAPAMIENTO POR CAÍDA 
+DE ROCAS EN MINA 
+SUBTERRÁNEA.EVENTO NO DESEADO: PÉRDIDA DE CONTROL ESTABILIDAD ROCA 
+SUBTERRÁNEA.EVENTO DE RIESGO:
+
+33GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Revisé la frente, galerías, fortiﬁcación 
+(incluyendo materialidades tales como 
+soportes de pilares y vigas de madera) y 
+sectores con riesgo de caída de roca después 
+de un proceso de tronadura? Operador de equipo remoto:
+
+¿Antes de realizar 
+tareas con equipos remotos en terreno, me 
+aseguro de ubicarme en posición alejada y 
+protegida del movimiento del equipo (estocada 
+o similar) y bajo zona fortiﬁcada?Evaluación de condición 
+estructural de la 
+operación post procesos 
+de tronadura. Operación con equipos 
+remotos en áreas de alto 
+riesgo.
+
+¿Veriﬁqué que la fortiﬁcación se encuentra en 
+condiciones óptimas para realizar el trabajo 
+(mallas cargadas, pernos u otros daños visibles 
+que se deben informar)?Fortiﬁcación / 
+estabilización. ¿Antes de iniciar mis actividades me aseguro 
+de que el equipo que voy a operar y/o jaulas de 
+protección, se encuentra en buenas 
+condiciones?
+
+(sin daños o deformaciones).CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS¿Me aseguro de veriﬁcar el estado de la 
+acuñadura antes de iniciar el trabajo?Competencias e 
+identiﬁcación de roca 
+suelta y proceso. Cabinas de protección en 
+equipos.N°
+01
+N°
+0502
+03
+04TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.RC18
+APLASTAMIENTO / 
+ATRAPAMIENTO POR CAÍDA 
+DE ROCAS EN MINA 
+SUBTERRÁNEA.EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL ESTABILIDAD ROCA 
+SUBTERRÁNEA.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 34PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Me aseguré de contar con la información 
+respecto a Zonas de transición, procesos de 
+fortiﬁcación y/o información geo mecánica? ¿Me aseguro que el lugar de trabajo está 
+fortiﬁcado de acuerdo a diseño?Preacondicionamiento 
+del macizo rocoso. ¿Tengo deﬁnido los puntos de encuentro y 
+rutas de evacuación con mis trabajadores?Monitoreo geomecánico.
+
+¿Me aseguro que la fortiﬁcación sea 
+implementada de acuerdo a diseño y 
+recomendaciones geomecánicas?Soporte y fortiﬁcación.Operación de equipo remoto:
+
+¿El programa de 
+mantenimiento de los equipos de operación 
+remota se ejecuta de acuerdo a lo planiﬁcado?Operacion de equipos 
+telecomandados en 
+zonas de transición.Monitoreo de sobre 
+excavaciones.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASRC19
+N°
+N°01
+02
+03
+04
+05SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.Atrapamiento / AplastamientoESTALLIDO DE ROCAEVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA INSTANTÁNEA DE LA ESTABILIDAD DE 
+EXCAVACIONES EN LABORES SUBTERRÁNEAS.35GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿He recibido la información respecto a las 
+zonas seguras para trabajar por parte de mi 
+supervisor?
+
+(Zonas de transición, procesos de 
+fortiﬁcación, información geo mecánica). ¿Al revisar mi entorno de trabajo, me aseguro 
+de chequear visualmente cajas y techos de las 
+labores sobre excavaciones?Preacondicionamiento 
+del macizo rocoso. ¿Conozco los puntos de encuentro y rutas de 
+evacuación?Monitoreo geomecánico.
+
+¿Veriﬁqué que la fortiﬁcación se encuentra en 
+condiciones óptimas para realizar el trabajo 
+(mallas cargadas, pernos u otros daños visibles 
+que se deben informar)?Soporte y fortiﬁcación.Operador de equipo remoto:
+
+¿Antes de realizar 
+tareas con equipos remotos en terreno, me 
+aseguro de ubicarme en posición alejada y 
+protegida del movimiento del equipo (estocada 
+o similar) y bajo zona fortiﬁcada?Operacion de equipos 
+telecomandados en 
+zonas de transición.Monitoreo de sobre 
+excavaciones.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+N°01
+02
+03
+04
+05TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.RC19
+Atrapamiento / AplastamientoESTALLIDO DE ROCAEVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA INSTANTÁNEA DE LA ESTABILIDAD DE 
+EXCAVACIONES EN LABORES SUBTERRÁNEAS.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 36PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Conozco el Nivel de riesgo por exposición a 
+sílice del área a intervenir? ¿Y qué controles 
+existen?
+
+¿Informé a los trabajadores?Identiﬁcación, medición y 
+priorización de fuentes de 
+emisión de polvo. Cuando aplique, ¿El área de trabajo se 
+encuentra humectada? En caso contrario, 
+¿Reporté al encargado su condición? Sistema humectación y 
+supresión de polvo en 
+fuentes. Cuando aplique, ¿Tengo disponibles los 
+equipos de aseo industrial a mi cargo, que 
+eviten la dispersión del polvo?Aseo industrial 
+tecniﬁcado (incluye 
+sistemas de alto vacío).
+
+¿Me aseguro que mis trabajadores cuenten 
+con el respirador requerido con sus pruebas de 
+ajuste para el área y tarea?Uso y manejo de 
+protección respiratoria 
+en áreas de exposición a 
+polvo respirable.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS¿Están operativos los sistemas de control de 
+polvo existentes?
+
+En caso contrario, ¿Reporté 
+al encargado su condición?Operación y 
+mantenimiento de 
+equipos o puntos 
+productivos (fuentes) 
+para el control de polvo.N°
+01
+02
+03
+N°
+04
+05SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONCENTRACIÓN AMBIENTAL 
+PELIGROSA DE POLVO Y SÍLICE.RC20
+EVENTO NO DESEADO:
+
+Fracción respirable que genera exposición sobre 
+el límite permitido (LPP). EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE FUENTES DE EMISIÓN 
+DE POLVO.37GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Me informaron del Nivel de riesgo por 
+exposición a sílice del área a intervenir?Identiﬁcación, medición y 
+priorización de fuentes de 
+emisión de polvo.
+
+Cuando aplique, ¿Utilizo los equipos de aseo 
+industrial para evitar la dispersión de polvo?Aseo industrial 
+tecniﬁcado (incluye 
+sistemas de alto vacío). ¿Mi respirador es el adecuado (tipo, talla, 
+ﬁltro)? ¿Está en buenas condiciones y sé cómo 
+usarlo?Uso y manejo de 
+protección respiratoria 
+en áreas de exposición a 
+polvo respirable.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+01
+N°
+02
+03TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CONCENTRACIÓN AMBIENTAL 
+PELIGROSA DE POLVO Y SÍLICE.RC20
+EVENTO NO DESEADO: Fracción respirable que genera exposición sobre 
+el límite permitido (LPP). EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE FUENTES DE EMISIÓN 
+DE POLVO.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 38PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Se dispone y cumple con el plan de 
+inspección y mantención de estructuras para 
+el tránsito de personas en terreno? ¿Se dispone de la documentación de análisis y 
+memorias de cálculo para las reparaciones y 
+cambios estructurales?Inspección y mantención 
+de estructuras para 
+tránsito y uso de 
+personas. Operación, autorización y 
+gestión del cambio para 
+modiﬁcar o reparar 
+estructuras para tránsito 
+y uso de personas.
+
+¿Dispongo de los elementos para señalizar y 
+segregar vanos y/o daños estructurales para el 
+tránsito y uso de personas?CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS
+Señalización y 
+segregación en vanos y/o 
+daños estructurales.N°
+01
+N°
+0302SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.DEFORMACIÓN, INESTABILIDAD 
+Y COLAPSO DE COMPONENTES 
+EN PASILLOS, PISOS Y 
+BARANDASRC22
+EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE ESTRUCTURAS PARA 
+TRÁNSITO Y USO DE PERSONAS.EVENTO NO DESEADO:39GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Usuario:
+
+¿Veriﬁqué que el estado de 
+estructuras como; sujeciones, barandas, 
+escalas, grating, es el adecuado para el tránsito 
+y desarrollo de actividades? (Condiciones de 
+desgaste, corrosión, grietas, etc.)
+Instalador / Mantenedor: ¿Estoy capacitado 
+para realizar reparaciones y modiﬁcaciones 
+estructurales y estas se encuentran validadas y 
+aprobadas por especialista estructural?Inspección y mantención 
+de estructuras para 
+tránsito y uso de 
+personas.
+
+Operación, autorización y 
+gestión del cambio para 
+modiﬁcar o reparar 
+estructuras para tránsito 
+y uso de personas. ¿Veriﬁqué que las áreas con estructuras 
+dañadas o con falta de algún componente, se 
+encuentren cerradas (barreras duras) y 
+señalizadas correctamente (cierres efectivos)?CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS
+Señalización y 
+segregación en vanos y/o 
+daños estructurales.N°
+01
+N°
+0302TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.DEFORMACIÓN, INESTABILIDAD 
+Y COLAPSO DE COMPONENTES 
+EN PASILLOS, PISOS Y 
+BARANDASRC22
+EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE ESTRUCTURAS PARA 
+TRÁNSITO Y USO DE PERSONAS.EVENTO NO DESEADO:GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 40PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Dispongo de la información topográﬁca 
+respecto al monitoreo de las sobre 
+excavaciones?Monitoreo de 
+sobreexcavaciones. ¿Me aseguro de planiﬁcar el soporte y 
+fortiﬁcación de acuerdo al diseño y 
+recomendaciones geomecánicas?Soporte y fortiﬁcación.
+
+¿La instalación de las estructuras de soporte 
+está de acuerdo al diseño y recomendaciones 
+geomecánicas?CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS
+Estructuras de 
+contención de galerías.N°
+01
+N°
+0302SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.COLAPSO ESTRUCTURAL EN 
+MINA SUBTERRÁNEA.RC23
+EVENTO NO DESEADO:
+
+EVENTO DE RIESGO: PÉRDIDA DE CONTROL ESTRUCTURAL DEL 
+MACIZO ROCOSO.41GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Al revisar mi entorno de trabajo me aseguro 
+de chequear que la zona se encuentre estable, 
+manteniendo atención a los signos de cambios 
+de la roca (Crepitaciones, goteos, ruidos del 
+macizo, desprendimiento de polvo de las 
+grietas)?Monitoreo de 
+sobreexcavaciones.
+
+¿Veriﬁqué que la fortiﬁcación se encuentra en 
+condiciones óptimas para realizar las tareas 
+(mallas cargadas, pernos u otros daños visibles 
+que se deben informar)?Soporte y fortiﬁcación. ¿Al revisar mi entorno de trabajo, me aseguro 
+de chequear visualmente las estructuras de 
+soporte y si los accesos están bloqueados?
+
+CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTAS
+Estructuras de 
+contención de galerías.N°
+01
+N°
+0302TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.COLAPSO ESTRUCTURAL EN 
+MINA SUBTERRÁNEA.RC23
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL ESTRUCTURAL DEL 
+MACIZO ROCOSO.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.
+
+42PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué que las barreras de contención de 
+derrames se encuentren implementadas y que 
+los pretiles de seguridad no se encuentren 
+sobrepasados?CONTROL MITIGADOR PREGUNTAS
+Pretiles.¿Veriﬁqué que el saneamiento y estabilización 
+de taludes se encuentra implementado según 
+diseño actualizado y aprobado?
+
+¿Me aseguro de contar con el protocolo de 
+recepción conforme de zonas saneadas?Saneamiento y 
+estabilización de taludes.CONTROL PREVENTIVO PREGUNTAS N°
+01
+N°
+0302SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.DESPRENDIMIENTO Y CAÍDA DE 
+TALUD EN MINA CIELO ABIERTO.RC24
+EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+PÉRDIDA DE CONTROL DE LA ESTABILIDAD DE 
+TALUD.43GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué que las barreras de contención de 
+derrames se encuentren implementadas y que 
+los pretiles de seguridad no se encuentren 
+sobrepasados?CONTROL MITIGADOR PREGUNTAS
+Pretiles.En caso de personal que realiza saneamiento:
+
+¿Realicé inspección visual, veriﬁqué y 
+corroboré que los registros de las áreas a 
+intervenir estén libres de riesgos inminentes 
+de caídas de rocas antes del ingreso a trabajar? En caso de ser operador de equipo: ¿me 
+aseguré de que el área se saneó y estabilizó 
+antes de realizar mis labores?Saneamiento y 
+estabilización de taludes.CONTROL PREVENTIVO PREGUNTAS N°
+01
+N°
+0302TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.DESPRENDIMIENTO Y CAÍDA DE 
+TALUD EN MINA CIELO ABIERTO.RC24
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE LA ESTABILIDAD DE 
+TALUD.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 44PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Veriﬁqué que los conductores a mi cargo 
+realizaron su autoevaluación de condiciones 
+físicas y psicológicas antes de conducir? ¿Informé a mi equipo de trabajo el estado de 
+las rutas y sus restricciones?Sistema de gestión de 
+fatiga.
+
+Sistema de diseño, 
+construcción y 
+mantenimiento de 
+infraestructura vial.CONTROL PREVENTIVO PREGUNTAS
+¿El programa de mantenimiento de la 
+maquinaria industrial autopropulsada se 
+ejecuta de acuerdo a lo planiﬁcado?Mantenimiento de 
+componentes críticos.N°
+01
+02
+03SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CHOQUE / COLISIÓN / 
+VOLCAMIENTO DE 
+MAQUINARIAS.RC25
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE MAQUINARIA 
+INDUSTRIAL AUTOPROPULSADA.45GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Realicé la autoevaluación de condiciones 
+físicas y psicológicas antes de conducir?
+
+¿Me informé del estado de la ruta y sus 
+restricciones? (velocidad, reparaciones y 
+autorizaciones necesarias, establecidas en el 
+Plan de Tránsito)Sistema de gestión de 
+fatiga. Sistema de diseño, 
+construcción y 
+mantenimiento de 
+infraestructura vial.CONTROL PREVENTIVO PREGUNTAS
+¿Apliqué la lista de chequeo de la maquinaria 
+industrial autopropulsada antes de operar?Mantenimiento de 
+componentes críticos.N°
+01
+02
+03TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CHOQUE / COLISIÓN / 
+VOLCAMIENTO DE 
+MAQUINARIAS.RC25
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE MAQUINARIA 
+INDUSTRIAL AUTOPROPULSADA.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 46PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿El plan de tránsito identiﬁca las rutas 
+exclusivas para equipos autónomos y 
+asignación de rutas de tránsito para equipos 
+auxiliares, sin interactuar en la ruta de equipos 
+autónomos? ¿Dispongo de un plan de mantenimiento y 
+veriﬁcación de los sistemas de control de 
+acceso para equipos de servicios y/o vehículos 
+menores autorizados para transitar en zonas 
+de operación de equipos autónomos?Sistema de gestión de 
+tránsito y rutas para 
+equipos autónomos y 
+equipos auxiliares.
+
+¿Dispongo de un plan de mantenimiento y 
+veriﬁcación del sistema global de 
+posicionamiento satelital (GPS) y del sistema 
+de detección de obstáculos (ODS)?Disponibilidad y 
+conﬁabilidad del sistema 
+global de 
+posicionamiento satelital 
+(gps) y del sistema de 
+detección de obstáculos 
+(ods).Sistema de control de 
+acceso al área de 
+operación de equipos 
+autónomos.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02
+¿Dispongo de un plan de mantenimiento de 
+los equipos autónomos?Mantenimiento del 
+estado mecánico 
+integral de los equipos 
+autónomos y del sistema 
+de control.0403SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CHOQUE / COLISIÓN / VOLCAMIENTO DE 
+EQUIPOS AUTÓNOMOS.RC26
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE EQUIPOS 
+AUTÓNOMOS.47GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Me aseguro de conocer las rutas exclusivas 
+para equipos autónomos y asignación de rutas 
+de tránsito para equipos auxiliares, sin 
+interactuar en la ruta de equipos autónomos? ¿Realicé pruebas de funcionamiento de los 
+sistemas de control de acceso para equipos de 
+servicios y/o vehículos menores autorizados 
+para transitar en zonas de operación de 
+equipos autónomos?Sistema de gestión de 
+tránsito y rutas para 
+equipos autónomos y 
+equipos auxiliares.
+
+¿Realicé pruebas de funcionamiento, 
+operatividad y disponibilidad al sistema global 
+de posicionamiento satelital (GPS) y del 
+sistema de detección de obstáculos (ODS)?Disponibilidad y 
+conﬁabilidad del sistema 
+global de 
+posicionamiento satelital 
+(gps) y del sistema de 
+detección de obstáculos 
+(ods). ¿Conozco y realicé pruebas de funcionamiento 
+del sistema de parada de emergencia del 
+sistema de transporte autónomo?
+
+Parada de emergencia 
+del sistema de 
+transporte autónomo.Sistema de control de 
+acceso al área de 
+operación de equipos 
+autónomos.CONTROL PREVENTIVO PREGUNTAS
+CONTROL MITIGADOR PREGUNTASN°
+01
+N°
+0602
+¿Me aseguro de veriﬁcar el estado mecánico 
+de equipos autónomos y el estado del sistema 
+de control?
+
+(Aplicación lista de chequeo)Mantenimiento del 
+estado mecánico 
+integral de los equipos 
+autónomos y del sistema 
+de control.05¿Me aseguro de revisar que el sistema de 
+operación para equipos autónomos funcione 
+dentro de los rangos de seguridad deﬁnidos? (Aplicación lista de chequeo)Monitoreo y 
+cumplimiento de 
+parámetros críticos 
+operacionales del 
+sistema autónomo.0403TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.CHOQUE / COLISIÓN / VOLCAMIENTO DE 
+EQUIPOS AUTÓNOMOS.RC26
+EVENTO NO DESEADO: EVENTO DE RIESGO: PÉRDIDA DE CONTROL DE EQUIPOS 
+AUTÓNOMOS.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 48PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Veriﬁco que las radios de comunicaciones 
+entregadas al equipo ejecutor, tienen 
+frecuencias compatibles incluyendo la 
+frecuencia de emergencia?Comunicación 
+bidireccional.03
+¿Me aseguro que todo el personal cuenta con 
+los EPP de acuerdo al trabajo a ejecutar?Ropa de alta visibilidad 
+(Fluorescente - 
+reﬂectante).05Exclusivo Escoltas: ¿Registré la planiﬁcación 
+previa con todos los involucrados en el 
+traslado?Traslado de vehículos o 
+equipos.
+
+(escoltas)04¿Me aseguro que los componentes utilizados 
+para la segregación están acorde al diseño?Segregación y control de 
+acceso en áreas de 
+interacción.CONTROL PREVENTIVO PREGUNTAS
+¿Dispongo del plan de tránsito actualizado 
+para el área de trabajo?Infraestructura vial y 
+peatonal (diseño y 
+especiﬁcaciones técnicas, 
+ej. señalética, iluminación, 
+entre otros).N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.ATROPELLO.RC27
+EVENTO NO DESEADO: EVENTO DE RIESGO: INTERACCIÓN DE PERSONAS CON 
+EQUIPOS/VEHÍCULOS.49GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Cuento con las radios de comunicaciones con 
+las frecuencias requeridas en el área de 
+trabajo?Comunicación 
+bidireccional.03
+¿Uso ropa de alta visibilidad en buenas 
+condiciones de contraste, con sus respectivas 
+cintas reﬂectantes?Ropa de alta visibilidad 
+(Fluorescente - 
+reﬂectante).05Exclusivo Escoltas: ¿Veriﬁco que el vehículo 
+para escolta se encuentra equipado según el 
+estándar deﬁnido para la actividad?Traslado de vehículos o 
+equipos.
+
+(escoltas)04¿Instalé correctamente los elementos 
+deﬁnidos para la segregación y control de 
+acceso?Segregación y control de 
+acceso en áreas de 
+interacción.CONTROL PREVENTIVO PREGUNTAS
+¿Conozco el plan de tránsito y si existen 
+restricciones en la vía? (áreas segregadas, 
+control de interacción entre personas, equipos 
+o vehículos)Infraestructura vial y 
+peatonal (diseño y 
+especiﬁcaciones técnicas, 
+ej.
+
+señalética, iluminación, 
+entre otros).N°
+01
+02TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.ATROPELLO.RC27
+EVENTO NO DESEADO: EVENTO DE RIESGO: INTERACCIÓN DE PERSONAS CON 
+EQUIPOS/VEHÍCULOS.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 50PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Tengo deﬁnido los puntos de encuentro y 
+rutas de evacuación con mis trabajadores?Monitoreo geomecánico. ¿Me aseguré que el sistema de control 
+producción del equipo este operativo, tanto el 
+sistema propio de la pala y el de la interacción 
+pala control producción?Sistema automático de 
+control de producción.03
+04¿Veriﬁqué que se efectuó la tronadura o la 
+incorporación de área de buena forma?Incorporación de áreas.
+
+¿Cuento con el protocolo formal de recepción 
+de la perforación de tiros?Monitoreo y seguimiento 
+operacional del proceso 
+de P&T.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.AIRBLAST (GOLPE DE AIRE).RC28
+EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+PÉRDIDA DE CONTROL DE CAVING.51GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Conozco los puntos de encuentro y rutas de 
+evacuación?Monitoreo geomecánico.
+
+¿Antes de comenzar el proceso de extracción 
+aplico check list del equipo, asegurando el 
+funcionamiento del sistema automático de 
+control de producción?Sistema automático de 
+control de producción.03
+04¿Cumplo con la velocidad de incorporación 
+establecida por la planiﬁcación?Incorporación de áreas.
+
+¿Antes de cargar los tiros me aseguro que 
+estén limpios de detritus?Monitoreo y seguimiento 
+operacional del proceso 
+de P&T.CONTROL PREVENTIVO PREGUNTAS N°
+01
+02TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.AIRBLAST (GOLPE DE AIRE).RC28
+EVENTO NO DESEADO: EVENTO DE RIESGO:
+
+PÉRDIDA DE CONTROL DE CAVING.GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 52PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Los siguientes riesgos críticos 
+serán abordados, usando las 
+preguntas de las Reglas que 
+Salvan la Vida 2020PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. 53
+GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. RC15
+Exposición a 
+explosiones 
+(tronadura).Operaciones 
+Ferroviarias.Exposición a 
+avalancha.
+
+Exposición a bombeo 
+de agua barro.Exposición a arsénico 
+inorgánico.RC14 RC08
+RC21 RC17
+¿Veriﬁqué el cumplimien�to del método de 
+segregación y control de acceso a áreas de 
+tronaduras?. Segregación y control de 
+acceso. ¿Planiﬁqué la veriﬁcación post-tronadura para 
+informar la posibilidad de un tiro quedado (TQ) 
+y resultado de la tronadura?.Veriﬁcación 
+post-tronaduras.03
+04¿Planiﬁqué la tronadura considerando las 
+condiciones habituales y no habituales (ej.
+
+terreno/taco) y todo el personal involucrado 
+en la actividad se encuentra con 
+acreditaciones vigentes?.Competencias/
+Acreditaciones. ¿Conozco la carta de loros, se la comunique a 
+los involucrados?.Carta de loros (aislación y 
+evacuación).CONTROL CRÍTICO PREGUNTAS N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN A EXPLOSIONES
+(TRONADURA).RC08GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 53GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 54PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿El área se encuentra segregada y con control 
+de acceso?. Control ejercido por el supervisor (a) de 
+tronadura.03
+04¿Tengo mi acreditación vigente para 
+manipular explosivos?.
+
+¿Conozco las áreas aisladas?.CONTROL CRÍTICO PREGUNTAS N°
+01
+02TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN A EXPLOSIONES
+(TRONADURA).RC08
+Segregación y control de 
+acceso. Veriﬁcación 
+post-tronaduras.Competencias/
+Acreditaciones. Carta de loros (aislación y 
+evacuación).GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.
+
+55PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Veriﬁqué el cumplimen�to del programa de 
+mantención del equipo?.Mantenimiento 
+preventivo de equipos de 
+operación ferroviaria. ¿Coordiné las actividades del turno con control 
+de tráﬁco y maquinistas?Control de tráﬁco. 03
+04¿Solicité e informé del estado, los riesgos y 
+controles de las vías y cruces de la ruta?.Condiciones de las vías y 
+regulación de cruces.
+
+¿Veriﬁqué la vigencia de las acreditaciones y/o 
+competencias de mi personal a cargo?.Competencias del 
+personal. CONTROL CRÍTICO PREGUNTAS N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.OPERACIONES FERROVIARIAS.RC1456GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Realicé la lista de chequeo (check list) de mi 
+equipo?. ¿Mantengo comunicación permanente con 
+despachador?.03
+04Mantenimiento 
+preventivo de equipos de 
+operación ferroviaria. Control de tráﬁco. Condiciones de las vías y 
+regulación de cruces.¿Solicité información del estado de las vías y 
+cruces de mi ruta de trabajo y las restricciones 
+que se presentan?.
+
+¿Tengo mi autorización vigente 
+para realizar el trabajo?.CONTROL CRÍTICO PREGUNTAS N°
+01
+02TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.OPERACIONES FERROVIARIAS.RC14GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 57PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Competencias del 
+personal.
+
+¿Transmití e instruí a mi personal de las alertas 
+decretadas?.Protocolo de control de 
+tránsito y ubicación de 
+instalaciones. ¿Aseguro que mi personal está instruido y 
+dispone de ARVA, RECCO o equivalente?.Plan de 
+evacuación y EPP 
+especíﬁco o 
+aparato de rescate 
+de víctimas de 
+avalancha y 
+aludes.03
+04¿Informé a mi personal de los riesgos de 
+avalanchas y las medidas de control en base 
+a información especializada?.Monitoreo de variables 
+nivometerológicas.
+
+¿Controlo el cumplimiento de los alcances del 
+plan de Invierno?.Capacitación/ 
+especialización.CONTROL CRÍTICO PREGUNTAS N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN A AVALANCHARC1558GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+¿Conozco los tipos de alerta y se cómo actuar 
+en cada una de ellas?.Protocolo de control de 
+tránsito y ubicación de 
+instalaciones. Plan de 
+evacuación y EPP 
+especíﬁco o 
+aparato de rescate 
+de víctimas de 
+avalancha y 
+aludes.¿Para transitar en superﬁcie cuento con ARVA, 
+RECCO o equivalente en buenas condiciones?.03
+04¿Conozco las zonas de riesgo de avalancha y 
+aludes y sé que hacer al respecto?. ¿Conozco el plan de Invierno?.
+
+CONTROL CRÍTICO PREGUNTAS N°
+01
+02TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad. Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.RC15GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 59PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. EXPOSICIÓN A AVALANCHA
+Monitoreo de variables 
+nivometerológicas. Capacitación/ 
+especialización.
+
+¿Cuento con una evaluación de especialistas y 
+la autorización por escrito del supervisor 
+responsable del área?.Evaluación y 
+autorización para 
+ingreso a zonas con 
+potencial de bombeo. 03
+¿Realicé control permanente en las zonas 
+identiﬁcadas con riesgo de bombeo y sus 
+medidas de control?.Monitoreo de los puntos 
+de riesgos de bombeo 
+potencial de bombeo.
+
+05¿El personal que se ecuentra extrayendo en 
+puntos de extracción con presencia de 
+humedad, esta capacitado para detectar los 
+cambios de humedad?.Capacitación del 
+personal que ejecuta 
+actividades en zonas con 
+potencial de bombeo. 04¿Informé al personal a mi cargo de los puntos 
+con riesgos de bombeo y sus medidas de 
+control?.Estudios hidrogeológicos 
+actualizados en zonas 
+expuestas.
+
+CONTROL CRÍTICO PREGUNTAS
+¿En sectores con extracción de barro o puntos 
+de extracción en alerta, estoy utilizando 
+equipos son operador abordo?.Contar con equipos 
+telecomandados en zonas 
+críticas de bombeo agua 
+barro. N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN BOMBEO DE AGUA 
+BARRORC1760GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. ¿Cuento con autorización de ingreso?. 03
+¿Sé qué tengo que abandonar el área al tener 
+escurrimiento de agua punto de extracción?.05Evaluación y 
+autorización para 
+ingreso a zonas con 
+potencial de bombeo.
+
+Monitoreo de los puntos 
+de riesgos de bombeo 
+potencial de bombeo. Capacitación del 
+personal que ejecuta 
+actividades en zonas con 
+potencial de bombeo. ¿Estoy capacitado (a) en el riesgo de bombeo y 
+control de éste?.04¿Conozco las zonas de humedad con peligros 
+de bombeo?.PREGUNTAS
+¿Mantengo las distancias de seguridad 
+deﬁnidas por mi supervisor (a)?.N°
+01
+02TRABAJADOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN BOMBEO DE AGUA 
+BARRORC17GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 61PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. Estudios hidrogeológicos 
+actualizados en zonas 
+expuestas. Contar con equipos 
+telecomandados en zonas 
+críticas de bombeo agua 
+barro.
+
+CONTROL CRÍTICO
+¿El (los) sistema (s) crítico (s) de control de polvo se 
+encuentra (n) funcionando?.Sistemas críticos de control 
+operando (encerramiento, 
+captación, ﬁltrado previo y 
+presión positiva, 
+hermeticidad, material 
+antiadherente en 
+revestimiento de chutes de 
+traspaso, presión negativa 
+en unidades de proceso, 
+etc.) en instalaciones y 
+equipos03
+¿Veriﬁqué que la casa de cambio, sala(s) de descanso e 
+hidratación se encuentran bien 
+equipadas, limpias y en buen estado, y di a conocer el 
+instructivo a los trabajadores (as) para su adecuado 
+uso?.Instructivo de normas 
+higiénicas y uso de casa 
+de cambio/áreas de 
+hidratación.
+
+05¿El personal utiliza métodos de limpieza apropiados 
+para evitar la dispersión del polvo?.Aseo o limpieza 
+mediante métodos que 
+eviten la dispersión de 
+polvo con contenido de 
+arsénico (incluye el 
+lavado de equipos/ 
+vehículos de transporte 
+y herramientas).04¿El personal deﬁnido en presencia a arsénico, cuenta 
+con su examen de exposición a arsénico inorgánico en 
+orina?, ¿Todos se encuentran bajo el 
+límite?Exámenes de vigilancia 
+de indicador de exposición 
+biológica:
+
+Arsénico inorgánico en 
+orina a personal deﬁnido 
+en presencia a arsénico. PREGUNTAS
+¿El área cuenta con señalización de advertencia sobre 
+exposición a arsénico y uso obligatorio de EPP 
+especíﬁco? ¿El personal usa correctamente EPP 
+especíﬁco seleccionado?.Señalización de 
+advertencia de riesgo / 
+Uso correcto de EPP (de 
+acuerdo a la tarea y 
+nivel de riesgo). N°
+01
+02SUPERVISOR(A)
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN A ARSÉNICO 
+INORGÁNICORC2162GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. CONTROL CRÍTICO
+Si un Control Crítico no está presente, detenga la actividad.
+
+Luego, 
+aplique tarjeta verde y notiﬁque al supervisor para evaluar la desviación 
+y juntos normalizar el control ausente o fallido.EXPOSICIÓN A ARSÉNICO 
+INORGÁNICORC21GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS. 63PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS.
+
+TRABAJADOR(A)
+¿El (los) sistema (s) crítico (s) de control de polvo se 
+encuentra (n) funcionando?.Sistemas críticos de control 
+operando (encerramiento, 
+captación, ﬁltrado previo y 
+presión positiva, 
+hermeticidad, material 
+antiadherente en 
+revestimiento de chutes de 
+traspaso, presión negativa 
+en unidades de proceso, 
+etc.) en instalaciones y 
+equipos03
+¿Conozco el instructivo de uso adecuado de casa de 
+cambio y salas de descanso e hidratación, y lo utilizo 
+adecuadamente estas instalaciones?.Instructivo de normas 
+higiénicas y uso de casa 
+de cambio/áreas de 
+hidratación.
+
+05¿El personal utiliza métodos de limpieza apropiados 
+para evitar la dispersión del polvo?. ¿Conozco y aplico 
+métodos de limpieza que eviten la dispersión de polvo?.Aseo o limpieza 
+mediante métodos que 
+eviten la dispersión de 
+polvo con contenido de 
+arsénico (incluye el 
+lavado de equipos/ 
+vehículos de transporte 
+y herramientas).04¿Tengo mi examen de arsénico inorgánico en orina para 
+veriﬁcar exposición a arsénico al día?
+
+¿Conozco el 
+resultado?.Exámenes de vigilancia 
+de indicador de exposición 
+biológica: Arsénico inorgánico en 
+orina a personal deﬁnido 
+en presencia a arsénico. PREGUNTAS
+¿Conozco el riesgo de exponerme al arsénico? ¿Tengo 
+los EPP adecuados, de la talla correcta, en buenas 
+condiciones y se cómo usarlos?.Señalización de 
+advertencia de riesgo / 
+Uso correcto de EPP (de 
+acuerdo a la tarea y 
+nivel de riesgo). N°
+01
+02CONTROL CRÍTICO
+CONTROL DE CAMBIOS.
+
+FECHA ORIGEN DE CAMBIO RESPONSABLES
+28/11/2022PUBLICACIÓN OFICIAL DEL 
+DOCUMENTOGERENCIA CORP. DE SSO
+06/03/2023
+06/03/2023SE INCLUYEN RC08, RC14, RC15, RC17, 
+RC21 A LA GUÍA DE CONTROLES 
+CRÍTICOS QUE SALVAN VIDAS. SE 
+ABORDAN LAS PREGUNTAS PARA ESTOS 
+RIESGOS, DE ACUERDO CON LAS 
+REGLAS QUE SALVAN LA VIDA 2020
+SE MODIFICA RC 04: LIBERACIÓN DE 
+CONTROLADA DE ENERGÍAS. PREGUNTAS DEL SUPERVISOR Y 
+TRABAJADORGERENCIA CORP. DE SSO
+GERENCIA CORP.
+
+DE SSO64GUÍA DE CONTROLES CRÍTICOS 
+QUE SALVAN VIDAS.PREGUNTAS 
+TRANSVERSALES.ÍNDICE RIESGOS 
+CRÍTICOS. GUÍA DE CONTROLES 
+CRÍTICOS QUE SALVAN VIDAS.
+

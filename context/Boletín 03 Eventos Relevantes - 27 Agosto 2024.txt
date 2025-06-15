@@ -1,0 +1,83 @@
+Boletín de Eventos Relevantes N° 03 
+Trabajador cae desde altura al ceder grating
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División Chuquicamata
+Gerencia Mina
+Superintendencia Mina Rajo
+08/02/2024
+Codelco
+Evento significativo sinlesión :Trabajador sufrecaída dedistinto nivel
+alceder lasuperficie (grating), mientras seencontraba transitando
+enelárea deRefinería . Aprendizajes :
+
+oLaorganización debe definir yasegurar unárea responsable del
+mantenimiento deactivos con focos eninfraestructura .
+
+oLasupervisión delasáreas donde aplique elRC22,con apoyo de
+losDueños deRiesgos yControles deben identificar las zonas
+críticas de infraestructura, implementando segregaciones e
+instalación de barreras duras, minimizando laexposición de
+personas ariesgos relacionados con fallas estructurales .Interacción entre CAEXPrimer trimestre 2024
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP3 –Inspección y mantención de estructuras 
+para tránsito y uso de personas.CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 25 –Pérdida de control de maquinaria 
+industrial autopropulsada
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP1 –Operación competente y sist gestión conductas.
+
+CCP3 –Sist diseño, construcción y mant infraestructura vial.
+
+División Ventanas
+Gerencia Mantenimiento
+Refinería
+10/01/2024
+MecsaDivisión Radomiro Tomic
+Gerencia Mina
+Operaciones Mina
+13/03/2024
+CodelcoEvento significativo sinlesión :Conductor decamioneta quesubía por
+rampa deacceso abotadero, visualiza aCAEX que bajaba tomando la
+curva, momento enelcual conductor decamioneta alver que el
+equipo seaproximaba sindetener sumarcha, decide abandonar la
+camioneta, generándose elaplastamiento delCAEX alvehículo . Aprendizajes :
+
+oLasupervisión delasáreas donde aplique elRC25,deben realizar los
+análisis deriesgos eimplementar lagestión delcambio deforma
+oportuna, asegurando ladifusión deplanes detránsito, dondeestén
+claramente definidas lasvías segregadas, señaléticas, y
+frecuencias radiales para asegurar lacomunicación bidireccional .Evento significativo sinlesión :Durante elproceso detransporte de
+mineral enruta stock DMH, operadoras deCAEX colisionan por ellado
+contrario alascabinas . Aprendizajes :
+
+oLaorganización debe implementar elestándar corporativo de
+aprendices elcual define laselección, formación, capacitación y
+entrenamiento, para asegurar lascompetencias deoperadores
+deCAEX . oLasáreas operativas deben contar con unplan detránsito vigente
+ymantener losdiseños deinfraestructura vial deacuerdo con el
+mismo .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Áreas Mina Rajo
+ Todas lasáreas donde aplique elRCN°22 Áreas Mina RajoInteracción de CAEX con vehículo livianoRC 22 –Pérdida de control de estructuras para 
+tránsito y uso de personas
+CCP3 –Sistema de diseño, construcción y 
+mantenimiento de infraestructura vial.RC 25 –Pérdida de control de maquinaria 
+industrial autopropulsada
+

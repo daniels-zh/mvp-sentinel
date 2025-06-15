@@ -1,0 +1,11 @@
+fecha_hora,consulta,tokens_prompt,tokens_respuesta,tokens_totales,tiempo_respuesta_seg
+2025-06-03T18:02:04.590844,¿Qué tipo de fallas en camiones han sido reportadas como peligrosas en los documentos?,2128,243,2371,12.67
+2025-06-04T16:50:54.793688,¿Qué medidas inmediatas se toman tras un accidente?,1554,415,1969,20.38
+2025-06-04T17:18:25.270084,¿Qué se hace justo después de un accidente en faena?,977,411,1388,19.8
+2025-06-04T17:33:58.422748,¿Qué medidas inmediatas se toman tras un accidente en faena minera?,2338,395,2733,15.33
+2025-06-04T17:34:29.025007,¿Qué acciones se ejecutan justo después de un incidente laboral en una operación minera?,2973,377,3350,15.98
+2025-06-12T11:15:55.646847,¿Qué medidas de seguridad se aplican para controlar el acceso en obras?,2335,426,2761,19.67
+2025-06-12T11:18:50.963366,¿Cómo se controla el ingreso seguro de personas en una obra minera?,2903,474,3377,17.38
+2025-06-12T11:56:43.748720,¿Cómo se gestiona el ingreso de personal a faenas industriales?,2934,526,3460,25.51
+2025-06-12T11:58:00.914409, ¿Qué elementos de protección personal son obligatorios en faenas mineras?,3002,381,3383,19.02
+2025-06-12T11:58:46.377699,¿Qué tipo de EPP debe utilizar un trabajador en la minería?,2893,385,3278,20.14

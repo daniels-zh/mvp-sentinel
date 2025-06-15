@@ -1,0 +1,87 @@
+
+
+Boletín de Eventos Relevantes N° 09 
+Roca golpea a CAEX durante trabajos de desborde
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División Gabriela Mistral
+Mantenimiento Mina
+Área Mina
+19/10/2024
+Servicios Mineros Finning
+Evento significativo sinlesión :Durante trabajos de desborde de
+material, segenera unadescoordinación enlascomunicaciones, loque
+provoca que CAEX ingrese ytransite alinterior derampa conrestricción
+deacceso mientras serealizaba eldesborde dematerial, provocando
+impacto deroca enelestanque decombustible .
+
+Aprendizaje : oLasupervisió ndebe asegurar yverificar que todas lasactividades
+enelárea deben estar debidamente planificadas yaprobadas por
+lasupervisión responsable, afindecontrolar todas lasvariables del
+terreno, desde laplanificación .
+
+oEnesta tarea enespecífico, sedeben asegurar loscontroles críticos
+decomunicación, segregación yrestricciones deacceso .Incendio de camión de combustibleCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCM2 -Delimitación, segregación y control de accesoCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 06 –Perdida de control variables del fuego
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Ministro Hales
+Gerencia Mina
+Operaciones Mina Rajo
+19/10/2024
+CodelcoDivisión Chuquicamata
+Gerencia deServicios ySuministros
+Descarga decombustible
+04/10/2024
+Copec, subcontrato CSI e IlzauspeEvento significativo sinlesión :Mientras seutilizaba bomba manual
+hidráulica enlasala demáquinas delaPala, alretirar pasador delado
+izquierdo detambor Hoist, seproduce elcorte yproyección depernos
+hacia lapared delasala .
+
+Aprendizaje :
+
+oLasupervisión de mantenimiento debe identificar yanalizar
+adecuadamente losriesgos yenergías presentes enlaactividad,
+estableciend ounmétodo detrabajo seguro que permita mantener
+lamaniobra bajo control .Para loanterior, sedebe contar con
+procedimiento sactualizado s,aprobado sydifundido s;donde se
+defina elpaso apaso delaactivida d,asícomotambién eluso de
+herramientas certificadas yadecuadas para latarea .Evento significativo sinlesión :Mientras serealizaba laactividad de
+descarga decombustible ensector deestanques, segenera incendio en
+camión detransporte, provocando lapérdida deltotal delequipo ydaños
+ainstalaciones adyacentes .
+
+Aprendizaje : oEsta tarea debe serdebidamente planificada ,además decontar con
+sistemas debombeo decombustible que cumplan con losrequisitos
+técnicos ydeseguridad para este tipo demaniobras, nopermitiendo
+eluso debombas portátiles .Además, estos sistemas deben contar
+con unplan demantenimiento específico yasegurar laadherencia . oLos trabajadores que participan deestas maniobras deben estar
+capacitados yentrenados enlarespuesta ante emergencias .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Mantenimiento deequipos enárea mina
+ Carga ydescarga decombustiblesProyección de pernos en maniobra de retiro de pasadoresRC 05 –Pérdida de control de rocas en 
+operaciones mineras a cielo abierto
+CCP3 –Operación y mantenimiento de equipos, maquinaria, 
+instalaciones y sistemas neumáticos e hidráulicos.RC 04 –Pérdida de control de 
+energía de alta intensidad
+CCP6 –Identificación y mantención de equipos y componentes 
+críticos con potencial de generar temperatura de ignición.
+
+Operaciones Mina Rajo
+

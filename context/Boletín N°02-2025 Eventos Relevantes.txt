@@ -1,0 +1,81 @@
+
+
+Boletín de Eventos Relevantes N° 02/2025 
+Trabajadores se exponen a caída de altura 
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División ElSalvador
+Minas
+Mina
+13/12/2024
+Tepsac
+Evento significativo sinlesión :Trabajadores deempresa TTM seretiran
+del punto detrabajo descendiendo desde 4°nivel deplataforma de
+andamios sin anclarse en los puntos requeridos para labajada,
+dejando además escaleras instaladas yescotillas abiertas, pudiendo
+generar unaccidente grave ofatal .
+
+Aprendizaje : oSedebe reforzar yevaluar laaplicabilidad yentendimiento de
+controles sobre elascenso ydescenso deplataformas deandamios : Cierre efectivo deescotillas yusos depuntos deanclaje .
+
+oSedeben realizar confirmaciones deprocesos cada vez que se
+realicen trabajos enaltura yasí verificar loscontroles críticos en
+terreno .Choque entre semi -remolque y camionetaCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCM1 –Sistemas personales de detención de caídas (SPDC) .CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 10 –Pérdida de control de vehículo liviano
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Chuquicamata
+Mantenimiento MinaSubterránea
+Correa 210CV-04
+11/11/2024
+TTM ChileDivisión Andina
+Servicios
+Mina Rajo
+27/10/2024
+ICVEvento significativo sinlesión :Encamino deacceso Mina Rajo sector“El
+Chivato”, operador instala cuñas las cuales no son ubicadas de
+acuerdo aprocedimiento, luego desacopla cama baja de tracto
+camión ypor falla decomponente noseactivan lossistemas defreno,
+causando undesplazamiento fuera decontrol delequipo que finaliza
+con unimpacto acamioneta escolta .
+
+Aprendizaje : oGarantizar elmantenimiento efectivo delossistemas activos de
+seguridad (frenos) . oToda persona que operevehículos oequipos pesados debe tener
+las competencias requeridas enlainstalación decuñas yotros
+controles noasociados .
+
+APLICABILIDAD
+ APLICABILIDAD
+ Operaciones Mina Rajo cielo abierto APLICABILIDAD
+ Todo equipo detransporte ycargaRC 02 –Pérdida de equilibrio trabajo 
+en altura física 
+CCP2 –Elaboración de bases geotécnicas para diseño.RC 24 –Pérdida de control de la estabilidad
+de talud 
+CCP5 –Sistemas de seguridad activos (incluye mantenimiento).
+
+Todo trabajo que sedesarrolle enalturafísica
+Evento significativo sinlesión :Mientras sedesarrollaban trabajos de
+compactación con rodillo, segenera enterreno una cavidad que
+provoca lacaída del equipo .Eltrabajador sale del equipo por sus
+propios medios . Aprendizaje : oAntes derealizar cualquier tarea, sedebe hacer unaevaluación de
+todas lascondiciones geotécnicas que puedan provocar algún tipo
+defalla oinestabilidad .
+
+oEncualquier tipo detrabajo que serealice enuna zonageotécnica
+inestable, sedebe realizar obligatoriamente unAnálisis deRiesgo
+con foco enelentorno . Hundimiento en terreno de trabajo
+

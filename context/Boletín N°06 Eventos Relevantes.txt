@@ -1,0 +1,79 @@
+
+
+Boletín de Eventos Relevantes N° 06 
+Arco Eléctrico en Subestación
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División ElSalvador
+Gerencia Fundición
+Proceso deFundición
+14/09/2024
+Codelco
+Evento significativo conlesión :Jefe de terreno eléctrico sufrió
+quemaduras alrealizar laconexión del cable neutro enuntablero
+energizado, loquegeneró uncortocircuito entre labarra defase Tyel
+cable neutro, provocando unarcoeléctrico .
+
+Aprendizajes : oContar con un procedimiento para controlar trabajos no
+planificados enfines desemana . oReforzar ladisciplina yelcumplimiento deprocedimientos en
+intervenciones eléctricas .
+
+oCapacitar alasupervisión para cumplir sus funciones
+adecuadamente .Caída de estanque de perforadora CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP1 –Identificación y corte efectivo de las fuentes de energía
+CCP2 –Aislación y bloqueo de elementos de maniobra eléctricaCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 04 –Pérdida de control de energía 
+de alta intensidad
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Chuquicamata
+Obras MinaSubterránea
+Dirección Obras MinaSubterránea
+04/08/2024
+SIGMADivisión Ministro Hales
+Gerencia Mina -Perforación yTronadura
+Taller demantenimiento P&T
+28/09/2024
+Vecchiola S.A.Evento significativo conlesión :ElCapataz demoldeo, pidió alOperador
+Mantenedor especialista, que limpiara lapiquera porladisminución del
+flujo decobre ;sinembargo, eltrabajador cayó poruna escotilla abierta
+altazón enelnivel inferior aldirigirse arealizar latarea .
+
+Aprendizajes : o Reforzar lacultura deseguridad denuestros trabajadores, asegurando
+que revisen constantemente suentorno yusen adecuadamente laART. o Modificaciones en equipos oprocedimientos deben evaluarse para
+prevenir lageneración denuevos peligros (Gestión delCambio) .
+
+o Mejorar señalética eiluminación delasáreas operativas puede prevenir
+futuros incidentes .Evento significativo conlesión :Durante mantención planificada de
+Perforadora, sedetecta fuga deaceite demotor ysedecide reparar .Al
+retirar las protecciones inferiores, elestanque decombustible cae
+repentinamente golpeando yatrapando altrabajador . Aprendizajes :
+
+oLaorganización debe garantizar las condiciones de trabajo
+necesarias para cumplir con actividades demantenimiento yque
+lasempresas colaboradoras ysus trabajadores cumplan con los
+estándares mínimos requeridos por Codelco, además deidentificar
+requerimientos futuros que puedan generar nuevos riesgos .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Áreas Plantas yFuRe
+ Mantenimiento deequiposCaída distinto nivel a través de escotillaRC 01 –Interacción con energía eléctrica
+CCP3 –Instalación, operatividad y mantenimiento de 
+plataformas fijas temporalesRC 02 –Pérdida de equilibrio en altura física
+CCP1 –Identificación, aislación, bloqueo, 
+verificación de energía cero y liberación de energía. Trabajos entableros eléctricos
+

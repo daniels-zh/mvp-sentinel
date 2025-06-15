@@ -1,0 +1,72 @@
+Boletín de Eventos Relevantes N° 08 
+Intervención de correa sin bloquear
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+Vicepresidencia deProyectos
+Proyecto Andesita
+Teniente 7-Acarreo
+04/10/2024
+FMT Bbosch .
+
+Evento significativo sinlesión :Trabajador interviene equipo sinaplicar
+bloqueo personal, requerido para liberar lostecles que sostienen el
+contrapeso, loquepermitió lapartida delacorrea con personal aún en
+lazona detrabajo . Aprendizaje :
+
+oLasupervisión deMantenimiento yOperaciones deben asegurar y
+verificar enterreno elretiro delatotalidad deloselementos de
+bloqueo (mecánicos, eléctricos ehidráulicos) yelretiro efectivo de
+todo elpersonal que interviene elequipo, previo alapuesta en
+marcha .Desprendimiento de oreja de izaje CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP2 -Desenergización, bloqueo y verificación de energía cero del 
+sistema de control de equipos y máquinas con partes móvilesCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 03 –Perdida de control en maniobras de izaj e
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Andina
+Gerencia dePlantas
+Chancado ytransporte
+26/09/2024
+InnomoticsDivisión Gabriela Mistral
+Mantenimiento ÁreaHúmeda
+Chancador Secundario
+08/10/2024
+Salfa MantencionesEvento significativo sinlesión :Operador decamión tolva nosedetiene
+endisco pare, ingresando parcialmente aruta deacarreo demineral,
+colisionando camión deproducción porelcostado derecho .
+
+Aprendizaje : oLaorganización debe asegurar que los planes detránsito
+identifiquen eincorporen controles efectivos que segreguen el
+tránsito deequipos mina convehículos detransporte decarga o
+menores .Evento significativo sinlesión :Enactividad deretiro demonturines con
+puente grúa enárea dechancado ,sedesprende oreja deizaje soldada a
+lapieza, generando efectolátigo delaeslinga, lacual golpe aelcasco
+deltrabajador . Aprendizaje :
+
+Elárea demantenimiento debe asegurar método documentado del
+proceso deinstalación depuntos desujeción, indicando comomínimo : oMemoria decálculo delospuntos desujeción . oCaracterísticas del electrodo requerido, según tipo de metal o
+aleación ydiámetro según espesor delmaterial asoldar . oAmperaje correcto para soldar . oÁngulo desoldadura ybiselado odiseño dejunta soldada .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Operaciones con maquinaria industrial
+ Maniobras deizaje–Tiro yarrastreInteracción camión tolva y CAEXRC 09 –Interacción con partes móviles
+CCP3 –Sistema de diseño, construcción y 
+mantenimiento de infraestructura vialRC 25 –Pérdida de control de Maquinaria 
+Industrial Autopropulsada
+CCP4 . -Operatividad y mantenimiento
+de aparejos y elementos de izaje. Areas detransporte demineral yplantas
+

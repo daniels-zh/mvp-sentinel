@@ -1,0 +1,81 @@
+
+
+Boletín de Eventos Relevantes N° 03/2025 
+Traslado de camión con pluma extendida
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División ElSalvador
+Fundición yRefinería
+Camino Planta deFlotación deEscoria
+20/11/2024
+Codelco
+Evento significativo sinlesión :Ensector delacorrea CV207,operador de
+camión pluma traslada elequipo con lapluma extendida para
+continuar lasmaniobras deizaje enotro punto delacorrea .
+
+Aprendizajes : oToda maniobra deizaje concamión pluma debe estar debidamente
+planificada, considerando alomenos las competencias de los
+trabajadores ytiempos necesarios para eldesarrollo delaactividad . oLas maniobras deben contar con surespectivo plan de izaje
+considerando todas lasvariables delentorno, incluyendo eventuales
+cambios decondiciones detrabajo .
+
+oToda maniobra deizaje debe contar consegregación deárea .Interacción con equipo de demoliciónCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP7 –Planificación y ejecución de maniobra de izajeCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 27 –Interacción de personas con 
+equipos/ vehículos
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Radomiro Tomic
+Mantenimiento Planta
+Spreader CV-207
+15/11/2024
+Innovators Conveyort BeltDivisión Chuquicamata
+Fundición
+Caldera deHorno Flash
+07/12/2024
+MI SPAEvento significativo sinlesión :Operador de Cargador Frontal, al
+momento detrasladar parrilla tipo harnero, choca camioneta escolta
+porlaparte trasera, lacual seencontraba detenida .
+
+Aprendizajes : oToda actividad debe contar con uninstructivo detrabajo yART
+donde sedescriba elpaso apaso de latarea, identificando
+claramente lospeligros yriesgos asociados alamisma .
+
+oLaorganización debe contar con unestándar que regule las
+actividades ycriterios para larealización deescoltas deequipos .Evento significativo conlesión :Durante lalimpieza deacreciones enla
+Caldera deHorno Flash, utilizando unequipo dedemolición (pica roca)
+operado porjoystick adistancia, operador seacerca alequipo yrecibe un
+golpe enellado izquierdo delcasco (tipoJúpiter) . Aprendizajes :
+
+oLaorganización debe asegurar que lainformación técnica/seguridad
+contenida enlos manuales delos equipos, sean incorporadas en
+procedimientos de trabajo .(Ej:Radio de influencia del equipo/
+delimitaciones deoperación) . oFrente aactividades noprogramadas osolicitudes decambio de
+tareas, sedebe realizar una nuevaplanificación deltrabajo arealizar . oSedebe asegurar lascertificaciones delosoperadores deequipos .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Operación demaquinaria industrial
+ Tareas donde exista riesgo deinteracciónInteracción de equipo con vehículo liviano RC 03 –Pérdida control maniobras de izaje
+CCP3 -Sistema de diseño, construcción y 
+mantenimiento de infraestructura vialRC 25 –Pérdida control de maquinaria 
+industrial autopropulsada
+CCP2 –Segregación y control de acceso 
+en áreas de interacción
+Maniobras deizaje concamión pluma
+ 
+Brazo pica RocaEscotilla
+

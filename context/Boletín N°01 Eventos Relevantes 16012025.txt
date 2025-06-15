@@ -1,0 +1,85 @@
+
+
+Boletín de Eventos Relevantes N° 01/2025 
+Bloqueo realizado de forma incorrecta
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División Chuquicamata
+Fundición
+Refino yMoldeo
+17/11/2024
+Pacoll
+Evento significativo sinlesión :Trabajadores deempresa Fluitek realizan
+gestiones para bloqueo defreno deMolino Unitario 2,sinembargo,
+instalan candados de bloqueo enlacaja equivocada, quedando
+trabajadores expuestos aenergías producto delaintervención deun
+equipo sinbloquear ysinprueba deenergía cero .
+
+Aprendizaje : oAnte laausencia delsupervisor titular delatarea, sedebe garantizar
+que elreemplazo tenga elconocimiento ylas competencias
+necesarias para eldesarrollo delaactividad .
+
+oAsegurar que todos lostrabajadores seencuentren capacitados en
+losprocesos deaislación, bloqueo yverificación deenergía cero,
+realizando unaevaluación delentendimiento .Proyección de tapón ciego CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP1 –Identificación, aislación, bloqueo y 
+verificación de energía cero.CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 04 –Pérdida de control de energía de 
+alta intensidad
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Andina
+Mantenimiento
+Molienda SAG
+23/10/2024
+FluitekDivisión ElSalvador
+Planta Concentradora
+Túnel dedescarga deespesador N°3
+23/11/2024
+CodelcoEvento significativo sinlesión :Mientras serealizaban movimientos con
+elbrazo delcamión pluma, Rigger seacerca alequipo, quedando
+expuesto alainteracción con elmovimiento delapluma mientras ésta
+seretrae .
+
+Aprendizaje : oTodas lasmaniobras deizaje deben serdebidamente planificadas,
+asegurando lanoexposición alainteracción ylínea defuego .
+
+oToda maniobra de izaje debe contar con un protocolo de
+comunicación bidireccional entre rigger yoperador decamión
+pluma, elcual asegure claridad, constancia yfluidez de la
+comunicación durante toda laactividad .Evento significativo sinlesión :Durante laspruebas depuesta enMarcha
+enespesador N°3derelaves, sedesprende yproyecta tapón ciego con
+abrazaderas, hacia elmuro detúnel .(Tapón esusado para purga y
+limpieza) . Aprendizaje :
+
+oEnelmontaje decomponentes, piezas, uniones, tapones, entre otros ;
+se debe asegurar eluso de herramientas que garanticen el
+cumplimiento de las especificaciones técnicas relacionadas al
+montaje (Ejemplo :Llave detorque), loanterior con lafinalidad de
+asegurar laconfiabilidad del sistema yeliminar riesgos de
+proyecciones oliberaciones descontroladas deenergía .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Maniobras deIzaje
+ Actividades demantenimiento mecánicoTrabajadore se expone a maniobra de izajeRC 04 –Pérdida de control de energía de 
+alta intensidad
+CCP1 –Sistema de comunicación bidireccional
+entre operador y riggerRC 03 –Pérdida control maniobras de izaje
+CCP3 –Operación y mantenimiento de herramientas, equipos, 
+maquinaria, instalaciones y sistemas neumáticas e hidráulicos
+Procesos deMantenimiento Planta
+

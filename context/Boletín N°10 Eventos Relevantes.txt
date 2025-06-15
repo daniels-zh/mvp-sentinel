@@ -1,0 +1,88 @@
+
+
+Boletín de Eventos Relevantes N° 10 
+Desviaciones en proceso de tronadura
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División ElTeniente
+Mantenimiento Planta
+Mantenimiento enlínea enáreaflotación
+15/11/2024
+MPG
+Evento significativo sinlesión :Trabajadores deempresa Zublin que se
+encontraban fuera delabarrera sísmica, perciben efectos delproceso
+detronadura alinterior delaminasubterránea .
+
+Aprendizaje :
+
+oLasupervisión debe asegurar laevacuación delpersonal cercano ala
+tronadura, considerando todas lasvariables técnicas que puedan
+incidir enelproceso .Para loanterior sedebe contar con una Carta de
+loros que asegure elcierre efectivo alhalo deseguridad, esta carta
+debe seractualizada yverificada enterreno cada vezque serealiza
+unproceso detronadura .Todo loanterior debe ser debidamente
+coordinado ycomunicado con elpersonal que trabaja enelárea .Exposición de trabajador a interacción con equipoCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP2 -Gestión de Aislación y Evacuación/ "Carta de Loros"CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 27 –Interacción de personas 
+con equipos/ vehículos
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+Vicepresidencia deProyectos
+Proyectos Andes Norte
+Proyecto explotación Mina Andes Norte
+01/10/2024
+ZublinDivisión Chuquicamata
+Gerencia Mina
+Patio deelementos dedesgaste
+18/11/2024
+KomatsuEvento significativo dePérdidas :Mientras serealizaban trabajos de
+reparación con soldadura, enlínea desucción, seevidencia humo a
+través deladescarga delalínea deimpulsión .
+
+Aprendizaje :
+
+oLasupervisión debe asegurar unadecuado análisis delosriesgos
+cuando seejecuten trabajos encaliente, verificando que noexistan
+elementos combustibles que puedan generar unaignición, además
+decontar unprocedimiento específico para eldesarrollo delatarea
+que describa elmétodo detrabajo yelpaso apaso delaactividad,
+considerando todas las variables del entorno yestableciendo
+claramente loscontroles preventivos ymitigadores que deben estar
+presentes enlatarea .Evento significativo sinlesión :Enpatio deelementos dedesgaste, se
+detecta aoperador decamión, transitando alinterior delárea de
+operación ytránsit odegrúa horquilla que seencontraba realizando
+carguío depallet sobrecamión .
+
+Aprendizaje : oEnlasáreas endonde este identificado elriesgo deinteracción de
+personas con equipos, sedebe asegurar elaislamiento delazona, a
+través desegregaciones ycontroles deacceso que restrinjan el
+tránsito depersonas alinterior delasáreas deoperación ytránsito del
+equipo .Encaso derequerir alguna coordinación con eloperador, esta
+sedeberá realizar víaradial, asegurando unacomunicación efectiva y
+bidireccional .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Trabajos encaliente
+ Tareas coninteracción depersonas con equiposAmago de incendio en área de FlotaciónRC 08 –Pérdida de control 
+del proceso de tronadura
+CCP2 –Planificación, segregación y 
+ejecución de trabajos en calienteRC 06 –Perdida de control variables del fuego
+CCP1 –Segregación y control de acceso
+en áreas de interacción
+Procesos detronadura
+Imágenes referenciales
+

@@ -1,0 +1,81 @@
+Boletín de Eventos Relevantes N° 07 
+Pérdida de control de vehículo en mina rajo
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División ElTeniente
+Gerencia deProyectos
+Obras deconstrucción enProyecto RioBlanco
+19/09/2024
+Echeverria Izquierdo S.A.
+
+Evento significativo sinlesión :Mientras supervisor realizaba inspección
+detrabajos enárea mina rajo, conduciendo sucamioneta, pierde
+referencia del piso, provocando lapérdida decontrol delvehículo
+desbarrancando hacia banco inferior . Aprendizajes : oLos conductores devehículos deben mantenerse siempre atento alas
+condiciones del entorno, eliminando cualquier tipo dedistracción y
+detenerse enzonas habilitadas para realizar inspecciones, coordinaciones
+uotras actividades .
+
+oLaorganización debe asegurar que todos loscaminos yplataformas de
+trabajo enuso enárea minaestén autorizadas ycuenten con pretiles de
+seguridad deacuerdo con eltipo devehículos yequipo .Interacción entre camiones de extracciónCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP3 -Conducción competente y 
+sistema de gestión de conductas CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 25 –Pérdida de control de 
+Maquinaria Industrial Autopropulsada
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+División Andina
+Gerencia Mina
+Operaciones Mina
+12/09/2024
+CodelcoDivisión Radomiro Tomic
+Gerencia Mina
+Operaciones Mina
+01/10/2024
+CodelcoEvento significativo conlesión :Durante maniobras detiro yarrastre
+para retiro decañería, ésta se desplaza de forma imprevista,
+golpeando atrabajador que estaba expuesto enlalínea defuego .
+
+Aprendizajes : oToda maniobra detiro yarrastre debe serplanificada, validada por la
+supervisión ycoordinada con elequipo involucrado .Ante laocurrencia de
+imprevistos, sedebe replanificar laactividad . oLaplanificación delasmaniobras debe considerar alomenos :Fuerzas
+involucradas ;capacidades detiroyarrastre deequipos ;peso,geometría y
+dimensiones delacarga ;condiciones desuperficie, entre otros .
+
+oToda maniobra debe contar con protocolo decomunicación bidireccional
+ylostrabajadores nunca deben exponerse alalínea defuego .Evento significativo sinlesión :Mientras dos equipos deextracción se
+encontraban ensector de botadero, elCAEX 951 alreaculatarse
+colisiona aCAEX 952 que seencontraba posicionándose deforma
+perpendicular para realizar descarga dematerial enelsector . Aprendizajes :
+
+oOperadores deben cumplir con elprocedimiento devaciado en
+botaderos asegurando unacoordinación efectiva con eloperador
+deBulldozer que esdueño delárea . oLascoordinaciones operativas enelárea mina sedeben realizar a
+través deunacomunicación efectiva ybidireccional, identificando
+conprecisión acada uno delosequipos involucrados yatravés de
+una frecuencia radial establecida .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Maniobras detiroyarrastre
+ Operaciones MinaPérdida de control de maniobra de tiro y arrastreRC 10 –Perdida de control vehículo liviano
+CCP4 –Planificación y ejecución de 
+maniobras de tiro y arrastreRC 04 –Pérdida de control de energía 
+de alta intensidad
+CCP1 –Operación competente y 
+sistema de gestión de conducta.. Conducción área mina
+

@@ -1,0 +1,2992 @@
+
+
+Lecciones
+para aprender
+EVENTOS SIGNIFICATIVOS
+2021-2024
+CONTENIDOS
+2
+10 84
+1356
+PRÓLOGO 
+ Julio Cuevas,
+Vicepresidente de 
+Proyectos
+EVENTOS 
+SIGNIFICATIVOS
+POR RIESGOS CRÍTICOSCARTA DE VALORESINTRODUCCIÓN 
+Jorge Camhi, 
+Gerente de Seguridad y 
+Salud Ocupacional 
+CALIFICACIÓN 
+DE EVENTOS 
+SIGNIFICATIVOS RIESGOS CRÍTICOS 
+APLICABLES A LA VPLECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024
+5 4 
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024PRÓLOGO
+Vicepresidente de ProyectosEn Codelco declaramos en nuestra Carta de Valores un 
+principio fundamental que es el cuidado de las personas, 
+que significa cuidarse y cuidar la vida de todos y todas 
+quienes ejercen labores en nuestros proyectos.
+
+El valor “Nos cuidamos” nos llama a comprometernos 
+con la cultura de la prevención, a cumplir con todos los 
+controles de seguridad sin excepciones ni excusas; a 
+levantar la mano y pedir ayuda rápidamente ante riesgos 
+no controlados; y a estar atentos(as) a la propia salud física 
+y mental, y la de las personas con las que trabajamos.
+
+En los últimos años hemos lamentado la pérdida de colegas 
+mientras desempeñaban sus labores en nuestras obras y 
+no queremos que esas pérdidas sean un doloroso recuerdo. Debemos conocer, difundir y asegurar el cumplimiento de 
+los aprendizajes que los accidentes nos dejan porque es la 
+forma de asegurarnos de que no vuelvan a ocurrir.
+
+Todos y todas quienes trabajamos en la Vicepresidencia 
+de Proyectos, tenemos la obligación y la oportunidad de 
+interiorizarnos e implementar, no sólo sobre los Riesgos y 
+Controles Críticos asociados a las tareas que se realizan en 
+terreno, sino también sobre las causas, controles ausentes 
+o fallidos, acciones correctivas y aprendizajes de cada 
+evento significativo que registramos.
+
+Hemos recopilado los principales eventos significativos 
+de los últimos años, con el fin de compartir experiencias 
+valiosas que nos ayuden a mejorar nuestra gestión y así 
+cumplir con nuestra misión de ejecutar la cartera de 
+proyectos de inversión de CODELCO, sin accidentes graves 
+y fatales, asegurando el cumplimiento del alcance, plazo, 
+costo y calidad comprometidos con el dueño.
+
+Analizar los aprendizajes e implementar sus acciones 
+correctivas nos permitirá avanzar a paso firme hacia la Cero 
+Fatalidad, evitando los errores del pasado y generando 
+buenas prácticas para asegurar que cada trabajador y 
+trabajadora que llega a nuestras faenas, vuelva a su casa 
+sin novedad. Cuidémonos y cuidemos de la vida de todas las personas 
+que trabajan con nosotros(as).
+
+Julio Cuevas Ross
+Vicepresidente de Proyectos
+7 6 
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En la Vicepresidencia de Proyectos de Codelco, la seguridad 
+es mucho más que una prioridad, es un compromiso 
+inquebrantable con cada persona que forma parte de 
+nuestra organización.
+
+Esta recopilación de aprendizajes 
+en seguridad y salud ocupacional es una herramienta 
+esencial, elaborada para todos(as) los(as) profesionales VP y 
+trabajadores(as) de nuestras empresas contratistas, con el 
+fin de mantener viva la memoria de los eventos significativos 
+que han marcado nuestra historia y, lo más importante, 
+aprender de ellos para prevenir que se repitan. Este documento está alineado con los valores que nos 
+guían:
+
+“Nos cuidamos”, reflejando nuestro compromiso 
+con la protección de las personas; “Respeto”, honrando a 
+las víctimas y sus familias; “Excelencia e Innovación”, como 
+base para la mejora continua de nuestros procesos; y 
+“Colaboración”, fortaleciendo la unión entre todos(as) los(as) 
+trabajadores(as) y profesionales de la VP.
+
+Invitamos a todos(as) a utilizar este documento como 
+una herramienta de análisis y consulta cada vez que nos 
+encontremos con situaciones similares a las que nos han 
+marcado como organización, donde el riesgo sigue latente, 
+de tal manera que incorporemos las lecciones que nos 
+dejan estos eventos. Que este cuaderno sea un recordatorio 
+constante de que cada acción cuenta y que cada lección 
+pueda marcar la diferencia entre un riesgo controlado y 
+uno materializado.
+
+Utilízalo siempre como una guía para 
+gestionar y mitigar riesgos con eficacia y compromiso. Sigamos construyendo juntos(as) una cultura de seguridad 
+sólida y sostenible. Y sigamos reforzando nuestro 
+compromiso compartido con la vida y la seguridad de todos 
+y todas. Jorge Camhi Andrade
+Gerente de Seguridad y Salud Ocupacional
+Vicepresidencia de Proyectos, CodelcoINTRODUCCIÓN
+Gerente de Seguridad y Salud OcupacionalAprender para no repetir 
+eventos que no queremos:
+
+Construyendo juntos(as) una 
+cultura de seguridad
+9 8 
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024RIESGOS CRÍTICOS APLICABLES A LA VPRC01 Interacción 
+con Energía 
+EléctricaRC11 Interacción con
+Espacios Confinados
+RC04 Pérdida de 
+Control de Energías 
+de Alta IntensidadRC18 Pérdida de 
+Control Estabilidad 
+Roca Subterránea
+RC08 Pérdida de 
+Control de Manejo de 
+Sustancias ExplosivasRC09 Interacción 
+con Partes MóvilesRC10 Pérdida 
+de Control de 
+Vehículo LivianoRC06 Pérdida de 
+Control de Variables 
+del FuegoRC19 Pérdida 
+Instantánea de 
+la Estabilidad de 
+Excavaciones en 
+Labores SubterráneasRC07 Pérdida de 
+Control del Manejo de 
+Sustancias Químicas 
+PeligrosasRC20 Pérdida 
+del Control de 
+Fuentes de 
+Emisión de PolvoRC22 Pérdida 
+de Control de 
+Estructuras para 
+Tránsito y Uso de 
+PersonasRC02 Pérdida 
+de Equilibrio 
+Trabajo en 
+Altura FísicaRC13 Pérdida de 
+Control de Objetos 
+en AlturaRC03 Pérdida 
+de Control 
+Maniobras de 
+IzajeRC16 Interacción con 
+Puntos de Vaciado, 
+Chimeneas y Piques
+RC24 Pérdida 
+de Control de la 
+Estabilidad de TaludRC25 Pérdida 
+de Control de 
+Maquinaria Industrial 
+AutopropulsadaRC27 Interacción 
+de Personas con 
+Equipos/Vehículos
+11 10 
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024
+EVENTOS
+SIGNIFICATIVOS
+POR RIESGOS CRÍTICOS
+13
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 12
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Posterior al evento climático, se energiza 
+eléctricamente la subestación de ADIT 71, ante 
+lo cual se realizan coordinaciones para que 
+personal acuda a realizar las maniobras para 
+alimentar la subestación N° 1.
+
+Es en esta tarea 
+donde el trabajador electricista al intentar 
+realizar una maniobra de medición de aislación 
+del cable de media tensión, toma contacto 
+con la parte inferior del desconectador fusible 
+recibiendo una descarga eléctrica. •Supervisión de la EECC no cumplen 
+procedimientos y estándares, que mandatan: - Identificación de energías. - Bloqueos de las fuentes. - Bloqueo personal. - Medición de energía cero. - Puesta a tierra de seguridad. - Uso de EPP adecuado al riesgo.
+
+- Licencia interna para media tensión. •Verificar cumplimiento de “decálogo del 
+supervisor” en terreno, a toda la supervisión. •Incorporar en proceso de reclutamiento la 
+evaluación de competencias y prácticas de 
+liderazgo en seguridad de los supervisores. •Diseñar metodología que permita verificar las 
+competencias del personal electricista.
+
+•Dueños(as) de riesgos deberán verificar el 
+cumplimiento de los estándares eléctricos y 
+levantar toda desviación en la aplicación de 
+los controles críticos. RC 1 
+Interacción con 
+Energía Eléctrica
+Calificación: Accidente fatal. Control ausente o fallido: CCP1: Identificación y corte efectivo de todas las 
+fuentes de energía. CCP2: Aislación y bloqueo. CCP3: Verificación de ausencia de tensión e 
+instalación de puesta a tierra. CCP5: Competencias para personal electricista.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La supervisión y los(as) trabajadores(as) deben asegurar de forma rigurosa el cumplimiento de los 
+procedimientos de trabajo, los estándares técnicos definidos y el uso y aplicación obligatoria de las 
+herramientas de seguridad (SODI, ART, TV, controles críticos que salvan vidas). Proyecto Andes Norte
+ZÜBLIN
+29-06-2023
+Subestación N°1 plataforma Adit 74/75
+15 14
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En cámara de banco ducto, una cuadrilla de 
+eléctricos se encontraba realizando retiro de 
+cables que estaban desconectados en ambos 
+extremos, luego de haber retirado 10 mts.
+
+con 
+tecle de palanca desde el túnel de subestación, 
+se decide realizar corte de cables para optimizar 
+el retiro, el cual se realiza en un cable adyacente 
+que se encontraba energizado, generando 
+exposición de trabajador a arcflash. •Equipo eléctrico presenta permisividad, 
+tolerancia a ejecución de trabajos sin 
+supervisión. •Falta de competencias por parte de equipo 
+eléctrico para el desarrollo de la tarea.
+
+•Supervisión presenta carencia en la 
+identificación y control de los riesgos 
+relacionados con la tarea. •Planificación y/o programación inadecuada 
+del trabajo de retiro de cable, no se consideró 
+corte del cable al interior de cámara y no se 
+contempló el paso a paso en procedimiento 
+específico de trabajo. •Evaluación de requisitos y competencias 
+para identificación y control de riesgos de la 
+supervisión y trabajadores electricistas.
+
+•Realizar taller de capacitación y entrenamiento 
+con supervisores y trabajadores eléctricos del 
+contrato. •Actualizar Reglamento Eléctrico Corporativo, 
+instructivo de solicitud de desconexión e 
+intervención SODI e instructivo de obtención 
+de licencia eléctrica. RC 1
+Interacción con 
+Energía Eléctrica
+Calificación: Evento significativo con lesión. Control ausente o fallido: CCP1: Identificación y corte efectivo de todas las 
+fuentes de energía. CCP5:
+
+Competencias para personal electricista 
+que interviene tableros, equipos y sistemas 
+eléctricos. CCP8: Maniobras operacionales, pruebas y 
+mediciones en equipos y/o sistemas eléctricos 
+energizados.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Es fundamental que tanto al inicio, durante o al término de cada actividad y debido a la complejidad 
+y criticidad de las tareas donde se encuentra identificado este riesgo, es necesario instaurar una 
+cultura de cero permisividad de manera que nos permita realizar nuestras actividades de manera 
+eficiente y segura.Proyecto Rajo Inca
+EIMISA
+09-08-2023
+Torre transferencia eléctrica
+17 16
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante la realización de trabajos de 
+mantención rutinaria del tablero eléctrico 
+(380/220 V), al efectuar mediciones de voltaje 
+aguas arriba de breaker general, se produce 
+corto circuito, dañando las puntas de prueba 
+del instrumento.
+
+•Actividad se realiza sin procedimiento de 
+mantención que contemple la tarea de 
+mediciones con energía. •Instrumento de medición con falla en 
+protección por inadecuada configuración. •Intervención de tablero con presencia de 
+energía. •Elaborar e implementar plan de trabajo que 
+cruce las actividades de planificación versus 
+alcances y controles críticos.
+
+•Implementación de procedimiento especial 
+para trabajos con energía (medición 
+de variables), verificación de normas 
+eléctricas chilenas vigente y actualización 
+de procedimientos de bloqueo y para 
+intervención de equipos energizados.
+
+RC 1
+Interacción con 
+Energía Eléctrica
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Los procedimientos de trabajo, deben asegurar un nivel de desarrollo detallado de las tareas a 
+ejecutar indicados en su paso a paso, garantizando una visualización exhaustiva del desarrollo del 
+mismo y una correcta identificación de peligros, evaluación de riesgos y definición de controles.Proyecto Andesita
+SALFA
+16-05-2023
+Instalación de faenaCalificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP5: Competencias para personal electricista 
+que interviene tableros, equipos y sistemas 
+eléctricos. CCP7: Mantenimiento programado a 
+instalaciones, equipos e instrumentación 
+eléctrica. 19 18
+¿El evento puede ocurrir en mi área de trabajo? ¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas?
+
+¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En circunstancias que el trabajador realizaba 
+actividades de instalación de planchuelas 
+y apriete de tuercas de fortificación en caja 
+norte del pique, posicionado sobre una escala, 
+capataz corta sujeción de plataforma de trabajo 
+que se encontraba afianzada con una soga a la 
+caja opuesta (sur), generando un movimiento 
+pendular de la plataforma, la cual golpea al 
+trabajador en torso superior izquierdo.
+
+•Supervisión autoriza el uso de escalera para 
+realizar trabajos en altura y no se evalúan los 
+trabajos en simultáneo. •Falta de liderazgo y controles insuficientes para 
+la ejecución de la tarea en interior del pique. •Deficiencias en el análisis técnico de la 
+plataforma móvil. •Estándares de trabajo no establecen en detalle 
+la secuencia metodológica para realizar la tarea. •No se identifica una disciplina organizacional 
+que garantice la verificación sistemática del 
+proceso constructivo.
+
+•Robustecer la estructura organizacional 
+para fortalecer el rol del supervisor de la 
+construcción del pique. •Incrementar las confirmaciones de proceso y 
+confirmaciones de rol, asociadas a los riesgos 
+críticos y a los supervisores relacionados a la 
+construcción del pique. •Rediseño de la plataforma (sistema de 
+acercamiento y estabilización) y actualizar 
+metodología de trabajo. •Realizar taller de análisis de la metodología 
+constructiva en cada operación unitaria.
+
+•Instalación de sistema de televigilancia al 
+interior del pique. RC 2 
+Pérdida de Equilibrio 
+Trabajo en Altura Física
+Calificación: Evento significativo con lesión. Control ausente o fallido: CCP3: Instalación, operatividad y 
+mantenimiento de plataformas fijas 
+temporales. CCP4: Instalación, operatividad y 
+mantenimiento de plataformas móviles.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Es fundamental aplicar correctamente cada paso del ciclo de Deming (Planificar, Hacer, Verificar, 
+Actuar) y, mediante una verificación constante, asegurar la implementación de lo establecido, 
+corroborar la comprensión y la adhesión genuina de los involucrados en la gestión de los controles, 
+y/o detectar tempranamente potenciales ajustes a la metodología constructiva.Proyecto Mina Chuquicamata Subterránea
+Strabag Edilmac
+16-06-2024
+Pique de extracción de aire N2/PK76
+21 20
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Trabajador pierde el equilibrio y cae 1,5 metros 
+quedando suspendido desde su sistema de 
+protección de caída a 5.2 metros de altura, 
+posteriormente se sostiene del cuerpo del 
+andamio existente en el lugar.
+
+•Utilización de plataformas de andamio fuera 
+de estándar validada por persona que no tiene 
+el rol de supervisión. •Falta de supervisión in situ mientras se realiza 
+trabajo crítico de modificación de andamio en 
+altura. •Planificación deficiente para la tarea de 
+modificación del cuerpo del andamio. •Evaluación y cierre de brechas sobre hábitos 
+operacionales en trabajos en altura y armado 
+de andamios. •Capacitación teórico-practica para disciplina 
+de andamieros.
+
+•Reforzar con la supervisión la primera 
+respuesta ante emergencias. RC 2
+Pérdida de Equilibrio 
+Trabajo en Altura Física
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP1: Capacitación y entrenamiento, trabajos
+en altura física. CCP3: Instalación, operatividad y 
+mantenimiento de plataformas fijas 
+temporales.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar las competencias requeridas para los trabajos en altura física en 
+trabajadores(as), andamieros y supervisores(as), controlando su desempeño de manera sistemática.Cartera de Proyectos Andina / DLN 
+extendido
+MONTEC
+31-08-2022
+Piso 4 nueva Planta HDS
+23 22
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Por efectos de ráfagas de viento en el área, pieza 
+de caja escala de plataforma de andamios cae 
+desde altura apróx. de 10 metros, la plataforma se 
+encontraba en proceso de desarme, al momento 
+del evento no había personal en el área.
+
+•Condición climática presente (ráfagas de 
+viento sobre los 70 km/h). •La organización desconoce la implementación 
+completa definida por el proveedor 
+(modelación que incluya los seguros de 
+plataformas). •Procedimiento interno no declara la 
+metodología correcta de afianzamiento de 
+caja escalas. •Revisión general de los cuerpos de andamios 
+existentes en el proyecto, asegurando 
+momentáneamente con fijaciones de 
+alambre tortoleado, hasta la llegada del 
+material faltante (anclajes).
+
+•Solicitud de elementos de afianzamientos 
+a especialista, considerando pieza estándar 
+según fabricante (anclajes). •Incluir en el procedimiento de armado y 
+desarme de andamios, la consideración, 
+especificación y controles de afianzamiento a 
+cajas escalas de andamios. Calificación: Evento significativo sin personas 
+expuestas. Control ausente o fallido: CCP3: Instalación, operatividad y 
+mantenimiento de plataformas fijas 
+temporales.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La supervisión especialista y de línea deben verificar permanentemente y como primer ítem 
+de revisión, los dispositivos de seguridad de todos los cuerpos de andamios (anclajes, chavetas, 
+soportes, etc.).Proyecto RT Óxidos
+SALFA
+03-08-2024
+Plataforma superior, Área ÓxidosRC 2 
+Pérdida de Equilibrio 
+Trabajo en Altura Física
+25 24
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Operador de camión pluma, en tarea de descarga 
+de paquetes de malla Acma, una vez posicionados 
+y estabilizados éstos en el piso, se procede a retirar 
+pulpo cadena para liberar la carga, quedando 
+uno de los ganchos instalados, al mover la pluma 
+para realizar la siguiente descarga, las mallas se 
+desestabilizan y desplazan hacia la caja del túnel, 
+lesionando al trabajador.
+
+•Baja percepción al riesgo, al ubicarse en línea 
+de fuego de desplazamiento o caída de mallas. •Fallas de coordinación entre el operador y el 
+rigger. •No se efectúa análisis de riesgo de la tarea ni 
+plan de izaje. •Falta de supervisión en terreno. •Capacitación inadecuada para la tarea 
+específica desarrollada. •Modificar instructivo de maniobras de izaje. • Definir y habilitar sectores de almacenamiento 
+de materiales. •Comprar y entregar radios a rigger y operador 
+camión pluma.
+
+•Definir e implementar sistema de sujeción 
+para izaje de mallas. RC 3
+Pérdida de Control 
+Maniobras de Izaje
+Calificación: Evento significativo con lesión. Control ausente o fallido: CCP1: Sistema de comunicación bidireccional 
+entre el operador y el rigger. CCP6: Competencias para el personal que 
+participa en maniobras de izaje. CCP7: Planificación y ejecución de maniobra de 
+izaje.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Se debe dar la misma atención y relevancia al control de los riesgos críticos de las tareas transversales 
+o de soporte al servicio principal del contrato, reforzando la presencia efectiva y el control de la 
+supervisión para evitar la repetición de eventos.Proyecto Andes Norte
+ZÜBLIN
+24-04-2021
+Túnel correa entre PK 2500 y 2505
+27 26
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Al realizar maniobra de movimiento de 
+generador eléctrico con puente grúa, el 
+polipasto alcanza la baranda de plataforma de 
+trabajo, la cual golpea a dos trabajadores que se 
+encontraban en su interior.
+
+•Jefe de terreno no informa sobre prueba en 
+vacío realizada, en la que se verificó que el 
+polipasto alcanza plataforma de trabajo. •Supervisor y capataz no realizan una adecuada 
+evaluación de riesgos de la actividad. •No se advierten los riesgos de no generar 
+barrera dura y cumplir con protocolo de 
+bloqueo establecido . •Planificación de la actividad no considera la 
+prohibición de movimiento del polipasto .
+
+•Para la ejecución de actividades o trabajos 
+críticos, que no se encuentren dentro de 
+procedimiento o estándares, se deberá 
+desarrollar un procedimiento específico. •Realizar curso de aversión al riesgo a toda la 
+línea de mando y cargos críticos. •Generar procedimiento de comunicación, 
+orientado a la entrega entre turnos . RC 3 
+Pérdida de Control 
+Maniobras de Izaje
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP6:
+
+Competencias para el personal que 
+participa en maniobras de izaje. CCP7: Planificación y ejecución de maniobra 
+de izaje.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar que toda tarea crítica debe contar con un procedimiento específico, 
+claro, revisado, difundido y evaluado, el que debe ser realizado por personal idóneo para la ejecución 
+desde los ámbitos técnicos y de seguridad y salud ocupacional.Proyecto Rajo Inca
+SIGMA
+07-03-2022
+Puente Grúa Molienda
+29 28
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En proceso de retiro de cañería de 24” de agua de 
+retorno, con grúa Terex de 55 Ton, se comienza 
+el proceso de desmontaje (tensado final), en 
+el cual, al realizar el último tramo de corte en 
+la cañería se desestabiliza repentinamente 
+provocando daño en plataforma de trabajo al 
+apoyarse intempestivamente sobre ésta.
+
+•Equipo de trabajo no detecta desviaciones 
+al realizar cambio en la metodología de 
+desmontaje. •Procedimiento no contiene metodología de 
+trabajo para retirar la cañería antes de ser 
+cortada. •Plan de izaje mal confeccionado. •Incorporar en el procedimiento la metodología 
+para actividades de desmontaje de cañerías, 
+asegurando la estabilidad de la carga antes de 
+tomar con maniobra y grúa o equipo de izaje. •Revisión de las competencias de los 
+operadores y rigger.
+
+RC 3
+Pérdida de Control 
+Maniobras de Izaje
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP6: Competencias para el personal que 
+participa en maniobras de izaje. CCP7: Planificación y ejecución de maniobra de 
+izaje.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe reforzar el rol y las responsabilidades de la línea de supervisión a cargo, para 
+asegurar el cumplimiento cabal de los controles críticos asociados.Proyecto Rajo Inca
+EIMISA
+16-04-2023
+Línea 24’ Talleres, nueva remolienda. 31 30
+¿El evento puede ocurrir en mi área de trabajo? ¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas?
+
+¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante la maniobra de descenso del cable 
+alimentador, clase 500 mcm, al acomodarse en 
+piso genera un movimiento del cable que ya se 
+encontraba sobre escalerilla superior golpeando 
+brazo y rostro del trabajador.
+
+•Falta de mecanismo de retención mecánica 
+ante desplazamiento del cable por tiro de 
+sondaje debido al peso propio de éste. •Falta de conocimiento del personal eléctrico en 
+maniobras manuales especiales y aplicación 
+de controles. •Elaboración de un instructivo específico de 
+tendido de cable de MT en la vertical del tiro 
+de sondaje, considerando equipos mecánicos 
+de retención y soporte, permiso de maniobras 
+manuales, checklist de elementos críticos y 
+memoria de cálculo.
+
+•Incorporación de supervisor de estructura 
+durante el inicio de trabajos en cada jornada 
+para doble verificación y controles asociados. •Actualización de procedimiento maniobras 
+de izaje según nuevo estándar control de 
+maniobras. RC 3
+Pérdida de Control 
+Maniobras de Izaje
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP6: Competencias para el personal que 
+participa en maniobras de izaje. CCP7: Planificación y ejecución de maniobra 
+de izaje.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Los trabajos de tendido de cable en vertical deben considerarse como maniobras críticas asociadas al 
+uso de equipos de tiro/arrastre, las metodologías de trabajo definidas en procedimientos e instructivos 
+operativos deben cumplirse y verificarse a cabalidad en terreno y, en caso de modificaciones, debe 
+aplicarse gestión del cambio involucrando a todas las disciplinas de la empresa.Cartera de Proyectos Andina
+SALFA
+13-05-2024
+Túnel rampa conectividad nodo 3.500
+33 32
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante el despliegue del cable de media 
+tensión hacia túnel 3500, por tiro encamisado 
+de 14”, se corta malla de sujeción de cable para 
+huinche de retención, generando descenso del 
+último tramo de cable hacia interior túnel.
+
+•Proceso de verificación y control en terreno no 
+se ejecutó de acuerdo con instructivo. •Solicitud de malla de tiro no cumple capacidad 
+de carga, según memoria de cálculo indicada 
+en instructivo. •Elaboración de procedimiento específico 
+de tendido de cable de MT en la vertical 
+incorporando check list faltantes, permisos de 
+maniobras manuales, roles y responsabilidades 
+de supervisión, diagramas de maniobras.
+
+•Incorporación en programa de CdP del riesgo 
+crítico N°3, focalizado en actividades de 
+tiro y arrastre para especialidades eléctrica, 
+estructura, mecánica y piping. •Compra de mallas tiracable en cantidad 
+suficiente y de acuerdo con las especificaciones 
+técnicas y memoria de cálculo elaborada para 
+la actividad. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP7: Planificación y ejecución de maniobra 
+de izaje.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Los trabajos de tendido de cable en vertical deben considerarse como maniobras críticas asociadas 
+al uso de equipos de tiro/arrastre, el liderazgo de la línea de mando es fundamental tanto en la 
+planificación del trabajo como en la verificación del proceso y el control en terreno, asegurando el 
+cumplimiento de los controles críticos establecidos.Cartera de Proyectos Andina
+SALFA
+19-05-2024
+Banco 3580 tiro sondaje a túnel 3.500RC 3
+Pérdida de Control 
+Maniobras de Izaje
+35 34
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En labores de reparación de porta calzas de 
+cargador frontal, el balde del equipo genera 
+movimiento inesperado, ya que durmientes 
+ceden de la posición inicial en la que se instalaron, 
+provocando que una de las calzas golpeara en la 
+zona lumbar a un trabajador.
+
+•El personal no evalúa la exposición a la 
+liberación de energía del balde. •No se realiza ART específico de la actividad. •Procedimiento no es específico en los recursos 
+a utilizar para soportar balde. •Programación y planificación deficiente del 
+trabajo. •Ejecutar plan de reforzamiento para mejorar 
+la identificación de los peligros y evaluación 
+de riesgos por parte del personal. •Realizar mejoramiento y revisión del 
+procedimiento de trabajo, con la participación 
+de los trabajadores.
+
+•Revisar las competencias técnicas de todo el 
+personal del área, además acreditar y certificar 
+al personal de acuerdo a estándar. RC 4
+Pérdida de Control 
+de Energía de Alta 
+Intensidad
+Calificación: Evento significativo con lesión. Control ausente o fallido: CCP1: Identificación, aislación, bloqueo, 
+verificación de energía cero y liberación de 
+energía.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe implementar procedimientos específicos para realizar las tareas, incluyendo 
+un paso a paso y definiendo los recursos necesarios para ejecutar la actividad de manera segura.Proyecto Rajo Inca
+Consorcio BELAZ MOVITEC
+01-05-2022
+Patio de armado, sector Mina Rajo
+37 36
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante trabajos de lechado de pernos para 
+consola de portón, al cerrar la hoja del portón 
+esta atrapa el brazo derecho del trabajador por 
+dirección de flujo del viento. •Capacitación e instrucción: Expertise 
+insuficiente para el desarrollo de los trabajos.
+
+•Planificación deficiente: Cuadrilla de distintos 
+contratos con algunos trabajadores con 
+extensión de jornada, disposición de recursos 
+acotado, inasistencia POD del supervisor. •Ausencia de estándar: Metodología 
+insuficiente para controlar e identificar los 
+riesgos y exigencias de la tarea. •Diseño de las puertas no considera elementos 
+de manipulación. •Definir competencias y experiencia de los 
+trabajadores y supervisor para desarrollar 
+trabajos de distinta naturaleza.
+
+•Reforzar con los lideres la importancia de la 
+planificación en la identificación y evaluación 
+de los nuevos riesgos. •Definir metodología de manipulación de 
+puertas de incendio y ventilación con tecles u 
+otro medio mecánico, para asegurar apertura 
+y cierre gradual. •Capacitación en la identificación de energías 
+y consecuencias relacionadas a la exposición. Calificación: Evento significativo con lesión. Control ausente o fallido: CCP1:
+
+Identificación, aislación, bloqueo, 
+verificación de energía cero y liberación de 
+energía.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe aprender a detenerse y a reformular las metodologías cuando no están las 
+condiciones o los recursos.Proyecto Andes Norte
+Fleischmann (subcontrato ZÜBLIN)
+27-08-2022
+Portón contra incendios N° 827 OP 14, 
+Rampa Salida de EmergenciaRC 4
+Pérdida de Control 
+de Energía de Alta 
+Intensidad
+39 38
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En tarea de inspección de falla de camión mixer, 
+el técnico de mantención decide no entrar a 
+foso, para comunicarse con su compañero, 
+posicionándose entre neumático de eje de apoyo 
+(tercer eje) y neumático traccional (segundo eje), 
+cuando el eje de apoyo cae, aprisionando el ante 
+brazo derecho con el neumático.
+
+•Evaluación deficiente de las necesidades y los 
+riesgos. •Procedimiento de trabajo insuficiente 
+(inspección desde el foso). •Mapa de procesos no identifica las tareas 
+de inspección de falla y reparación de tren 
+de apoyo generando un análisis de riesgos 
+inadecuado. •Implementar dispositivo de contención para 
+tarea de reparación en eje de apoyo. •Implementar segregación en el eje de apoyo. •Actualización de procedimiento de trabajo 
+incluyendo el paso a paso de la tarea. Calificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP1: Identificación, aislación, bloqueo, 
+verificación de energía cero y liberación de 
+energía. CCP3: Operación y mantenimiento de 
+herramientas, equipos, maquinaria, instalaciones 
+y sistemas neumáticos e hidráulicos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe mantener los controles activos en todas las actividades siendo éstas de 
+baja o alta criticidad, sin subestimar los riesgos asociados.Proyecto Mina Chuquicamata Subterránea
+CBB
+05-04-2023
+Taller de mantención Plataforma 12RC 4
+Pérdida de Control 
+de Energía de Alta 
+Intensidad
+41 40
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante la actividad de ajuste de spool N°1, 
+que contempla la realización de trabajos en 
+caliente, se genera proyección de partículas 
+incandescentes hacia el cajón del underflow de 
+la batería de hidrociclones, la cual toma contacto 
+con revestimiento de caucho natural y de forma 
+paulatina se produce la ignición del material, 
+que trae por consecuencia la generación de un 
+incendio en el equipo.
+
+•Desarrollo de trabajos en caliente en área con 
+presencia de material combustible. •Supervisión, ITOs y trabajadores con falta de 
+rigurosidad en el control y análisis de riesgos 
+de seguridad de la tarea y el entorno. •Vigías del fuego no cuentan con las 
+competencias para la identificación de 
+peligros bajo condiciones especiales. •Evaluación de competencias para 
+identificación y control del riesgo de la 
+supervisión y trabajadores.
+
+•Asegurar que vigía del fuego tenga 
+conocimientos de materiales, su combustión 
+y control de incendio. •Actualizar procedimientos de trabajo con 
+metodología para el montaje y desmontaje 
+de piping. •Instalar señalética en zonas donde no se debe 
+desarrollar trabajos en caliente. RC 6
+Pérdida de Control de
+Variables del Fuego
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP2:
+
+Planificación, segregación y ejecución de 
+trabajos en caliente (oxicorte, soldadura, corte y 
+desbaste, plasma). DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe contar con el mapeo de las áreas que tengan materiales combustibles, los 
+que deben ser difundidos y actualizados permanentemente.Proyecto Rajo Inca
+EIMISA
+08-10-2023
+Sección 5, Nave Molienda, Planta 
+Concentradora
+43 42
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante el traslado de grúa Grove se detecta 
+humo, el operador se percata de la situación y de 
+manera preventiva se detiene, corta la corriente 
+y percuta el extintor del equipo controlando la 
+situación. •El equipo fue sometido a un cambio de 
+componente en terreno.
+
+•En revisión del equipo por personal mecánico, 
+se detecta fuga de aceite por empaquetadura 
+de unión de flexible del turbo. •Toda falla mayor de vehículos/maquinarias 
+serán atendidas en dependencias del 
+proveedor del equipo y/o en visitas técnicas. •Actualización del procedimiento donde 
+se establecerá y definirá la clasificación de 
+componentes a intervenir. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP6:
+
+Identificación y mantención de equipos y 
+componentes críticos con potencial de generar 
+temperatura de ignición.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe definir y especificar los componentes mayores y/o menores 
+a intervenir/mantener, para dar seguimiento y trazabilidad a las mantenciones y 
+reparaciones realizadas por el proveedor.Proyecto RT Óxidos
+SALFA
+25-03-2024
+Plataforma superior, SulfurosRC 6
+Pérdida de Control de
+Variables del Fuego
+45 44
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor de camión ingresa al sector de acopio 
+temporal de material de filtro para alfombra 
+drenante, al llegar al lugar retrocede para 
+posicionarse en zona de descarga, se detiene e 
+inicia proceso de levante de tolva, al descargar 1 
+m3 apróx.
+
+el camión se vuelca hacia su costado 
+izquierdo. •Motivación incorrecta: Chofer declara 
+existencia de inclinación y mal estado de 
+neumáticos y procede igual a descargar. •Supervisión deficiente en la evaluación, 
+programación y planificación de uso de la 
+zona 2 como acopio temporal. •Metodología de trabajo deficiente, no se 
+establecen restricciones y prohibiciones 
+relacionados con el vehículo y condiciones del 
+lugar.
+
+•Revisión de todos los sectores de acopios 
+transitorios y evaluar su condición de riesgos. •Actualizar procedimiento de carga, transporte 
+y descarga de áridos, el cual debe considerar 
+restricciones y prohibiciones de la metodología. •Implementar certificación de competencias de 
+conductores y certificado de operatividad de 
+vehículos.RC 10
+Pérdida de Control de 
+Vehículo Liviano
+Calificación: Evento significativo con lesión. Control ausente o fallido: CCP2:
+
+Sistema de gestión de tránsito y ruta. CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe verificar el desempeño de las competencias críticas de operadores(as) y 
+conductores(as) de maquinarias y vehículos, asegurando además un buen estándar en los sectores 
+de carga y descarga.Proyecto Tranque Ovejería Etapa III
+POWERTRAK
+11-08-2021
+Costado Poniente Dren Emisario N°16
+47 46
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En traslado de materiales desde la bodega 
+principal, el operador del camión plano pierde 
+el control del vehículo mientras bajaba por la 
+rampa de ADIT 74, chocando contra el costado 
+derecho del muro del ventilador de extracción, 
+resultando atrapado en la cabina del equipo.
+
+•Cumplimiento inadecuado de procedimientos, 
+empresa no asegura que sus operadores se 
+encuentren acreditados para conducir vehículos 
+de acuerdo a marca, modelo y tipo. •Supervisión no cumple con restricción de 
+ingreso a ADIT de vehículos que deban hacer 
+uso del freno de servicio para controlar la 
+velocidad en rampa. •Camión plano con sobrecarga. •Revisión de competencias y licencias de 
+operadores del contrato.
+
+•Modificación del procedimiento de trabajo, 
+estableciendo el paso a paso, responsabilidades 
+y comunicación en la tarea de carga de 
+materiales. •Revisión de correcta TARA de vehículos de 
+transporte de carga y su respectivo rotulado. Calificación: Evento significativo con lesión. Control ausente o fallido: CCP1: Certificación / calificación de los vehículos 
+livianos. CCP4: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar la implementación inmediata de los lineamientos definidos por la 
+VP, en especial aquellos que sean generados a partir de las investigaciones de eventos significativos.Proyecto Andesita
+ZÜBLIN
+01-02-2023
+ADIT 74, Frontón de ventilador V-74.RC 10
+Pérdida de Control de 
+Vehículo Liviano
+49 48
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante el proceso de traslado de material 
+desde el sector de empréstito N° 3 hacia el sector 
+de muro TEM de Óxidos, camión tolva tomando 
+la curva de salida se vuelca hacia el lado del 
+conductor. •Experiencia deficiente en el cargo y baja 
+aversión al riesgo.
+
+•Diseño deficiente del camino. •Ausencia de señales y advertencia. •Rampa escarchada producto de humectación 
+fuera de procedimiento. •Falta de liderazgo debido a planificación y 
+entrenamiento inadecuado. •Ejecución de caminos según diseño, 
+eliminando concepto de caminos temporales. •Desarrollar un plan de gestión de brechas de 
+operadores con organismos certificadores 
+competentes. •Establecer consideración ambiental 
+(temperatura) en procedimiento de 
+humectación de caminos.
+
+•Desarrollar taller de aversión al riesgo con 
+operadores del proyecto y definir experiencia 
+mínima de operación efectiva en camiones 
+tolva. Calificación: Evento significativo con lesión. Control ausente o fallido: CCP2: Sistema de gestión de tránsito y ruta. CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+El ímpetu por el desarrollo de las actividades no debe superponerse a la integridad de los(as) 
+trabajadores(as), por lo que el cumplimiento a lo definido en materias de diseño, implementación 
+y entrenamiento debe cumplirse sin desviaciones.Proyecto RT Óxidos
+EMIN
+10-06-2023
+Plataforma Óxido, camino de acceso 
+emprestito 3 y 4RC 10
+Pérdida de Control de 
+Vehículo Liviano
+51 50
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor de camioneta, mientras transita por 
+camino operacional que circunda el depósito de 
+relaves, pierde el control en curva, volcándose a 
+un costado del camino con 3 ocupantes en su 
+interior.
+
+•El proyecto asume que el camino cumple con 
+los estándares de seguridad y no se ha evaluado 
+la conducción en sectores alejados de las 
+instalaciones principales. •Dualidad de funciones (conducción de 
+camioneta y capataz). •Falta de instrucción en el reconocimiento de 
+ruta y falta de evaluación de las competencias 
+prácticas de conducción en caminos de 
+operación del proyecto. •Conductor pierde la concentración y atención 
+de la ruta. •Pretil de contención deficiente.
+
+•Falta de evaluación del estado actual de los 
+pretiles del camino de operaciones de la División. •Para sectores alejados, implementar medio 
+de transporte para traslado del personal y 
+comedor móvil. •Estandarizar como requisito para los 
+conductores del proyecto, el reconocimiento 
+de rutas antes y durante el desarrollo del 
+proyecto. •Realizar levantamiento de estado de pretiles 
+e implementar plan de mejoramiento 
+permanente. •Implementar campaña “Sé un copiloto activo”.
+
+•Incrementar las confirmaciones de proceso. Calificación: Evento significativo con lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCM1: Segregación de vías, pretiles de 
+contención, salidas de emergencia/lecho de 
+frenado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe robustecer la evaluación de competencias de conductores(as) de camionetas 
+que transitan por caminos de construcción y rutas con mayor dificultad y establecer un programa 
+periódico de verificación y mantención de la infraestructura vial que utiliza el proyecto, sea propia o 
+de las operaciones, para asegurar el cumplimiento de estándares y evitar la ocurrencia de eventos 
+significativos.Proyecto Embalse Carén
+Acciona
+09-08-2024
+Camino operacional, Km 9RC 10
+Pérdida de Control de 
+Vehículo Liviano
+53 52
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor de camión tolva, transitando con 
+material desde Quebrada 8, al ingresar al 
+botadero pierde el control del vehículo al quitar 
+la vista del camino por realizar gestos o señal con 
+la mano a otro conductor que se encontraba 
+descargando material.
+
+•Al desviarse de los métodos/normativa 
+aceptada, conductor se distrae y se traslada a 
+una velocidad por sobre lo permitido. •Desarrollo inadecuado de estándar, al no 
+georeferenciar caminos internos y hacer 
+seguimiento a alertas emitidas por GPS, con 
+foco en excesos de velocidad y rutas de tránsito. •No existe implementación de señalización 
+necesaria que advierta singularidades o 
+restricciones de la ruta (velocidad máxíma, 
+bifurcación de la ruta, desnivel, entre otros).
+
+•Revisión de todos los planes de tránsito de las 
+distintas áreas de trabajo. •Reforzar a través de taller o capacitación sobre 
+conducción a la defensiva a la totalidad de 
+conductores y operadores del contrato. •Incorporar monitoreo de GPS a todo vehículo 
+que se desplace al interior del Tranque 
+Ovejería. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe monitorear de manera sistemática el desempeño de operadores(as) y 
+conductores(as) de vehículos y maquinarias, focalizando la verificación en las competencias críticas 
+establecidas y el cierre efectivo de sus brechas.Proyecto Tranque Ovejería Etapa III
+SIITEC
+09-09-2021
+Quebrada N°2, Canal de Contorno, Cota 
+710 
+RC 10
+Pérdida de Control de 
+Vehículo Liviano
+55 54
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor se baja de la camioneta dejando 
+ésta enganchada y con freno de mano, se 
+acerca a portón y se percata que el vehículo se 
+desplaza 27 metros rampa abajo, golpeando 
+con parachoques trasero tableros eléctricos en 
+operación.
+
+•Trabajador realiza acción temeraria al 
+momento de bajarse y no utilizar cuñas. •Camioneta presenta fallas en funcionamiento 
+(freno de mano y enganche en primera). •Trabajador no inspecciona de forma rigurosa 
+el vehículo (no detectando fallas). •Realizar campaña de difusión, reforzamiento 
+y reinstrucción a la conducción segura, plan y 
+reglamento de tránsito. •Programa de revisión aleatorio de conductas a 
+la conducción de vehículos.
+
+•Revisión en terreno, por un especialista, de 
+funcionamiento de dispositivos de seguridad, 
+acorde a las condiciones del entorno. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar las condiciones de operatividad y funcionamiento de los vehículos, 
+mediante una inspección rigurosa de los(as) conductores(as) y un mantenimiento de acuerdo a lo 
+establecido por el fabricante.Proyecto Diamante
+MAS ERRAZURIZ
+13-01-2022 
+Portón de ruta de marina NP con socavón 
+accesoRC 10
+Pérdida de Control de 
+Vehículo Liviano
+57 56
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor al desplazarse en minibús por tramo 
+3 desde Portal TAP a plataforma Norte del PK-
+0, al ingresar al sector e iniciar las curvas siente 
+un ruido en el vehículo, momento en el cual se 
+percata que se sale una de las ruedas de doble 
+rodado (exterior) trasera posición 4.
+
+•Vehículo usa 2 tipos de neumáticos distintos 
+entre delanteros y traseros. •Falta de instrucción de los controles críticos 
+para el cambio de neumáticos. •Falta de verificación y recordatorio de reapriete 
+de tuercas en tiempo o kilometraje. •Talleres mecánicos de EECC deben contar con 
+stock de neumáticos y pernos para cambio. •Disponer de personal mecánico con 
+competencias y capacitación para cambio de 
+neumáticos de doble rodado.
+
+•Definir metodología para el traspaso de 
+novedades de turno a turno que asegure el 
+proceso de reapriete. •Generar programa de mantenimiento e 
+inspección para verificar reapriete, estado y 
+cambio de componentes críticos. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Dada la condición inherente del tránsito en interior mina (terreno irregular, presencia de barro, 
+elementos punzantes, otros), se requiere un seguimiento exhaustivo del estado de los vehículos 
+por parte de la supervisión.Proyecto Andes Norte
+ZÜBLIN
+14-02-2022
+Acceso estacionamiento plataforma NorteRC 10
+Pérdida de Control de 
+Vehículo Liviano
+59 58
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor al desplazarse rumbo hacia 
+Rancagua, pasa por un estado de cansancio o 
+fatiga, que genera agotamiento y somnolencia 
+(microsueño), saliéndose del camino y 
+desplazándose aproximadamente 10 metros 
+hacia una quebrada, sin volcamiento.
+
+•Agotamiento físico del conductor no dando 
+aviso de los síntomas de somnolencia. •Supervisor asigna tarea de conducción 
+del vehículo sin verificar el real estado del 
+trabajador. •Control del riesgo de fatiga y somnolencia 
+insuficiente para el tránsito vehicular entre 
+Rancagua y faena. •Personal con jornada de trabajo de 12 horas o 
+más, no podrá conducir de retorno. •Prohibición de conducción de camionetas en 
+carretera para operadores de equipos.
+
+•Implementación de dispositivos de fatiga y 
+somnolencia para conductores. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP6: Sistema de gestión de fatiga.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La supervisión debe controlar de manera permanente las condiciones físicas y psicológicas de los(as) 
+trabajadores(as), priorizando su seguridad por sobre requerimientos operacionales o contingencias.Proyecto Andes Norte
+ZÜBLIN
+01-03-2022
+Km 26 de Carretera El CobreRC 10
+Pérdida de Control de 
+Vehículo Liviano
+61 60
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor de camioneta impacta por alcance a 
+otra camioneta, la cual se monta sobre el pretil 
+de seguridad generando volcamiento a baja 
+velocidad. Posteriormente la camioneta impacta 
+un bus que se encontraba estacionado en el 
+sector, generando daños de menor envergadura.
+
+•Trabajador no realiza una conducción a la 
+defensiva, desviando la atención de la ruta. •Sistema deficiente de control de competencias 
+de conductores. •Implementar plan de reforzamiento de 
+conducción a la defensiva. •Realizar observaciones a la conducción de 
+vehículos. •Ejecutar plan de control de conducción 
+competente y de conductas asociadas por 
+parte de la línea de supervisión. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3:
+
+Conductor competente y autorizado. DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar las competencias de los(as) conductores(as) de vehículos, mediante 
+la observación y control en terreno de las conductas por parte de la supervisión.Proyecto Rajo Inca
+Consorcio BELAZ MOVITEC
+28-03-2022
+Camino acceso mina (Cercano a garita VP)RC 10
+Pérdida de Control de 
+Vehículo Liviano
+63 62
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo? Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 •Capacitación inadecuada de mecánicos que 
+realizan mantención.
+
+•Evaluación inadecuada de los requerimientos 
+y la capacidad operativa del mini bus. •Programa de inspecciones y mantención 
+preventiva  resulta insuficiente dadas  las 
+condiciones en las cuales se desarrolla el 
+servicio de traslado de personas.
+
+•Generar pautas exhaustivas de inspección 
+de neumáticos cada dos meses, en que se 
+deban retirar los neumáticos por personal 
+especialista para verificar en profundidad 
+todos los componentes del sistema, así 
+como su reposición de acuerdo a estándares 
+establecidos.
+
+•Considerar en los procedimientos de trabajo 
+asociados a la mantención y cambio de 
+neumáticos, todas las acciones correctivas y 
+aprendizajes generados en eventos similares.DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Las empresas deben aprender de los acontecimientos ocurridos, incorporando de manera 
+transversal todas las acciones correctivas establecidas en las investigaciones, de manera de evitar 
+que estos eventos se repitan.Calificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP4: Sistemas de seguridad activos. Proyecto Andes Norte
+HGT Tour (Subcontrato ZÜBLIN)
+06-04-2022
+Km 24.5, Tramo 2, Carretera El CobreConductor de mini bus, al trasladarse con 4 
+trabajadores hacia sala de cambio, se desprende 
+neumático de su posición 3 (trasero izquierdo), 
+deteniendo el vehículo al costado de la carretera.
+
+RC 10
+Pérdida de Control de 
+Vehículo Liviano
+65 64
+¿El evento puede ocurrir en mi área de trabajo? ¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conduciendo camión tolva y subiendo a baja 
+velocidad desde botadero minero 2, éste se 
+desplaza retrocediendo hasta tocar pretil con eje 
+trasero, provocando el volcamiento lateral de 1/4 
+del camión hacia el lado del conductor.
+
+•Ausencia de un protocolo de ascenso/descenso 
+seguro, el conductor utiliza marcha incorrecta 
+para pendiente de rampa. •Competencia técnica insuficiente del 
+conductor. •Supervisión directa deficiente para verificar los 
+controles  operativos asociados al transporte 
+de carga en maniobras de ascenso.
+
+•Definir como  criterio BEL  a todo conductor 
+de vehículo que,  aún  estando acreditado/
+certificado no tenga experiencia previa en  la 
+ruta específica (para pendientes superiores 
+a 5%, longitudes mayores a 30 metros), y/o no 
+tenga experiencia previa en marca/modelo. •Realizar seguimiento y cierre de brechas 
+asociadas a los procesos de acreditación de 
+competencias laborales. •Implementar protocolos de ascenso/descenso 
+seguro. Calificación: Evento significativo sin lesión.
+
+Control ausente o fallido: CCP2: Sistema de gestión de tránsito y ruta. CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe verificar que todo(a) conductor(a) de vehículos de transporte de carga cuente 
+con las competencias y entrenamiento teórico-práctico en marca/modelo y en la operación en rampas.Proyecto Andes Norte
+SALFA
+09-04-2022
+KM 0, ingreso a botadero minero N°2RC 10
+Pérdida de Control de 
+Vehículo Liviano
+67 66
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conductor de camioneta, desde P-4600 al PK-0, 
+siente un ruido en una rueda e inestabilidad en el 
+volante, disminuyendo velocidad para estacionarse, 
+al estar haciendo esa maniobra se sale neumático 
+de posición 3.
+
+•Traspaso de información inadecuado 
+entre conductores (falta comunicación de 
+intervención de neumáticos en turno anterior 
+y verificación de torque). •Seguimiento inadecuado (falta cierre en el 
+proceso de cambios de neumático, se debe 
+asegurar la verificación de torque). •Al realizar cambio de neumático, no existe 
+metodología que asegure que el móvil efectúa 
+la posterior revisión de torque de neumático 
+establecido por la organización.
+
+•Implementar bitácora para conductores de 
+camionetas (para mantener trazabilidad de 
+intervenciones mecánicas entre turnos). •Implementar adhesivo de control de torque 
+en todos los vehículos, estandarizando en 
+procedimiento de cambio de neumáticos. •Incluir en sistema en línea el cambio de 
+neumático para verificar la trazabilidad del 
+proceso. •Implementar revisión de torque semanal. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3:
+
+Conductor competente y autorizado. CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar que exista una comunicación efectiva entre los turnos, además de 
+realizar seguimiento exhaustivo del estado de los vehículos por parte del personal especializado.Proyecto Andes Norte
+ZÜBLIN
+07-07-2022
+Ruta variante Caletones a la altura del 
+CMRISRC 10
+Pérdida de Control de 
+Vehículo Liviano
+69 68
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante el traslado desde La Junta a Rancagua, 
+el chofer del minibus se percata de un ruido en 
+la rueda trasera del lado izquierdo del conductor.
+
+Al bajar la velocidad para revisar el equipo se 
+percata que los neumáticos traseros del lado 
+izquierdo no se encontraban en posición. •Mal estado de elementos de sujeción y 
+presencia de suciedad (masa, pernos, tuerca y 
+llanta). •Mantenedor no aplica lo indicado en manual 
+del fabricante y  procedimiento cambio de 
+neumáticos. •No existe un estándar que permita identificar 
+el estado de los elementos que componen el 
+sistema de rodados (pernos, tuercas, masas, 
+llantas).
+
+•Elaborar un plan de mantenimiento preventivo 
+para sistemas críticos expuestos a condiciones 
+extraordinarias de operación, que considere 
+sistema de rodados, freno, dirección, suspensión, 
+tracción y propulsión, carrocería y eléctrico. •Establecer como estándar que las mantenciones 
+preventivas de los equipos de transporte de 
+personal, serán realizadas por representante o 
+personal capacitado por la marca.
+
+•Implementar sistema de orden de trabajo (OT) y 
+un sistema de alerta/bloqueo al conductor toda 
+vez que se ejecute un cambio de neumáticos. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar que el personal a cargo de las mantenciones de vehículos cumplan 
+con las especificaciones técnicas del fabricante y lo establecido en procedimientos de trabajo.Proyecto Andes Norte
+FMT (Subcontrato Sigdo Koppers)
+31-07-2022
+Km 42, Carretera El CobreRC 10
+Pérdida de Control de 
+Vehículo Liviano
+71 70
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El supervisor, luego de dejar al operador de 
+excavadora en su equipo, se retira del área 
+utilizando ruta exclusiva de CAEX, sube por el lado 
+contrario al sentido de tránsito, chocando contra 
+el CAEX, en la curva a la salida del empréstito.
+
+•Capacidad psicológica inadecuada por error 
+de juicio al asumir que no hay tránsito de 
+equipos y esto le permite conducir por pista 
+contraria. •Falta de conocimiento debido a inexperiencia 
+en cuanto a los riesgos al trabajar con equipos 
+de alto tonelaje. •Evaluación inadecuada de cambios al proceso, 
+equipos, procedimiento e instalaciones.
+
+•Emitir procedimiento que estandarice 
+la selección de la supervisión y evaluar 
+entendimiento, considerando que cumpla el 
+perfil del cargo y que incluya una evaluación 
+de la aversión al riesgo. •Evaluar el desempeño de la supervisión 
+durante la ejecución del proyecto, desde el 
+punto de vista de la seguridad. •Actualizar plan de tránsito que incorpore:
+
+acceso único para vehículos livianos, garita 
+con persona encargada del control de 
+acceso, señalética que indique tránsito por la 
+izquierda. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La línea de supervisión también se expone a riesgos y la organización debe controlar y corregir su 
+actuar en actividades rutinarias como la conducción.Proyecto Rajo Inca
+Acciona
+24-09-2022
+Circuito exclusivo CAEX, emprestito N° 4, 
+Pampa AustralRC 10
+Pérdida de Control de 
+Vehículo Liviano
+73 72
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor del camión de servicios cargado 
+con materiales pierde el control del vehículo, 
+mientras bajaba por rampa Adit 74, razón por la 
+cual decide realizar maniobras de cajeo contra el 
+cerro a baja energía, disminuyendo velocidad y
+deteniéndose en curva cercana a puerta 2.
+
+El operador de camioneta que en ese momento 
+se encontraba detenido al final de rampa, realiza 
+maniobra preventiva de retroceso golpeando la 
+mica del lado trasero. •Expertise insuficiente para el desarrollo de 
+los trabajos: Capacitación e instrucción del 
+conductor. •Supervisión decide y permite el desarrollo de 
+los trabajos sin la correcta evaluación de los 
+riesgos dado que el camión de reemplazo 
+disponía de capacidades menores de frenado 
+y carga.
+
+•Planificación deficiente en el ingreso por ADIT 
+74 de equipos ajenos a la extracción de marinas 
+estos tienen un tiempo acotado, ventanas 
+interrumpidas para el desarrollo del trabajo. •Ausencia de estándar: Metodología insuficiente 
+para controlar e identificar los riesgos y 
+exigencias de la tarea. •Elaborar un programa de capacitación a 
+conductores para nivelar conocimientos y 
+habilidades en descenso, por marca y modelo, 
+para los vehículos de transporte de carga.
+
+•Rediseñar el control respecto a los requisitos 
+de certificación de competencias laborales 
+a los centros de evaluación para asegurar 
+en terreno la competencia laboral de la 
+conducción en marca/modelo. •Rediseñar el control de evaluación de aversión 
+al riesgo en conductores de vehículos de 
+transporte de carga. •Elaborar plan de ruta y configuración de 
+marcha/freno para la flota de vehículos de 
+transporte de carga. Calificación: Evento significativo sin lesión. Control ausente o fallido:
+
+CCP1: Certificación/calificación de los vehiculos 
+livianos. CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Los cambios en la programación, metodología, recursos, otros deben ser reevaluados por varias 
+disciplinas, debemos aprender a detenernos y reformular cuando las condiciones para ejecutar la 
+tarea no son seguras.Proyecto Andes Norte
+Gardilcic
+15-11-2022
+Rampa ADIT 74RC 10
+Pérdida de Control de 
+Vehículo Liviano
+75 74
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor de la camioneta pierde la capacidad 
+de frenado, por lo que decide “cajear el vehículo” 
+impactando la caja del cerro. •Falta de competencia del conductor en 
+descenso de rampa interior (12%).
+
+•Falla en el sistema de frenos (falla de línea de 
+alimentación hidráulica trasera izquierda). •Vehículo obsoleto para el uso permanente en 
+interior mina (más de 3 años). •Falta de implementación de un control 
+específico para el descenso seguro en rampas 
+de interior mina (protocolo de descenso 
+seguro). •Elaborar e implementar un programa de 
+capacitación a conductores de vehículos 
+livianos para nivelar conocimientos y 
+habilidades en descenso seguro por rampas.
+
+•Actualización del plan de tránsito identificando 
+el peligro de conducción en rampas interiores 
+(mayores a un 5%). •Incluir para todo vehículo liviano en la pauta 
+preventiva las tareas de: desarme, lavado de 
+piezas, chequeo de desgaste y reemplazo 
+(si amerita) de los elementos del sistema de 
+freno como también sus componentes de 
+accionamientos según aplique al modelo del 
+vehículo. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3:
+
+Conductor competente y autorizado. CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Las actividades de inspección preoperacional y de mantenimiento deben ser realizadas de manera 
+rigurosa y por personal competente, alertando de posibles fallas en los componentes del vehículo 
+que pudieran afectar su condición de operatividad.Proyecto Andes Norte
+ZÜBLIN
+27-12-2022
+Rampa conexión cabecera inyecciónRC 10
+Pérdida de Control de 
+Vehículo Liviano
+77 76
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor de la camioneta de abastecimiento 
+de combustible, en traslado desde interior 
+mina hacia superficie para realizar trasvasije de 
+petróleo, al llegar a semáforo se percata de que 
+la rueda en posición N° 3 se desmonta de su eje.
+
+•Falta de torque a los pernos de la rueda, la 
+EECC no verifica en sus talleres la revisión 
+de vehículos una vez retirado desde las 
+instalaciones del proveedor. •No se tiene un programa de control que 
+contemple la verificación de torque de las 
+ruedas de los vehículos. •Incorporar en procedimiento de vehículo 
+liviano el check list semanal de apriete y torque 
+de neumáticos. •Implementar y verificar que se realice un plan 
+de mantención que incorpore apriete y torque 
+de neumáticos.
+
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Cada vez que un vehículo retorne de mantención del taller autorizado por el fabricante o cuando se 
+realice un cambio de rueda en terreno, se deberá realizar verificación de torque.Proyecto Mina Chuquicamata Subterránea
+GEOVITA
+03-05-2023
+Rampa de acceso a subnivelesRC 10
+Pérdida de Control de 
+Vehículo Liviano
+79 78
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Mientras el camión tolva en proceso de descarga 
+de material para tapado de cañería HDPE se 
+posiciona diagonal a la pendiente, se genera el 
+volcamiento del lado del operador. •Posicionamiento incorrecto del camión en 
+sentido diagonal a la pendiente.
+
+•Evaluación de competencias del conductor no 
+considera la tarea de descarga en pendiente. •Planificación deficiente, no se realiza análisis 
+detallado del riesgo de la tarea y entorno por 
+parte de la supervisión, no considerando la 
+condición del terreno. •Incorporar criticidad de las actividades 
+programadas en POD. •Actualización de procedimiento de trabajo, 
+capacitación y evaluación de entendimiento.
+
+•Programa de seguimiento y monitoreo a 
+competencias teóricas y prácticas de los 
+operadores (a través de un instructor). •Completar instalación de inclinómetros. •Actualizar listado de brechas críticas, 
+agregando carga y descarga de material en 
+zonas con pendiente. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP2: Sistema de gestión de tránsito y ruta. CCP3: Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe definir claramente quien es el supervisor(a) responsable de controlar las 
+tareas y asegurar su presencia efectiva en terreno.Proyecto Rajo Inca
+SIGDO KOPPERS
+26-06-2023
+Plataforma Damiana sector la PepaRC 10
+Pérdida de Control de 
+Vehículo Liviano
+81 80
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Conduciendo un camión tolva para el traslado 
+de material desde el acopio de relaves al nuevo 
+muro sur 1, ocurre un desvío en la trayectoria 
+del camión, provocando que volcara hacia el 
+costado derecho. •Operador se trasladó en su recorrido a menos 
+de 2 metros del borde.
+
+•No conduce atento a las condiciones del 
+entorno. •Pretil irregular en zona no compactada. •No se instalan conos de delimitación. •Implementar pretil adecuado a las 
+características del relave. •Actualizar procedimiento incorporando 
+delimitación y nuevos pretiles. •Realizar al 100% de la dotación del turno de 
+noche control de fatiga y somnolencia. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP2: Sistema de gestión de tránsito y ruta. CCP3:
+
+Conductor competente y autorizado. DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe internalizar e implementar rápidamente las acciones correctivas derivadas 
+de eventos similares, además de ser disciplinados en verificar su cumplimiento.Proyecto Rajo Inca
+Acciona
+27-06-2023
+Depósito de relaves Pampa AustralRC 10
+Pérdida de Control de 
+Vehículo Liviano
+83 82
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Minibus de transporte de personal, en trayecto 
+a Planta las Añañucas con 12 pasajeros, ocurre 
+el desprendimiento de rueda trasera lado 
+izquierdo (tercera posición) por corte de pernos 
+de sujeción. •Revisión de equipo poco rigurosa. •Cambio de neumático sin realizar reapriete.
+
+•Fatiga de material. •Lista de verificación no contempla revisión 
+detallada de estado de ruedas. •Fallas en el mantenimiento preventivo. •Ampliar la pauta de mantención con el fin de 
+realizar una revisión del estado de los pernos e 
+identificar signos de desgaste. •Realizar verificación de torque de los vehículos 
+livianos. •Asignar personal competente al control 
+operacional de los vehículos de transporte de 
+personal. Calificación: Evento significativo sin lesión. Control ausente o fallido:
+
+CCP3: Conductor competente y autorizado. CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar una adecuada mantención preventiva a maquinarias y vehículos 
+y establecer un programa de capacitación y entrenamiento que defina los requisitos que deben 
+cumplir los(as) conductores(as) competentes.Proyecto Rajo Inca
+Acciona
+19 -09-2023
+Trayecto desde El Salvador a Planta las 
+AñañucasRC 10
+Pérdida de Control de 
+Vehículo Liviano
+85 84
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En circunstancias que minibús se desplazaba 
+desde interior mina hacia campamento Promet, 
+conductora siente un ruido en la parte trasera 
+del vehículo, por lo que procede a disminuir la 
+velocidad y detenerse metros más adelante, 
+percatándose que rueda posición N°3 se había 
+salido.
+
+•Exceso de torque aplicado a las tuercas de la 
+rueda del segundo eje del costado izquierdo. •Mecánicos no habían sido instruidos de la 
+forma completa sobre el torque, limpieza de 
+componentes y/o cambio de neumático. •Supervisor debe asegurar inspección realizada 
+por los conductores en check list diario 
+(registro en video). •Establecer en el instructivo el torque específico 
+para cada modelo de vehículo, cuándo 
+realizarlo y las condiciones de limpieza previas.
+
+•Instalar etiquetas con estado de torque y 
+alerta sobre cambios de neumáticos. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe identificar todas las necesidades especificas para el trasporte de personal 
+en cuanto al sistema de gestión para intervenciones y cumplimiento de acciones establecidas en 
+normativas y en estándar complementario de vehículos y maquinarias.Proyecto Andesita
+CVU (Subcontrato Salfa)
+26-10-2023
+Kilómetro 31,5 Carretera El CobreRC 10
+Pérdida de Control de 
+Vehículo Liviano
+87 86
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor de sprinter, mientras se desplazaba 
+por camino industrial, sufre el desprendimiento 
+de las ruedas traseras izquierdas del furgón. •Neumáticos de distintos diámetros a los 
+especificados por el representante de la marca.
+
+•Carpeta de rodado con material suelto, lodo, 
+sobre tamaño y clastos cortantes. •Renovación de flota de vehículos de transporte. •Implementar protocolo de recepción de 
+vehículos y equipos a proveedores, verificando 
+cumplimiento de RC y Notas Internas 
+aplicables. •Aplicación checklist en terreno liderado 
+por mecánicos a todos los conductores y 
+operadores. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP5: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La empresa debe cerciorarse del chequeo de pre uso de los vehículos y reforzar a conductores(as) 
+y mecánicos en el cumplimiento de los controles críticos establecidos en RC-10 y ECF-21.Cartera de Proyectos Andina / DLN 
+extendido
+MONTEC
+24-11-2023
+Camino salida mina rajo, sector “Z” grandeRC 10
+Pérdida de Control de 
+Vehículo Liviano
+89 88
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor del furgón trasladando a personal 
+en nivel de producción, sector de 10 km/h, al 
+llegar a acceso norte siente ruido, verificando 
+que neumático en posición no3 se había 
+desprendido.
+
+•No se realiza reapriete de turcas posterior al 
+cambio de neumático dentro de las 5 horas ó 
+50 kilómetros, como lo exige el procedimiento 
+de trabajo. •No existe comunicación sobre el cambio de 
+neumático realizado por parte de personal 
+mecánico, por tal motivo no se ejecuta el 
+retorqueo. •No existe verificación ni seguimiento al cambio 
+de neumático par parte de supervisión.
+
+•Revisión exhaustiva del sistema de sujeción 
+de todas las ruedas de los vehìculos (golpes o 
+daños que afecten su funcionamiento). •Seguimiento de pinchazos y reparaciones de 
+neumáticos en POD. •Reportar los cambios de neumáticos y torques 
+efectuados. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP5: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe verificar y asegurar que las mantenciones e intervenciones realizadas se 
+cumplan de acuerdo a procedimientos específicos, con la finalidad de proteger la integridad 
+física de los(as) trabajadores(as) y asegurar que los vehículos se encuentren en condiciones 
+seguras para la operación.Proyecto Diamante
+HGT Tour (Subcontrato de Gardilcic)
+11-01-2024
+Acceso Norte NP FWRC 10
+Pérdida de Control de 
+Vehículo Liviano
+91 90
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Camioneta que se trasladaba desde faena 
+a Rancagua, traspasa el eje de la calzada 
+generando la detención del bus que transita en 
+sentido contrario. •Falta estándar que limite la conducción 
+desde y hacia Rancagua del personal que se 
+encuentra en turno.
+
+•La empresa no cuenta con sistema adecuado 
+para realizar test de fatiga y somnolencia en 
+interior mina. •Procedimiento de conducción de vehículos 
+livianos de la empresa no indica la realización 
+obligatoria de la encuesta de fatiga y 
+somnolencia antes de conducir. •Implementar un estándar que establezca 
+restricciones y norme la conducción de 
+camioneta desde y hacia Rancagua.
+
+•La empresa deberá asegurar conectividad o 
+dispositivo tecnológico para la realización de 
+test de fatiga y somnolencia, antes de salir de 
+interior mina. •Actualizar y difundir paso a paso de 
+procedimiento de conducción de vehículos 
+livianos, que especìfique documentos 
+verificadores (checklist, encuesta F&S, etc.) 
+antes de conducir. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP6: Sistema de gestión de fatiga.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJEProyecto Andesita
+Consorcio FMT BBOSCH
+27-02-2024
+Km. 27, Carretera el Cobre
+Transversalizar la tecnologìa de detección y alertas en la conducción, como así mismo que todo 
+el personal autorizado a conducir vehículos tenga fácil acceso a las aplicaciones y plataformas 
+tecnológicas para control de la fatiga y somnolencia.RC 10
+Pérdida de Control de 
+Vehículo Liviano
+93 92
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor de la camioneta, mientras subía 
+una rampa a una velocidad de 10 km/h, se da 
+cuenta que la camioneta se inclina hacia el 
+lado derecho. Al observar más detenidamente, 
+nota que la rueda en la posición N° 4 se había 
+desprendido.
+
+•Utilizar tuercas no originales, ya que 
+genera problemas en conjunto mecánico 
+tuerca/pernos. •Utilizar tuercas no adecuadas por el tipo 
+de llanta instalada en la camioneta y/o 
+instalar de manera mezclada con distintos 
+tipos de tuercas en la misma llanta. •Inspección de operatividad de todas las 
+camionetas, asegurando la utilización de 
+un único tipo de llanta y respetando las 
+recomendaciones del fabricante respecto del 
+tipo de pernos, tuercas y torque a aplicar.
+
+•Se recomienda el uso de llantas de acero en 
+camionetas de uso severo, con el propósito 
+de utilizar un único tipo de tuerca y eliminar 
+confusiones. •Actualización de documento “Procedimiento 
+cambio de neumático liviano”, que considere 
+prohibición de uso de líquido lubricante y 
+revisión de metodología de trabajo. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe verificar y asegurar un control exhaustivo de todas las medidas implementadas 
+con la finalidad de proteger la integridad física de los(as) trabajadores(as) y asegurar que los vehículos 
+se encuentren en condiciones seguras para la operación.Proyecto Diamante
+Gardilcic
+27-03-2024
+Nivel de producciónRC 10
+Pérdida de Control de 
+Vehículo Liviano
+95 94
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Operador de camión tolva desciende desde 
+zona de extracción cargado con 20 m3 apróx., al 
+momento de transitar por el camino operacional 
+se queda dormido por unos segundos 
+sobrepasando el pretil de seguridad y saliéndose 
+del camino.
+
+•Falla organizacional en las comunicaciones 
+de atención médica en policlínicos, por 
+prescripción médica de no conducir vehículos 
+en 48 horas. •Trabajador no informa a su supervisor directo 
+que tuvo un descanso inadecuado, por 
+atención médica (enfermedad común). •Cámara de monitoreo de fatiga del conductor 
+se encontraba intervenida. •Refuerzo de identificar y dar aviso oportuno, 
+referente a presentar fatiga/somnolencia, en 
+evaluación de hábitos operacionales (instructor).
+
+•Campaña de uso de herramientas preventiva 
+Tarjeta Verde para reforzar en especial el punto 4: “Si no estas en condiciones físicas y emocionales”. •Diseñar soporte para cámara de monitoreo de 
+fatiga del conductor, que impida su vulneración. •Instalación de sala de monitoreo de fatiga y 
+somnolencia para realizar mediciones a diario 
+antes de iniciar actividades en turno de noche. Además de dispositivos móviles para transporte 
+de personal antes de conducir a faena. Calificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar un buen descanso a todos(as) sus trabajadores(as), además de 
+generar las confianzas necesarias para que se utilicen las herramientas preventivas entregadas, 
+además se debe cautelar que todos los sistemas tecnológicos con los que cuenta la organización 
+deben proporcionar el funcionamiento óptimo para lo que fueron adquiridos.Proyecto Tranque Talabre
+Acciona
+03-04-2024
+Camino 1 ARC 10
+Pérdida de Control de 
+Vehículo Liviano
+97 96
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Mientras el camión tolva se dirige hacia el 
+botadero 57 desde el Muro Norte, la conductora 
+se detiene en cruce ferroviario e inicia su marcha 
+cuando el tren llegaba al cruce, instante en que 
+el tren impacta la parte lateral del camión tolva 
+(del lado del copiloto).
+
+•Conductora no informa condiciones de fatiga 
+y somnolencia (F&S) a supervisor directo. •Incumplimiento de plan de F&S, no se 
+realiza seguimiento y monitoreo de alertas 
+tempranas. •Deficiencia en la implementación de los 
+controles del sistema de gestión de fatiga y 
+somnolencia. •Asegurar tiempo mínimo de descanso para el 
+primer día de turno de los operadores (mín. 6 
+horas).
+
+•Gestionar (levantamiento, definición e 
+implementación de acciones) condiciones de 
+habitabilidad en campamento VPZN (ruido, 
+temperatura y luminosidad). •Reforzamiento del plan F&S aumentando la 
+frecuencia de auto - testeo 2 veces durante la 
+jornada (al inicio y posterior a colación).
+
+•Establecer un protocolo de comunicación 
+trazable que permita al supervisor identificar 
+en tiempo real quienes realizan la encuesta y 
+quienes declaran que no están en condiciones 
+de iniciar el turno por F&S. •Aumentar la frecuencia de evaluación mediante 
+el dispositivo tecnológico estacionario o portátil 
+(tipo D) de todos los operadores (5 veces en el 
+turno, día por medio). Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado.
+
+CCP6: Sistema de gestión de fatiga.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Toda medida preventiva que asegure un descanso adecuado y que permita gestionar una detección 
+oportuna y seguimiento a cada uno de los parámetros de F&S de los operadores/conductores, 
+incluyendo implementación de tecnologías, son medidas claves para el éxito del contrato, tanto en 
+ámbitos de seguridad como productivos.Proyecto Tranque Talabre
+Acciona
+23-04-2024
+Cruce Ferroviario camino a SBL entre ruta 
+B-50 y B-500 RC 10
+Pérdida de Control de 
+Vehículo Liviano
+99 98
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Minibús desplazándose desde Rancagua hacia 
+faena, se desprenden neumáticos de la posición 
+N°3 (no encontrada) y N°4. •Aplicación de torque insuficiente. •No existe traspaso de información relevante entre 
+turnos, respecto del cambio de neumáticos.
+
+•Llanta interior con perforaciones fuera de 
+estándar. •Se utiliza llave de torque en mal estado y 
+descalibrada. •Pautas preventivas de mantenimiento no 
+consideran tareas con desarme de rodado para 
+identificar y reemplazar elementos críticos fuera 
+de estándar. •Calibración vigente de llaves de torque en 
+laboratorio que cumpla con Norma NCh ISO 
+17025 y llevar control de las calibraciones . •Disponer de elementos de contrastación de 
+las llaves de torque con frecuencia semanal.
+
+•Establecer un sistema de alerta por kilómetro. recorrido, que involucre la restricción de 
+operar en caso de superar el umbral de los 
+3.000 kilómetros. •Emitir certificado de operatividad de cada 
+vehículo por el fabricante, en el que se indique 
+claramente el detalle de la mantención 
+ejecutada. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP4: Sistemas de seguridad activos.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Las empresas deben traspasar las exigencias en seguridad a los subcontratos, garantizando su 
+implementación y verificando sistemáticamente su cumplimiento.Proyecto Andes Norte
+Transportes CVU (Subcontrato Salfa)
+26-05-2024
+Km. 20, Carretera El CobreRC 10
+Pérdida de Control de 
+Vehículo Liviano
+101 100
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Camión tolva trasladándose entre botadero B57 
+y Tranque Talabre, se sale del camino volcando 
+por el lado del copiloto. •Distracción del conductor por llamada 
+telefónica.
+
+•Dispositivo tecnológico de monitoreo de 
+conducta se encuentra vulnerado (Cámara, 
+tercer ojo, F&S y cámara interior de cabina). •Pérdida de atención a la conducción, falta de 
+disciplina y control del conductor. •Implementación de dispositivos de fatiga y 
+somnolencia y requerimientos de estándar 
+técnico corporativo. •Crear procedimiento de reconocimiento y 
+gestión por consecuencia que incluya las 
+desviaciones en conducción e intervención a 
+los dispositivos de monitoreo de conducta.
+
+•Implementación de señaléticas de no uso de 
+elementos distractores. •Actualizar lista de pre-uso del equipo con el 
+estado y funcionamiento de los dispositivos 
+de monitoreo de conducta. •Crear procedimiento específico del 
+funcionamiento, propósitos y control de los 
+dispositivos tecnológicos para el monitoreo de 
+la conducción. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP6: Sistema de gestión de fatiga.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+El uso de dispositivos tecnológicos en equipos para el monitoreo de la conducción puede evitar 
+accidentes, siempre y cuando se encuentren en buen funcionamiento y exista una gestión oportuna 
+de las alertas que emiten.Proyecto Tranque Talabre
+Acciona
+20-06-2024
+Ruta 1A Pk 1000, Sector Puente 2RC 10
+Pérdida de Control de 
+Vehículo Liviano
+103 102
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El conductor del minibús mientras ascendía hacia 
+Barahona, indica que una pareja de zorros cruzó 
+la carretera de izquierda a derecha.
+
+El conductor 
+perdió el control del vehículo, sobrepasó el eje 
+central de la calzada, invadió la pista contraria y 
+colisionó con la caja de cerro, lo que resultó en el 
+volcamiento del minibús. •La empresa no cuenta con protocolo que 
+estandarice actividades asociadas a las fallas 
+operacionales de vehículos (reparación de 
+neumáticos, etc.) que asegure el uso correcto 
+de vehículos, exponiendo horas de conducción 
+hacia los trabajadores.
+
+•Vehículo no posee un dispositivo que detecta 
+y alerta, no disponiendo de capacidad 
+de registrar y reportar eventos de fatiga, 
+distracción y no operatividad del sistema. •Empresa no asegura la correcta aplicación 
+de encuesta de fatiga y somnolencia en sus 
+conductores. •Conductor no presenta las habilidades y 
+conocimientos en las técnicas de conducción 
+de alta montaña.
+
+•Generar estrategia para la reposición de 
+neumáticos y stock en Barahona, asegurando 
+la disponibilidad de la flota en interior mina 
+y la planificación correcta de reposición de 
+neumáticos. •Implementación de un dispositivo tecnológico 
+que asegure alerta temprana en tiempo real. •Realizar revisión de los resultados diarios de 
+encuesta de fatiga y somnolencia de sus 
+trabajadores que aseguren la identificación y 
+tendencias para tomar acciones preventivas.
+
+•Realizar examen de aversión al riesgo al 100% 
+de los conductores e incorporar examen en 
+etapa de reclutamiento y selección de futuros 
+conductores. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Conductor competente y autorizado. CCP6: Sistema de gestión de fatiga.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe avanzar rápidamente en la implementación de sistemas tecnológicos 
+tipo A que permitan detectar y alertar eventos de fatiga y somnolencia, distracción y no 
+operatividad, analizando sus resultados y generando acciones para cerrar desviaciones.Proyecto Andesita
+Levering (Subcontrato FMT)
+28-07-2024
+Km.
+
+36, Carretera el CobreRC 10
+Pérdida de Control de 
+Vehículo Liviano
+105 104
+¿El evento puede ocurrir en mi área de trabajo? ¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Los trabajadores al encontrarse en base del 
+chancador secundario sienten un ruido, 
+percatándose de la caída de una pieza de 
+andamio. •Deficiencias en el entrenamiento de armado y 
+desarme de plataformas de andamio; orden y 
+acopio de piezas.
+
+•Deficiencias en procedimiento, no se 
+incorporan actividades de la tarea. •No fue realizada la revisión de la plataforma de 
+andamio. •Revisión y modificación de procedimiento de 
+trabajo de armado y desarme de plataformas 
+de andamio. •Generar formato de check list inspección 
+plataforma de andamio. •Reforzamiento a personal de andamios; 
+obligación de no dejar piezas sueltas, sobre 
+plataformas al momento de armar andamios. RC 13
+Pérdida de Control de 
+Objetos en Altura
+Calificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP1: Planificación, análisis y autorización para 
+trabajos en la vertical. CCP2: Inspección y limpieza de estructuras que 
+contienen objetos en altura.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Considerar en la metodología de montaje de andamio, revisar en los distintos niveles la presencia de 
+materiales que pudiesen haber quedado en el proceso de armado, antes de la entrega al usuario(a).Cartera de Proyectos Andina
+SK
+01-01-2022
+Costado cabeza correa 2, Chancador 
+Secundario. 107 106
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Personal eléctrico realizando el retiro de la 
+última línea de media tensión sobre plataforma 
+de andamios, al momento de ejecutar maniobra 
+para el retiro de cables, libera comulon (tira 
+cable usado en conjunto con un tecle), el cual 
+se desliza a través de línea cayendo a nivel de 
+piso desde una altura de 5 metros y golpeando a 
+trabajador en casco.
+
+•Asignación de personal no especialista en la 
+tarea específica de retiro de líneas. •Procedimiento cuenta con información 
+deficiente. •Falta de evaluación de maniobra en terreno. •Revisar y modificar todos los procedimientos 
+asociados a la actividad, incorporando 
+elementos de sujeción a todo componente 
+que pueda caer desde altura. •Realizar taller de constructibilidad para 
+estandarizar conocimiento y unificar 
+metodología operacional.
+
+•Aplicar permiso de izaje para actividades en 
+las que se utilizan elementos de retención, 
+aparejos de izaje y memorias de cálculo. •Jefe de terreno deberá siempre evaluar las 
+competencias del personal disponible para 
+determinar la reasignación de funciones. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP1: Planificación, análisis y autorización para 
+trabajos en la vertical. CCM1: Señalización y segregación de niveles 
+inferiores.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe seleccionar al personal al que reasigna funciones asegurando el conocimiento 
+de los riesgos y controles, capacitación y competencias para ejecutar la tarea específica, deteniendo 
+los trabajos si esto no se cumple.Proyecto Rajo Inca
+TECNASIC
+27-02-2022
+Cruce entre camino segregado y sulfuroRC 13
+Pérdida de Control de 
+Objetos en Altura
+109 108
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Trabajadores se encontraban cambiándose ropa 
+en sector de acopio de materiales, momento en 
+el cual se produce evento sísmico, de magnitud 
+Mw 1.4, que generó daños y desprendimiento de 
+material rocoso, lesionando a 3 trabajadores.
+
+•Falta de percepción del riesgo de caída de 
+material en los desarrollos (trabajadores se 
+retiran los EPP al momento de cambio de 
+ropa). •Desconocimiento de la supervisión de la 
+importancia de la correcta instalación y 
+funcionamiento de la fortificación, la que 
+se encontraba con malla dañada y traslape 
+inadecuado. •Desconocimiento por parte de la supervisión 
+de la recepción de calidad formal de la labor.
+
+•Definir puntos habilitados con estándares 
+mínimos para que trabajadores realicen el 
+cambio de ropa y EPP. •Realizar la modificación del procedimiento 
+para excavación y desquinche de desarrollos 
+horizontales, incluir paso a paso, uso de tyvek 
+e instalación de traslape de malla. •Generar protocolo de comunicación de 
+información y operación del control sísmico 
+del polígono Diamante. RC 18
+Pérdida de Control 
+Estabilidad Rocas 
+Subterránea
+Calificación: Evento significativo con lesión.
+
+Control ausente o fallido: CCP5: Fortificación / Estabilización. DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe controlar de manera contínua los procesos asociados a la calidad de los 
+trabajos de fortificación, con el objetivo de generar condiciones seguras para el desarrollo de las 
+tareas en interior mina.Proyecto Diamante
+MAS ERRAZURIZ
+24-01-2021
+Nivel Tte-7 al este de barrio cívico
+111 110
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante el proceso de perforación de avance, 
+se desprende material desde la frente 
+(aproximadamente 1,5 metros cúbicos). Operador retira el equipo de perforación hacia 
+sector seguro.
+
+•Falta de capacitación práctica al personal 
+en caso de detectar este tipo de condición 
+estructural geológica en la frente de avance. •Checklist de acuñadura mecanizada deficiente. •No se verificó la  correcta acuñadura, antes de 
+autorizar la perforación de avance, debiendo 
+evaluar la necesidad de proyección de shotcrete 
+fibra y retomar la acuñadura pendiente de la 
+frente. •Gestionar curso práctico de geomecánica 
+para personal asociado a las actividades de  
+acuñadura y avance de frente.
+
+•Modificar checklist de verificación de 
+acuñadura de frente, incorporando aspectos  
+geomecánicos y pasos a seguir ante detección 
+de estructuras geológicas. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP2: Evaluación de condición estructural de 
+la operación post proceso de tronadura. CCP4: Identificación de roca suelta y proceso 
+de acuñadura.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La preparación y capacitación del personal que realiza los desarrollos mineros es fundamental para 
+la identificación de condiciones geomecánicas y/o anomalías geológicas que pongan en riesgo la 
+integridad de las personas y equipos.Proyecto Mina Chuquicamata Subterránea
+Consorcio ACCIONA OSSA PIZZAROTTI
+26-07-2023
+Galería de ventilación Norte 51-52 02RC 18
+Pérdida de Control 
+Estabilidad Rocas 
+Subterránea
+113 112
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Se registra evento sísmico relevante de 1,5 Mw., 
+a 20 metros al norte de la frente y a 15 metros 
+sobre la cota del Túnel Correa, el evento ocurre 
+durante el proceso de acuñadura mecanizada 
+con operador, posterior a las 36 horas de aislación 
+para personas.
+
+•Realizar acuñadura mecanizada en toda la 
+sección y no puntual, según el protocolo de 
+excavación y fortificación para la frente. •Falta definición de criterio técnico para la 
+“acuñadura puntual” en frentes con riesgo 
+sísmico. •La imagen de la cámara del equipo no es 
+óptima para la frente de avance. •Modificar el protocolo de excavación y 
+fortificación, donde se debe establecer como 
+obligatoria la acuñadura con telecomando 
+durante la etapa del ciclo minero del Túnel 
+Correa.
+
+•Realizar evaluación técnica con especialista 
+para verificar si la tecnología que actualmente 
+se utiliza es la adecuada para la acuñadura 
+con telecomando. RC 19
+Pérdida Instantánea 
+de la Estabilidad de 
+Excavaciones en Labores
+Subterráneas
+Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP3: Preacondicionamiento del macizo
+rocoso. CCM1: Operación de equipos telecomandados.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Debemos migrar de la utilización de equipos mecanizados a equipos remotos telecomandados 
+para las operaciones del ciclo minero con mayor probabilidad de riesgo sísmico como: extracción de 
+marina, acuñadura, proyección de shotcrete y fotogrametría, con el propósito de evitar la exposición 
+de las personas.Proyecto Andes Norte
+ZÜBLIN
+19-11-2023
+Túnel correa OIM
+115 114
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Mientras se realizaba el carguío de camiones 
+con excavadora, en cota 270 a 4 metros de 
+distancia del borde del talud, se produce 
+desprendimiento de material del talud superior 
+(cota 290 aproximadamente), trabajador sale por 
+sus propios medios por ventana lateral superior 
+izquierda del equipo.
+
+•Existe una singularidad no identificada que 
+se presenta en los bancos de explotación 
+mencionados. •Dada la buena calidad de las terminaciones 
+superficiales de los taludes y su buen 
+comportamiento a lo largo del tiempo, los 
+controles no alertaron el derrame. •La caracterización geológica geotécnica y el 
+diseño considera dos condiciones de taludes 
+de explotación y no identifica condiciones 
+particulares (modo de fallas).
+
+•Evaluación e implementación de alternativas 
+de estabilización y/o control geotécnico del 
+sector. •Revisión y mejoramiento de pauta de control 
+topográfico de cumplimiento de geometría 
+de diseño. •Verificación de las condiciones de estabilidad 
+durante el proceso de explotación del 
+yacimiento para identificar el tratamiento de 
+condiciones particulares (modos de fallas). RC 24
+Pérdida de Control de 
+la Estabilidad de Talud
+Calificación: Evento significativo sin lesión.
+
+Control ausente o fallido: CCP3: Análisis de estabilidad de taludes. DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Los diseños de explotación deben contar con la identificación de posibles modos de fallas, 
+establecer los controles para identificarlas y considerar las medidas de saneamiento que permitan 
+asegurar la estabilidad de las obras.
+
+Construcción 7ª Etapa Proyecto Embalse 
+Carén
+CCV
+09-06-2021
+Yacimiento El Durazno, sector Fase 2 
+cumbre 1
+117
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 116
+¿El evento puede ocurrir en mi área de trabajo? ¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El operador del camión de extracción estaciona 
+en sector botadero Noreste, al paso de unos 
+minutos, el camión se desplaza en dirección 
+hacia el pretil, subiendo la velocidad y 
+traspasando el pretil.
+
+El CAEX se desliza por el 
+talud, sin volcarse, terminando su trayectoria en 
+la plataforma inferior, siendo encontrado por el 
+Jefe de Operaciones del turno siguiente. •No aplicar el freno de parqueo del CAEX para 
+estacionarlo. •Piso del botadero con pendiente -5,8% hacia el 
+pretil de borde. •Proceso de formación no garantiza que 
+operadores de CAEX tengan las competencias 
+necesarias para ejecutar actividades en 
+labores asignadas.
+
+•Práctica inadecuada de estacionar CAEX en 
+lugar no habilitado. •No aplicación de controles establecidos en el 
+diseño definido en el procedimiento de carga, 
+transporte y descarga. •Estandarizar un procedimiento que regule 
+procesos de selección, reclutamiento, 
+entrenamiento, certificación y seguimiento de 
+operadores.
+
+•Gestionar brechas detectadas asociadas a 
+componentes críticos de las maquinarias para 
+una operación segura, tanto teóricos como 
+prácticos, antes de que se autorice a operar 
+equipos. •Mejoramiento de estándar de estacionamientos 
+de maquinarias y botaderos. RC 25
+Pérdida de Control de 
+Maquinaria Industrial 
+Autopropulsada
+Calificación: Accidente fatal. Control ausente o fallido: CCP1: Conductor competente y autorizado. CCP3:
+
+Sistema de diseño, construcción y 
+mantenimiento de infraestructura vial.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+El respeto riguroso a los controles de los riesgos críticos, su verificación en terreno y el apego 
+irrestricto a las normativas de seguridad son fundamentales para evitar la ocurrencia de accidentes 
+graves o fatales.Proyecto Rajo Inca
+Consorcio BELAZ MOVITEC
+09-07-2022
+Botadero Noreste
+119
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 118
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Durante el proceso de extracción de marinas, 
+equipo LHD espera con balde levantado en 
+retroceso de Camión Dumper para ser cargado 
+en su tercera baldada, operador de camión 
+al retroceder pierde de vista a equipo LHD, 
+golpeando estructura que soporta el balde 
+(pantógrafo), arrastrando y volteando en ¼ de 
+vuelta al equipo LHD.
+
+•Estándar para la extracción de marinas 
+es insuficiente para cumplir con los 
+procedimientos específicos necesarios 
+respecto de su ejecución en terreno, recursos, 
+lineamientos y metodología operacional. •Deficiente planificación de la actividad en 
+terreno, capataz a cargo del proceso desconoce 
+la correcta metodología de trabajo y secuencia 
+operacional adecuada. •Competencias técnicas deficientes para la 
+operación de maquinaria.
+
+•Generación de paso a paso (incluyendo RC 
+asociados) y actualización del procedimiento 
+en relación del análisis del proceso de 
+extracción de marinas, generación de 
+estándar que indique condiciones de entorno 
+para los puntos de carguío ya sea en superficie 
+o interior túnel. •Verificar competencias de operadores (Scoop 
+y Dumper) y capataces de marina, en relación 
+del proceso de extracción de marinas. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP1:
+
+Conductor competente y autorizado.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe asegurar las competencias de los(as) operadores(as), mediante un correcto 
+cierre de brechas y un seguimiento sistemático al cumplimiento de las competencias críticas.Proyecto Mina Chuquicamata Subterránea
+Consorcio OSSA PIZZAROTTI
+29-01-2022
+Túnel 14 extracción frontón 7/8RC 25
+Pérdida de Control de 
+Maquinaria Industrial 
+Autopropulsada
+121
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 120
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El operador de la retroexcavadora al intentar 
+llevar nuevamente a posición barrera new jersey 
+(800 kilos apróx.), que se encontraba volteado 
+cerca de las vías férreas, es impactado en el 
+aguilón por ferrocarril. •Operador no cuenta con instrucción básica 
+para trabajos en sector ni utilizar equipos.
+
+•Supervisor no conoce ni ha sido capacitado en 
+procedimiento del área. •Deficiente planificación del trabajo y 
+verificación de las condiciones del área
+ •Omisión de necesidad de instalar señalética. •Sensibilizar a trabajadores y supervisores de la 
+importancia de sólo operar maquinaria para las 
+cuales se encuentran certificados. •Asegurar en estándar de salida de turno la 
+obligatoriedad de revisión del sitio de forma 
+presencial por parte del supervisor. Calificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP1: Conductor competente y autorizado. CCP3: Sistema de diseño, construcción y 
+mantenimiento de infraestructura vial.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Los trabajos en áreas donde existan interferencias con la División deben contar con definición clara 
+de los límites de responsabilidad y lineamientos/restricciones para trasladarse entre sectores.Proyecto Andesita
+ZÜBLIN
+27-05-2023
+XC Andesita conexión con Teniente 8RC 25
+Pérdida de Control de 
+Maquinaria Industrial 
+Autopropulsada
+123
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 122
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Excavadora en proceso de despeje de material 
+de relleno y nieve en sitio de acopio, al momento 
+de girar para avanzar se asienta en el material, 
+provocando la inclinación del equipo.
+
+•Planificación deficiente, no se consideró el 
+manejo de acopios de nieve como un factor 
+contribuyente a la generación de eventos, 
+además de las posibles variaciones climáticas. •Falta de experiencia en relación al manejo de 
+acopio de nieve y su comportamiento. •Actualización de matriz IPER incorporando los 
+trabajos y evaluación de riesgos.
+
+•Actualización de instructivo de retiro de 
+nieve incorporando el manejo seguro de 
+sectores de acopio de nieve, considerando su 
+comportamiento (oquedades). Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP1: Conductor competente y autorizado. CCP3: Sistema de diseño, construcción y 
+mantenimiento de infraestructura vial.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe considerar en sus análisis de riesgos de las tareas las posibles variaciones 
+climáticas y sus impactos en seguridad, aplicando gestión del cambio y verificación de controles 
+definidos.Cartera de Proyectos Andina
+SALFA
+08-11-2023
+Acopio de nieve, Plataforma 3700RC 25
+Pérdida de Control de 
+Maquinaria Industrial 
+Autopropulsada
+125
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 124
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024En el momento en que el cargador frontal se 
+dirigia hacia el área de parqueo, sorpresivamente 
+se detiene para retirar piedras del camino 
+y retrocede impactando a camión Dumper 
+dañando su parte delantera. •Coordinación deficiente de la tarea. •Falta de implementación de cámaras, sensores 
+de retroceso y aproximación.
+
+•Operador del cargador no da aviso radial de la 
+actividad de limpieza del área. •Coordinación de las tareas eventuales o 
+espontáneas. •Implementación de sensores y cámaras a 
+equipos faltantes. •Reinstrucción a todos los operadores en 
+identificación de peligros, comunicación radial 
+efectiva, planificación de tareas, distancias de 
+seguridad, interacción entre equipos y código 
+bocinas. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP1:
+
+Conductor competente y autorizado. CCP4: Sistema de proximidad y anticolisión.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe reforzar la gestión conductual en la conducción/operación de 
+vehículos/maquinaria, con el objetivo de internalizar mediante diálogos, instrucciones y 
+evaluaciones las prácticas de hábitos operacionales seguras.Proyecto Tranque Talabre
+Consorcio Talabre
+15-02-2024
+Botadero 57 Plataforma 1RC 25
+Pérdida de Control de 
+Maquinaria Industrial 
+Autopropulsada
+127
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 126
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Al realizar el traslado de equipo manipulador 
+telescópico por rampa, en un sector confinado, 
+operador pierde el control del equipo quedando 
+semi volcado. •Trabajador presenta brechas en las 
+competencias para la operación de 
+manipuladores telescópicos.
+
+•No se dispone de un medio tecnológico de 
+control de fatiga y somnolencia que entregue 
+reportabilidad y trazabilidad. •No existe protocolo de descenso para equipo 
+manipulador telescópico. •Monitorear competencias al 100% de los 
+operadores de equipos manipuladores 
+telescópicos y realizar un plan de cierre de 
+brechas detectadas (simulador). •Implementar procedimiento de control de 
+fatiga y somnolencia en lo referido a contar con 
+un medio tecnológico con reportabilidad.
+
+•Supervisores deben validar el uso/operación 
+de equipos previa revisión del resultado de 
+evaluación de test de fatiga y somnolencia, 
+respetando periocidad de 5 horas. •Generar protocolo de descenso/ascenso 
+priorizando los manipuladores telescópicos. Calificación: Evento significativo sin lesión. Control ausente o fallido: CCP1: Conductor competente y autorizado. CCP2: Sistema de gestión de fatiga.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+El liderazgo de la supervisión y su presencia en terreno es una herramienta efectiva para cambiar la 
+cultura y modelar las conductas de los(as) trabajadores(as).Proyecto Diamante
+Gardilcic
+18-06-2024
+Rampa conexión sub nivel NTI conexión 2RC 25
+Pérdida de Control de 
+Maquinaria Industrial 
+Autopropulsada
+129
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 128
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024El operador manipulador de telescópico que 
+se encontraba detenido y con motor operando, 
+reanuda su marcha sin advertir que en su línea 
+de tránsito se encontraba un trabajador que se 
+desplazaba por el lado opuesto de cabina del 
+operador en su punto ciego.
+
+El trabajador es 
+golpeado por estabilizador derecho, cae a piso y 
+es atropellado, falleciendo en el lugar. •Operador realiza ART sin identificar la presencia 
+de peatones en la ruta, definiendo controles 
+de forma genérica. •Trabajador subestima el peligro que involucra 
+desplazarse por el costado opuesto de la 
+cabina exponiéndose a la línea de trayecto del 
+equipo. •Implementación deficiente de controles 
+relacionados a plan de tránsito y evaluación 
+del campo visual de los equipos.
+
+•Modelo de gestión conductual insuficiente, no 
+define medidas que establecen acciones de 
+alta jerarquía que intervengan directamente 
+la eliminación de conductas riesgosas críticas. •Implementar plan de intervención de confirmación 
+de procesos y roles a la supervisión, que permita 
+controlar la calidad de las herramientas preventivas. •Ejecutar un plan de entrenamiento para la 
+supervisión y los trabajadores para la correcta 
+aplicación de los controles críticos en terreno.
+
+•Implementar un plan de formación interno para 
+todos los trabajadores (peatones y operadores), que 
+asegure el entendimiento y aplicación en terreno 
+de las disposiciones del Reglamento de Tránsito. •Evaluar el campo de visión del operador desde 
+la cabina a su entorno para todos los equipos, 
+considerando iluminación, cruces o curvas, 
+interacción con personas, equipos, vehículos e 
+implementar acciones tecnológicas. RC 27
+Interacción de 
+Personas con
+Equipos/Vehículos
+Calificación:
+
+Accidente fatal. Control ausente o fallido: CCP1: Segregación y control de acceso. CCP2: Infraestructura vial y peatonal. CCP6: Sistema anti atropello y advertencia de 
+proximidad.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización, mediante su supervisión en terreno, debe implementar de manera efectiva los 
+controles críticos establecidos, verificando de manera frecuente su cumplimiento para evitar su 
+degradación y corrigiendo inmediatamente en caso de detectar desviaciones.Proyecto Mina Chuquicamata Subterránea
+Consorcio OSSA PIZZAROTTI
+20-07-2022
+Intersección del Túnel 15 de ventilación 
+con ByPass 2
+130
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 131En el momento en que el trabajador se 
+trasladaba con herramientas por caja derecha 
+hacia la calle 27, el equipo de levante se acerca al 
+trabajador en un movimiento, golpeando con el 
+neumático delantero su pierna izquierda.
+
+•Operador de equipo de levante presenta falta 
+de concentración y coordinación. •Metodología de trabajo incompleta, falta 
+determinación correcta del transito del peatón. •Actualización de procedimiento de 
+trabajo y plan de tránsito, incorporando 
+responsabilidades y conductas del operador 
+y de los peatones respecto a los traslados en 
+interior mina. •Implementar ejercicios prácticos en 
+terreno entre operadores y peatones para la 
+identificación de puntos ciegos. Calificación:
+
+Evento significativo sin lesión. Control ausente o fallido: CCP2: Infraestructura vial y peatonal. CCP6: Sistema anti atropello y advertencia de
+proximidad.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+La organización debe reforzar y asegurar el uso de las herramientas preventivas, que permitan 
+trabajar con disciplina operacional, identificando y corrigiendo las conductas riesgosas de los(as) 
+trabajadores(as).Proyecto Andesita
+OSSA
+13-01-2022
+XC Central entre calle 30 FW y 29 FWRC 27
+Interacción de 
+Personas con
+Equipos/Vehículos
+133 132
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Mientras el minicargador realizaba maniobras 
+de esparcimiento y compactación de material 
+de balastro en carpeta, repentinamente pierde 
+el control del equipo, sobrepasando cinta de 
+confinamiento, teniendo contacto con el 
+trabajador que se encontraba fuera del área 
+confinada esperando ingreso al área.
+
+•Desconocimiento de estándar de segregación 
+y normalización de trabajos en espacios 
+acotados (operador). •Desviarse de norma y procedimiento al no 
+respetar las distancias mínimas de operación 
+establecidas (10 metros). •Planificación y evaluación inadecuada al no 
+considerar un equipo para la compactación del 
+material de lastre posterior a su distribución en 
+carpeta.
+
+•Difundir y evaluar el estandar de cinta de 
+confinamiento incluyendo al menos los 
+conceptos de distancia segura a equipos en 
+operación. •Implementar tecnología de sistema 
+antiatropello. •Reformular programa de observación de 
+conducta e incluir dentro del programa de 
+liderazgo de la supervisión las respectivas 
+verificaciones. •Solicitar propuesta de nuevo equipo para 
+la actividad de compactación de carpeta 
+(primera capa balasto). Calificación: Evento significativo sin lesión.
+
+Control ausente o fallido: CCP1: Segregación y control de acceso en áreas 
+de interacción. CCP6: Sistema anti atropello y advertencia de 
+proximidad.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJEProyecto Andesita
+Consorcio FMT BBOSCH
+25-04-2024
+XC HW Teniente 8, Nivel de transporte
+Erradicar las malas prácticas en la operación de maquinarias es clave para generar una cultura 
+preventiva y así evitar potenciales incidentes en el trabajo.RC 27
+Interacción de 
+Personas con
+Equipos/Vehículos
+135 134
+¿El evento puede ocurrir en mi área de trabajo?
+
+¿Los controles ausentes/fallidos y acciones correctivas del 
+evento, aplicables en mi área, están implementadas? ¿Cuáles controles debo implementar para evitar que este 
+evento ocurra en mi área de trabajo?
+
+Difunde y analiza el aprendizaje de este evento con tu 
+equipo de trabajo y empresas contratistas.LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024Helicóptero B3, al momento de retirarse del  
+punto  Ceatolei  Sur W01, con 3  pasajeros ya 
+sentados y asegurados, es alcanzado por una 
+racha de viento  que lo desplaza hacia la ladera, 
+provocando  contacto de las puntas de las  palas 
+del rotor principal con sector de la ladera aledaña.
+
+•El procedimiento establece que el piloto es el 
+responsable final de las decisiones operativas 
+del vuelo. •La organización no releva la importancia de 
+efectuar una planificación que considere el 
+reconocimiento de áreas y comunicación de 
+todos los involucrados en la actividad. •No existe un requerimiento de reportabilidad 
+y/o autorización de lugares no preparados para 
+recoger y dejar pasajeros.
+
+•Incorporar en estándar de vuelos el requisito 
+de experiencia, en horas de vuelo, en el área 
+especifica donde se realiza el servicio. •Resguardar que las  áreas validadas 
+para  aterrizaje  cumplan íntegramente las 
+condiciones de seguridad indicadas en el 
+procedimiento.
+
+•Realizar una planificación temprana, 
+que considere aspectos tales como 
+acondicionamiento de áreas, predicciones 
+meteorológicas, disponibilidad de pilotos senior, 
+supervisión de terreno con experiencia mínima, 
+habitabilidad para pilotos, entre otros. ECF 14
+Vuelos
+Calificación: Evento significativo sin lesión. Control ausente o fallido: No aplica.
+
+DESCRIPCIÓN ANTECEDENTES
+CAUSAS PRINCIPALES ACCIONES CORRECTIVAS
+APRENDIZAJE
+Es fundamental mantener una planificación clara y precisa de los trabajos que se realizarán, 
+considerando hasta los mínimos factores que pueden intervenir en el desarrollo normal de una 
+maniobra.Cartera de Proyectos Andina / DLN 
+Extendido
+Consorcio Trekker Nivogeo (subcontrato 
+Montec)
+09-04-2024
+Cerro Ceatolei W01
+137 136 
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024CALIFICACIÓN DE EVENTOS SIGNIFICATIVOS 
+EVENTO 
+SIGNIFICATIVO:
+
+EVENTO SIGNIFICATIVO 
+SIN LESIONES:EVENTO SIGNIFICATIVO 
+CON LESIONES: EVENTO SIGNIFICATIVO SIN 
+PERSONAS EXPUESTAS:EVENTO SIGNIFICATIVO 
+DE PÉRDIDAS:Evento con el potencial de producir una 
+fatalidad o incapacidad permanente igual 
+o superior a un 40%.
+
+Evento donde no existe, no se 
+implementó o se implementó en forma 
+deficiente un Control Crítico, tiene la 
+capacidad de producir una fatalidad o 
+una incapacidad de tipo permanente 
+igual o superior a un 40%, no resultando 
+con lesiones incapacitantes o sin lesiones, 
+la o las personas involucradas, producto 
+de una situación fortuita o a una acción 
+evasiva realizada.
+
+Este evento se investiga 
+con la herramienta C+ RdP (resolución de 
+problemas) de 8 pasos.Evento donde no existe, no se 
+implementó o se implementó en forma 
+deficiente un Control Crítico, tiene la 
+capacidad de producir una fatalidad o 
+una incapacidad de tipo permanente 
+igual o superior a un 40%, resultando 
+con lesión incapacitante a una o más 
+personas involucradas. Este evento se 
+investiga con el método EVITA.
+
+Evento donde no existe, no se 
+implementó o se implementó en forma 
+deficiente un Control Crítico, tiene la 
+capacidad de producir una fatalidad o 
+una incapacidad de tipo permanente 
+igual o superior a un 40%, pero no 
+existió personal expuesto. Este evento 
+se investiga con la herramienta C+ RdP 
+(resolución de problemas) de 3 pasos.
+
+Evento donde no existe, no se 
+implementó o se implementó en 
+forma deficiente un Control Crítico, que 
+puede generar pérdidas económicas o 
+trastornos relevantes para el proceso, o 
+efectos reputacionales o ambientales 
+significativos.
+
+Este evento se investiga 
+con la herramienta C+ RdP (resolución de 
+problemas) de 8 pasos.1
+32
+54
+139 138 
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024 LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024
+¡Juntos(as) Nos 
+Cuidamos!¿Quieres conocer
+el detalle de los 
+incidentes presentados 
+en este libro? Escanea el código QR
+y accede a todas las 
+investigaciones completas
+LECCIONES PARA APRENDER • EVENTOS SIGNIFICATIVOS 2021 - 2024
+.
+

@@ -1,0 +1,77 @@
+Boletín de Eventos Relevantes N° 05 
+Pérdida de control de minibús
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DESCRIPCIÓN
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+DIVISIÓN/VP
+GERENCIA
+ÁREA/PROCESO
+FECHA
+EMPRESA
+División Radomiro Tomic
+Gerencia Minas
+Superintendencia Minas
+31/07/2024
+Codelco
+Evento significativo sinlesión :Unconductor deminibús pierde el
+control delvehículo transitando por lacarretera delcobre, cruzando
+elejedelacalzada yvolcando hacia ellado derecho . Aprendizajes :
+
+oLos conductores deben garantizar queestán encondiciones
+óptimas para conducir ypermanecer alertas alascondiciones de
+laruta, incluyendo laaparición inesperada deanimales .
+
+oVerificar elcumplimiento de losestándares de fatiga y
+somnolencia, yavanzar en laimplementación de sistemas
+tecnológicos demonitoreo entiempo real.Conducción contra el tránsito en área mina CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+CCP3 –Conducción competente y gestión de conductas
+CCP7 –Sistema de Gestión de fatigaCONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+RC 10 –Pérdida de control de vehículo liviano
+CONTROL CRÍTICO AUSENTE O FALLIDORIESGO CRÍTICO APLICABLE
+Vicepresidencia deProyectos
+Cartera deProyectos Teniente
+Proyecto Andesita –Km36
+28/07/2024
+FMT BBOSCH – Subcontrato LeveringDivisión ElSalvador
+Gerencia deServicios
+Superintendencia Suministros
+15/08/2024
+Esmax Industrial SpA.Evento significativo sinlesión :Eloperador delCAEX 903perdió elcontrol
+del equipo aldescender por larampa ygolpeó laparte trasera del
+CAEX 921ensuespejo ybaranda derecha .
+
+Aprendizajes : oLasupervisión debe asegurar que losoperadores estén capacitados
+para trabajar encondiciones que impliquen cambios oimprevistos .
+
+oLosequipos deplanificación yoperaciones deben incluir todas las
+variables deseguridad ymantenimiento decaminos enlosdiseños
+delrajo, considerando lahumectación yregadío .Evento significativo sinlesión :Elconductor camión decombustible, en
+trayecto hacia Garita, ingresó alárea mina sincambiar depista ala
+izquierda, continuando por lapista derecha .encontrándose defrente
+con camioneta quevenía en sentido contrario, debiendo realizar
+maniobra deevasión para evitar lacolisión . Aprendizajes :
+
+oLasupervisión debe garantizar que losconductores, especialmente
+los que ingresan alárea mina, tengan las competencias y
+conocimientos adecuados . oLos planes detránsito deben estar actualizados, disponibles y
+validados por especialistas mediante una correcta gestión del
+cambio para asegurar undiseño vial adecuado .
+
+APLICABILIDAD
+ APLICABILIDAD
+ APLICABILIDAD Operaciones Mina Rajo
+ Conducción devehículos livianos Conducción devehículos enárea minaInteracción entre CAEXRC 10 –Pérdida de control de vehículo liviano
+CCP1 –Operación competente y gestión de conductas
+CCP3 –Sistema de mantenimiento de infraestructura vial. .RC 25 –Pérdida de control de maquinaria 
+industrial autopropulsada
+CCP2 –Sistema de gestión de tránsito y ruta
+CCP3 –Conducción competente y gestión de conductas
+
