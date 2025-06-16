@@ -17,8 +17,8 @@ with open("metadatos_fragments.json", "r", encoding="utf-8") as f:
     metadatos = json.load(f)
 
 # Cargar modelo de embeddings
-#embedder = SentenceTransformer("all-mpnet-base-v2")
-embedder = SentenceTransformer("paraphrase-MiniLM-L6-v2")
+embedder = SentenceTransformer("all-mpnet-base-v2")
+#embedder = SentenceTransformer("paraphrase-MiniLM-L6-v2")
 
 # Configuración de la app
 st.set_page_config(page_title="MVP Sentinel", layout="wide")
