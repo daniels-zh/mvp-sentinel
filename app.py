@@ -36,7 +36,13 @@ if query:
         D, I = index.search(np.array([query_embedding]), k)
 
         # Recuperar textos más relevantes
-        contexto = "\n".join([metadatos[str(i)]["texto"] for i in I[0]])
+       # contexto = "\n".join([metadatos[str(i)]["texto"] for i in I[0]])
+
+        contexto = "\n".join([
+            metadatos[str(i)]["texto"]
+            for i in I[0]
+            if str(i) in metadatos
+        ])
 
         # Enviar a OpenAI con el contexto
         prompt = f"Responde en base al siguiente contexto:\n{contexto}\n\nPregunta: {query}\nRespuesta:"
