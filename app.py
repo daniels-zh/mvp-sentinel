@@ -3,13 +3,14 @@ import json
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
-import openai
+from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
 # Cargar variables de entorno
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI()
+#openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Cargar índice FAISS y metadatos
 index = faiss.read_index("vector_index_minilm.faiss")
@@ -47,7 +48,7 @@ if query:
         # Enviar a OpenAI con el contexto
         prompt = f"Responde en base al siguiente contexto:\n{contexto}\n\nPregunta: {query}\nRespuesta:"
 
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[
                 {"role": "system", "content": "Eres un experto en minería y normativa industrial."},
@@ -58,4 +59,4 @@ if query:
         )
 
         st.markdown("### 📄 Respuesta:")
-        st.write(response["choices"][0]["message"]["content"])
+        st.write(response.choices[0].message.content)
