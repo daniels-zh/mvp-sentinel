@@ -12,12 +12,13 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Cargar índice FAISS y metadatos
-index = faiss.read_index("vector_index_minilm.faiss")
-with open("metadatos_minilm.json", "r", encoding="utf-8") as f:
+index = faiss.read_index("vector_index.faiss")
+with open("metadatos_fragments.json", "r", encoding="utf-8") as f:
     metadatos = json.load(f)
 
-# Cargar modelo de embeddings (MiniLM compatible con Streamlit Cloud)
-embedder = SentenceTransformer("paraphrase-MiniLM-L6-v2")
+# Cargar modelo de embeddings
+embedder = SentenceTransformer("all-mpnet-base-v2")
+#embedder = SentenceTransformer("paraphrase-MiniLM-L6-v2")
 
 # Configuración de la app
 st.set_page_config(page_title="MVP Sentinel", layout="wide")

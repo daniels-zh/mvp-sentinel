@@ -10,8 +10,7 @@ RUTA_FRAGMENTOS = "context"
 UMBRAL_CARACTERES = 250  # mínimo de caracteres para conservar un fragmento
 NOMBRE_INDICE_FAISS = "vector_index.faiss"
 NOMBRE_METADATOS = "metadatos_fragments.json"
-#MODELO_EMBEDDING = "all-mpnet-base-v2"
-MODELO_EMBEDDING = "paraphrase-MiniLM-L6-v2"
+MODELO_EMBEDDING = "all-mpnet-base-v2"
 
 # Cargar modelo de embeddings
 print("🔄 Cargando modelo all-mpnet-base-v2...")
